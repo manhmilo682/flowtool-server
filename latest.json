@@ -1,9 +1,9 @@
 {
-  "version": "1.0.24",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.24/FlowTool_v1.0.24.zip",
-  "sha256": "5d5231d67748c9f5ab378781c6fb74296c5dd9cf6b5d808f2a4b5c9bbbe61757",
-  "notes": "Rà soát toàn bộ tool, sửa updater/downloader và giảm spam tiến trình tải",
-  "published_at": "2026-05-08T19:06:50Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.24/FlowTool_FULL_v1.0.24.zip",
-  "full_sha256": "40f8d3562fbe9fa8f1972021a92c1ae8d2e789cdf8efd686ef8a062267cda42c"
+  "version": "1.0.25",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.25/FlowTool_v1.0.25.zip",
+  "sha256": "11ae6e65a3cdf8e8d873ddf59108ff963fa54680e06d68f5530034e347848ea6",
+  "notes": "Rà soát kỹ workflow, chặn workflow cũ không tương thích và loại mẫu TikTok cũ khỏi gói full",
+  "published_at": "2026-05-08T19:25:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.25/FlowTool_FULL_v1.0.25.zip",
+  "full_sha256": "72c27512a695d618c8a8fb8736fb078217609e0efcb785eec72884546470ba11"
 }
