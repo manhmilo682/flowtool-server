@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.8/FlowTool_v1.0.8.zip",
-  "sha256": "007cc217d96e75267973346766df60d62bf66a2f9997ae028fd516089db8b498",
-  "notes": "Sửa lỗi Gemini làm giao diện workflow bị thu nhỏ và hiển thị lỗi rõ hơn",
-  "published_at": "2026-05-08T14:30:43Z"
+  "version": "1.0.9",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.9/FlowTool_v1.0.9.zip",
+  "sha256": "be72e2fef87f25795190af63fda5de6b362224f262e419868bc7f11c5c296ecb",
+  "notes": "Hiển thị cửa sổ tiến trình khi cập nhật, không còn tắt im lặng",
+  "published_at": "2026-05-08T14:39:22Z"
 }
