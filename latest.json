@@ -1,9 +1,9 @@
 {
-  "version": "1.0.25",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.25/FlowTool_v1.0.25.zip",
-  "sha256": "11ae6e65a3cdf8e8d873ddf59108ff963fa54680e06d68f5530034e347848ea6",
-  "notes": "Rà soát kỹ workflow, chặn workflow cũ không tương thích và loại mẫu TikTok cũ khỏi gói full",
-  "published_at": "2026-05-08T19:25:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.25/FlowTool_FULL_v1.0.25.zip",
-  "full_sha256": "72c27512a695d618c8a8fb8736fb078217609e0efcb785eec72884546470ba11"
+  "version": "1.0.26",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.26/FlowTool_v1.0.26.zip",
+  "sha256": "2f60c541cf0eaf49f522a0baff5bed64fd430fc2bb3736c1bd33e418b84dca57",
+  "notes": "Sửa lỗi văng app khi kéo node trong canvas ở mức zoom nhỏ",
+  "published_at": "2026-05-08T19:32:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.26/FlowTool_FULL_v1.0.26.zip",
+  "full_sha256": "a8afed47f46c702ede46f02ec4a741f0ec463f3c81241a4e6809a1dbe9a7e47e"
 }
