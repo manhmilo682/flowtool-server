@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.14/FlowTool_v1.0.14.zip",
-  "sha256": "3a3f4a6c350448ec513e0833af585fdce38f47719dc6b6e0304cdd2c26abc0e8",
-  "notes": "Hiển thị ngày giờ hết hạn key trên thanh tab",
-  "published_at": "2026-05-08T15:08:15Z"
+  "version": "1.0.15",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.15/FlowTool_v1.0.15.zip",
+  "sha256": "0a02972f8b5b9c7d6027bda9f46fd979047960b4b8c73d673b5ce7f58e2b09d2",
+  "notes": "Bỏ popup phụ sau khi bấm Yes cập nhật",
+  "published_at": "2026-05-08T15:27:21Z"
 }
