@@ -1,0 +1,13 @@
+{
+  "app": "FlowTool-Milo",
+  "licenses": {
+    "MILO-DEMO-30D": {
+      "customer": "Khach demo",
+      "active": true,
+      "expires": "2026-06-07T23:59:59Z",
+      "allowed_hwids": [],
+      "blocked_hwids": [],
+      "note": "allowed_hwids rong nghia la key dung duoc tren moi may. Them fingerprint day du vao allowed_hwids neu muon khoa theo may."
+    }
+  }
+}
