@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.7/FlowTool_v1.0.7.zip",
-  "sha256": "789575758280da29f9d8c7e9a0b3e54f1642c4cd0c33ae1485c4da9a2e0dfa36",
-  "notes": "Tối ưu tốc độ mở app, tải tab Shopee/TikTok khi cần",
-  "published_at": "2026-05-08T14:07:04Z"
+  "version": "1.0.8",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.8/FlowTool_v1.0.8.zip",
+  "sha256": "007cc217d96e75267973346766df60d62bf66a2f9997ae028fd516089db8b498",
+  "notes": "Sửa lỗi Gemini làm giao diện workflow bị thu nhỏ và hiển thị lỗi rõ hơn",
+  "published_at": "2026-05-08T14:30:43Z"
 }
