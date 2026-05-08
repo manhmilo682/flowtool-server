@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.5/FlowTool_v1.0.5.zip",
-  "sha256": "992d4eadc80406121fe4e4eb01a7184a53a6faf8518dcbcc833df64618099bc0",
-  "notes": "Không ghi đè workflow người dùng khi cập nhật",
-  "published_at": "2026-05-08T13:56:32Z"
+  "version": "1.0.6",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.6/FlowTool_v1.0.6.zip",
+  "sha256": "32956a6700a4643a318ce46f592455c3aa2baa4e6ceb7798ac4d9f4bb1a11d36",
+  "notes": "Sửa nút kiểm tra update và sửa updater tự chạy sau khi bấm Yes",
+  "published_at": "2026-05-08T14:02:08Z"
 }
