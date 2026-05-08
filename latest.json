@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.20/FlowTool_v1.0.20.zip",
-  "sha256": "1c120adb5ce8023640c9e53fcdfaff9a7c8194a0089dd19100901f0f51728429",
-  "notes": "Sửa màu dropdown và Việt hóa phần Quy trình tự động",
-  "published_at": "2026-05-08T18:36:19Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.20/FlowTool_FULL_v1.0.20.zip",
-  "full_sha256": "30fc306b7d425bcc85aafb3d3885d36120286a6d46ffd7932d2cf5f6f3c5fa49"
+  "version": "1.0.21",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.21/FlowTool_v1.0.21.zip",
+  "sha256": "0a66cf7c6a749912be2a0086c84f53a9318f73502267e5ee5fb3ff63d946b0ef",
+  "notes": "Sửa lỗi updater Illegal characters in path khi khôi phục dữ liệu người dùng",
+  "published_at": "2026-05-08T18:41:19Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.21/FlowTool_FULL_v1.0.21.zip",
+  "full_sha256": "3dfc9cebe4b8c69740c3776c470e6ab5f19edc89d872d730d5171d199f9aeaf3"
 }
