@@ -1,9 +1,9 @@
 {
-  "version": "1.0.22",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.22/FlowTool_v1.0.22.zip",
-  "sha256": "bf414db4ca2d8cc9dc6ac385a930ef2a435b466b40f7b2a840ed22dd96d0e05f",
-  "notes": "Cho phép click node bên trái để thêm trực tiếp vào canvas",
-  "published_at": "2026-05-08T18:55:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.22/FlowTool_FULL_v1.0.22.zip",
-  "full_sha256": "ff2afdfb8529ac8591f03cfada05f921179a794652da89f28a2dd3a974f67cd7"
+  "version": "1.0.23",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.23/FlowTool_v1.0.23.zip",
+  "sha256": "4f2de080cb28f5c4bde662993a78317496dbee5c65c5eb5be0724f51e27af8df",
+  "notes": "Sửa updater không còn khôi phục path gây lỗi và không ghi đè dữ liệu người dùng",
+  "published_at": "2026-05-08T19:01:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.23/FlowTool_FULL_v1.0.23.zip",
+  "full_sha256": "eed8ec9bcb7487fc59a52709476224af23586369be1cd5810f769f385c6fdbd0"
 }
