@@ -8,6 +8,15 @@
       "allowed_hwids": [],
       "blocked_hwids": [],
       "note": "allowed_hwids rong nghia la key dung duoc tren moi may. Them fingerprint day du vao allowed_hwids neu muon khoa theo may."
+    },
+    "MILO-T051-8B4O-A4IY": {
+      "customer": "KH_20260508_201425",
+      "active": true,
+      "expires": "2026-05-09T13:14:28.254325Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
