@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.3/FlowTool_v1.0.3.zip",
-  "sha256": "d2c2f8970adf55d2e776825358c803a5a5e833eb9ec17dd39421fa24c352be61",
-  "notes": "Them bind_url de key tu gan voi may dau tien kich hoat",
-  "published_at": "2026-05-08T12:51:15Z"
+  "version": "1.0.4",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.4/FlowTool_v1.0.4.zip",
+  "sha256": "f90125eaa722da21fb09726768ebf4d3b2390cfbb1423fb0ac6df2eefd79e323",
+  "notes": "Sửa màn hình nhập key tiếng Việt có dấu và thông báo lỗi kích hoạt rõ hơn",
+  "published_at": "2026-05-08T13:43:50Z"
 }
