@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.17/FlowTool_v1.0.17.zip",
-  "sha256": "964242f16de2057f166fc104975c08c91a4ff7af82aec2af26da0a5f3891938f",
-  "notes": "Sửa lỗi updater báo xong nhưng chưa chép version mới",
-  "published_at": "2026-05-08T15:38:15Z"
+  "version": "1.0.18",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.18/FlowTool_v1.0.18.zip",
+  "sha256": "965743d0c1ac51ba4c7aee360cfbf277a87515708fd0f5d029f871038b90e0b4",
+  "notes": "Model chạy Flow/Grok quyết định AI dùng khi chạy workflow",
+  "published_at": "2026-05-08T15:49:10Z"
 }
