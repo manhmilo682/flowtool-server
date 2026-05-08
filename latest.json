@@ -1,9 +1,9 @@
 {
-  "version": "1.0.19",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.19/FlowTool_v1.0.19.zip",
-  "sha256": "8d9c308d5059aa8dc34502d658ccf948b660204e844d72477fa7a6b83595c048",
-  "notes": "Sửa chọn Flow/Grok đúng node và tách gói update nhẹ không tải lại tools/runtime",
-  "published_at": "2026-05-08T18:18:03Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.19/FlowTool_FULL_v1.0.19.zip",
-  "full_sha256": "7b72759eedfa0e3f41e731d4a54dabdee49975762a1933a44e49331048a25da0"
+  "version": "1.0.20",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.20/FlowTool_v1.0.20.zip",
+  "sha256": "1c120adb5ce8023640c9e53fcdfaff9a7c8194a0089dd19100901f0f51728429",
+  "notes": "Sửa màu dropdown và Việt hóa phần Quy trình tự động",
+  "published_at": "2026-05-08T18:36:19Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.20/FlowTool_FULL_v1.0.20.zip",
+  "full_sha256": "30fc306b7d425bcc85aafb3d3885d36120286a6d46ffd7932d2cf5f6f3c5fa49"
 }
