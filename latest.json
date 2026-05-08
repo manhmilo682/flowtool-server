@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.23/FlowTool_v1.0.23.zip",
-  "sha256": "4f2de080cb28f5c4bde662993a78317496dbee5c65c5eb5be0724f51e27af8df",
-  "notes": "Sửa updater không còn khôi phục path gây lỗi và không ghi đè dữ liệu người dùng",
-  "published_at": "2026-05-08T19:01:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.23/FlowTool_FULL_v1.0.23.zip",
-  "full_sha256": "eed8ec9bcb7487fc59a52709476224af23586369be1cd5810f769f385c6fdbd0"
+  "version": "1.0.24",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.24/FlowTool_v1.0.24.zip",
+  "sha256": "5d5231d67748c9f5ab378781c6fb74296c5dd9cf6b5d808f2a4b5c9bbbe61757",
+  "notes": "Rà soát toàn bộ tool, sửa updater/downloader và giảm spam tiến trình tải",
+  "published_at": "2026-05-08T19:06:50Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.24/FlowTool_FULL_v1.0.24.zip",
+  "full_sha256": "40f8d3562fbe9fa8f1972021a92c1ae8d2e789cdf8efd686ef8a062267cda42c"
 }
