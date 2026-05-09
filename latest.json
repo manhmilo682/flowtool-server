@@ -1,9 +1,9 @@
 {
-  "version": "1.0.27",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.27/FlowTool_v1.0.27.zip",
-  "sha256": "5b266cb98db3f0415d8502612b91c3888cd2ff3c719b8b293c54d605a496c25e",
-  "notes": "Sửa vị trí node khi click thêm vào canvas ở mức zoom nhỏ, tránh node bị khuất mép trái",
-  "published_at": "2026-05-09T05:41:55Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.27/FlowTool_FULL_v1.0.27.zip",
-  "full_sha256": "a8e2112837f8aec6e2ea3ddb7c303e754737f593e478d44dad548072a7077e01"
+  "version": "1.0.28",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.28/FlowTool_v1.0.28.zip",
+  "sha256": "3da302944be048b3e15036050e1e8850a47262950c01c877a7b9782d0246ec86",
+  "notes": "Sửa lỗi chọn thư mục ảnh hàng loạt, kiểm tra thư mục và ảnh hợp lệ trước khi chạy",
+  "published_at": "2026-05-09T05:46:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.28/FlowTool_FULL_v1.0.28.zip",
+  "full_sha256": "cab43aeacd9f38237f1f614ed567317dc068185cf1081a55199102fd67c0ecc7"
 }
