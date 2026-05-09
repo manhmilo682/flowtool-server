@@ -1,9 +1,9 @@
 {
-  "version": "1.0.29",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.29/FlowTool_v1.0.29.zip",
-  "sha256": "b987f0ad8885e8590625a768a54b25c3ce610c162647dcd9a166ea5da3a4eb2f",
-  "notes": "Sửa updater báo Illegal characters in path khi chép bản mới, copy file update bằng đường dẫn tương đối an toàn hơn",
-  "published_at": "2026-05-09T07:23:14Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.29/FlowTool_FULL_v1.0.29.zip",
-  "full_sha256": "b01e96c0769bb8d9347f67c92ccad1b369d5a79ed634b0cf09abf5b82fd99a2e"
+  "version": "1.0.30",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.30/FlowTool_v1.0.30.zip",
+  "sha256": "8685e61914a6a71c551c33cea91000ef76410af4a3b275bc6456244396fb097f",
+  "notes": "Thêm nút Check thông tin cạnh Mở Chrome TikTok để kiểm tra trạng thái đăng nhập tài khoản",
+  "published_at": "2026-05-09T07:54:26Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.30/FlowTool_FULL_v1.0.30.zip",
+  "full_sha256": "4ad855b20797f2a883ba3e83000fbe8771ee64a7533939aed4d0bdeb994cba80"
 }
