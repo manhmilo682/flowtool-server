@@ -1,9 +1,9 @@
 {
-  "version": "1.0.30",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.30/FlowTool_v1.0.30.zip",
-  "sha256": "8685e61914a6a71c551c33cea91000ef76410af4a3b275bc6456244396fb097f",
-  "notes": "Thêm nút Check thông tin cạnh Mở Chrome TikTok để kiểm tra trạng thái đăng nhập tài khoản",
-  "published_at": "2026-05-09T07:54:26Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.30/FlowTool_FULL_v1.0.30.zip",
-  "full_sha256": "4ad855b20797f2a883ba3e83000fbe8771ee64a7533939aed4d0bdeb994cba80"
+  "version": "1.0.31",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.31/FlowTool_v1.0.31.zip",
+  "sha256": "3b24d2979f07599aa5d088060c67b8bd7a1711897508be00019a422fb0ee6427",
+  "notes": "Sửa triệt để updater lỗi System.Char khi copy file update",
+  "published_at": "2026-05-09T08:05:52Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.31/FlowTool_FULL_v1.0.31.zip",
+  "full_sha256": "b25837a5f7c489d8e453a2d9417a003dd4130c992418a48d734b9a68540152d9"
 }
