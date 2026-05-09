@@ -1,9 +1,9 @@
 {
-  "version": "1.0.26",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.26/FlowTool_v1.0.26.zip",
-  "sha256": "2f60c541cf0eaf49f522a0baff5bed64fd430fc2bb3736c1bd33e418b84dca57",
-  "notes": "Sửa lỗi văng app khi kéo node trong canvas ở mức zoom nhỏ",
-  "published_at": "2026-05-08T19:32:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.26/FlowTool_FULL_v1.0.26.zip",
-  "full_sha256": "a8afed47f46c702ede46f02ec4a741f0ec463f3c81241a4e6809a1dbe9a7e47e"
+  "version": "1.0.27",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.27/FlowTool_v1.0.27.zip",
+  "sha256": "5b266cb98db3f0415d8502612b91c3888cd2ff3c719b8b293c54d605a496c25e",
+  "notes": "Sửa vị trí node khi click thêm vào canvas ở mức zoom nhỏ, tránh node bị khuất mép trái",
+  "published_at": "2026-05-09T05:41:55Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.27/FlowTool_FULL_v1.0.27.zip",
+  "full_sha256": "a8e2112837f8aec6e2ea3ddb7c303e754737f593e478d44dad548072a7077e01"
 }
