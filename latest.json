@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.31/FlowTool_v1.0.31.zip",
-  "sha256": "3b24d2979f07599aa5d088060c67b8bd7a1711897508be00019a422fb0ee6427",
-  "notes": "Sửa triệt để updater lỗi System.Char khi copy file update",
-  "published_at": "2026-05-09T08:05:52Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.31/FlowTool_FULL_v1.0.31.zip",
-  "full_sha256": "b25837a5f7c489d8e453a2d9417a003dd4130c992418a48d734b9a68540152d9"
+  "version": "1.0.32",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.32/FlowTool_v1.0.32.zip",
+  "sha256": "b0068d43f42514451d61705a6060b0de6f40d1ae0e590dc3d90376bd57c7b554",
+  "notes": "Sửa đọc license online qua GitHub API để tránh cache raw làm key mới chưa nhận ngày hết hạn",
+  "published_at": "2026-05-09T17:34:52Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.32/FlowTool_FULL_v1.0.32.zip",
+  "full_sha256": "9834d6286618cef08f89c1c8f666d7509bda22be0d7d843af4a64df7fe6dc626"
 }
