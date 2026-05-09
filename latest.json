@@ -1,9 +1,9 @@
 {
-  "version": "1.0.33",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.33/FlowTool_v1.0.33.zip",
-  "sha256": "0ce81be03a1a4f9a7bc0723a801371da87a87ffee7e989bdf291096770784ccd",
-  "notes": "Sửa canvas workflow bị lệch/khuất node sau khi mở app, thêm nút Toàn cảnh trên thanh workflow",
-  "published_at": "2026-05-09T17:44:29Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.33/FlowTool_FULL_v1.0.33.zip",
-  "full_sha256": "b802d461293e37f80d1c0c70c7b0c71d759c3b6d787506ba91f42eed0d45aecd"
+  "version": "1.0.34",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.34/FlowTool_v1.0.34.zip",
+  "sha256": "4abc1e08d5913d592b84f575c20e0e2e3fe5c83c961e9e98016cc29850d6ce14",
+  "notes": "Đưa nút thu phóng workflow lên thanh trên cùng để luôn nhìn thấy",
+  "published_at": "2026-05-09T17:47:57Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.34/FlowTool_FULL_v1.0.34.zip",
+  "full_sha256": "4919cda56851c59e7fbcc0300da2a702cab8966df939c3a5fe995325f73b6e31"
 }
