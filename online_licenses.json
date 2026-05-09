@@ -15,8 +15,12 @@
       "expires": "2026-05-09T13:14:28.254325Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [],
-      "blocked_hwids": []
+      "allowed_hwids": [
+        "B77C22907CFDDAF9145666B3B9CCF7D4FD0F5A7434BF9D31898E76F61494C387"
+      ],
+      "blocked_hwids": [],
+      "bound_at": "2026-05-09T05:33:56.750Z",
+      "last_machine_code": "B77C-2290-7CFD-DAF9-1456"
     }
   }
 }
