@@ -1,9 +1,9 @@
 {
-  "version": "1.0.28",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.28/FlowTool_v1.0.28.zip",
-  "sha256": "3da302944be048b3e15036050e1e8850a47262950c01c877a7b9782d0246ec86",
-  "notes": "Sửa lỗi chọn thư mục ảnh hàng loạt, kiểm tra thư mục và ảnh hợp lệ trước khi chạy",
-  "published_at": "2026-05-09T05:46:20Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.28/FlowTool_FULL_v1.0.28.zip",
-  "full_sha256": "cab43aeacd9f38237f1f614ed567317dc068185cf1081a55199102fd67c0ecc7"
+  "version": "1.0.29",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.29/FlowTool_v1.0.29.zip",
+  "sha256": "b987f0ad8885e8590625a768a54b25c3ce610c162647dcd9a166ea5da3a4eb2f",
+  "notes": "Sửa updater báo Illegal characters in path khi chép bản mới, copy file update bằng đường dẫn tương đối an toàn hơn",
+  "published_at": "2026-05-09T07:23:14Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.29/FlowTool_FULL_v1.0.29.zip",
+  "full_sha256": "b01e96c0769bb8d9347f67c92ccad1b369d5a79ed634b0cf09abf5b82fd99a2e"
 }
