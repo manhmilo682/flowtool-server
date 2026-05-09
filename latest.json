@@ -1,9 +1,9 @@
 {
-  "version": "1.0.36",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.36/FlowTool_v1.0.36.zip",
-  "sha256": "d5b19a032c4bbbf8281b5c20441158486047c951cb194126adcbd002e7f33f67",
-  "notes": "Sửa lỗi updater báo Illegal characters in path khi chép bản mới",
-  "published_at": "2026-05-09T17:59:02Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.36/FlowTool_FULL_v1.0.36.zip",
-  "full_sha256": "7e7d0a549851098e63480bc4e6327212ae7088b97ab2a654d80df6e1c6dabb97"
+  "version": "1.0.37",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.37/FlowTool_v1.0.37.zip",
+  "sha256": "f6f2a1a7af1b30bfb15549993afff057804717237d0b5aa6642f6bca3b91faeb",
+  "notes": "Bỏ nút kiểm tra update riêng trong tab Shopee, chỉ giữ nút update chung trên thanh tab",
+  "published_at": "2026-05-09T18:05:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.37/FlowTool_FULL_v1.0.37.zip",
+  "full_sha256": "4e44da9721713769b2969d4c645dcf6cf4cde60fbb1aa06ee1c330096c7fada8"
 }
