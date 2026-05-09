@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.34/FlowTool_v1.0.34.zip",
-  "sha256": "4abc1e08d5913d592b84f575c20e0e2e3fe5c83c961e9e98016cc29850d6ce14",
-  "notes": "Đưa nút thu phóng workflow lên thanh trên cùng để luôn nhìn thấy",
-  "published_at": "2026-05-09T17:47:57Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.34/FlowTool_FULL_v1.0.34.zip",
-  "full_sha256": "4919cda56851c59e7fbcc0300da2a702cab8966df939c3a5fe995325f73b6e31"
+  "version": "1.0.35",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.35/FlowTool_v1.0.35.zip",
+  "sha256": "7cf0e4fd68d6b4fb9466a36a0ab1a17b50833709fdfe53c67bd53a3875048feb",
+  "notes": "Chuyển nút kiểm tra update lên thanh tab chung, nằm bên trái thông tin hạn key để tab nào cũng thấy",
+  "published_at": "2026-05-09T17:53:00Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.35/FlowTool_FULL_v1.0.35.zip",
+  "full_sha256": "46c3c78340d585f3fcaf543bd6fe3ae6550748f0d3ca556c750571ccacbdcb43"
 }
