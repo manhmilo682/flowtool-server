@@ -1,9 +1,9 @@
 {
-  "version": "1.0.69",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.69/FlowTool_v1.0.69.zip",
-  "sha256": "2612c69ee2f2bfd5012adecc0c1d2582ecbcb21af2229b6ed95580c9f6e7bffa",
-  "notes": "Sua update extension captcha: goi nhe cap nhat AntiCaptcha va ep Chrome load extension da patch",
-  "published_at": "2026-05-10T17:09:45Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.69/FlowTool_FULL_v1.0.69.zip",
-  "full_sha256": "6236351933b36ea183243743826d5390954734860e3dd4c6bee1d80f2750114e"
+  "version": "1.0.70",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.70/FlowTool_v1.0.70.zip",
+  "sha256": "0e14e68ede926c69c373119f25f343cf7d7a5c2f93f81216cb03e03af393a55f",
+  "notes": "Cap nhat trang thai TikTok: Da quet anh va Video da hoan chinh",
+  "published_at": "2026-05-10T17:16:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.70/FlowTool_FULL_v1.0.70.zip",
+  "full_sha256": "e64e86047a30102f47ca42474897672ea8cf240cea9b7d31d58afdc6d33c3205"
 }
