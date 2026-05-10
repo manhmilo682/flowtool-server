@@ -1,9 +1,9 @@
 {
-  "version": "1.0.53",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.53/FlowTool_v1.0.53.zip",
-  "sha256": "68e0d1ef61fc3a4dc1b47b69a7765c81491b143f244e16ee459a8f99aeea42f8",
-  "notes": "Sua loi bam Quet san pham bang Chrome lam mo them mot cua so tool moi. EXE bay gio nhan ca script pyc va chay tac vu quet o che do nen.",
-  "published_at": "2026-05-10T14:16:11Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.53/FlowTool_FULL_v1.0.53.zip",
-  "full_sha256": "0055b62c7413df001d9b398a2278777b47f747665780c0b9a7dbc10513f46ca7"
+  "version": "1.0.54",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.54/FlowTool_v1.0.54.zip",
+  "sha256": "6532e04b6fee8e42cb0c17f110e3c6941a9dc6850a1e304073ad2f29ebe5b389",
+  "notes": "Sua loi Playwright timeout khi bam nut Add/Next trong quet san pham TikTok Chrome. Script cho nut xuat hien theo vong ngan, click fallback bang JavaScript va log ro tien do.",
+  "published_at": "2026-05-10T14:27:07Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.54/FlowTool_FULL_v1.0.54.zip",
+  "full_sha256": "9690a7408718acdc67046f6a9058ed32e55e23a139ee2465c27ab056264d5167"
 }
