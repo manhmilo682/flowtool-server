@@ -1,9 +1,9 @@
 {
-  "version": "1.0.47",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.47/FlowTool_v1.0.47.zip",
-  "sha256": "07021329e40f996ce2aa5cbade1fe34c2d78a0ba22e86c6da4f22081288db4fb",
-  "notes": "Sua dut diem font tieu de va nut trong popup chon thu muc bang nguon chu UTF-8 chuan qua bo dich noi bo.",
-  "published_at": "2026-05-10T08:08:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.47/FlowTool_FULL_v1.0.47.zip",
-  "full_sha256": "9fae2070bc95f04d41c6d450cae6a4fc6cc3641ceafdec6121ef91273a0b2932"
+  "version": "1.0.48",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.48/FlowTool_v1.0.48.zip",
+  "sha256": "65b7cf5b73597ddb32b90ad630af4a04ebd540e2589f95ae247b83290d817465",
+  "notes": "Them phan quyen key Basic/Premium. Premium dung toan bo tool, Basic khoa tab Shopee, Tiktok va Tai khoan TikTok.",
+  "published_at": "2026-05-10T10:06:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.48/FlowTool_FULL_v1.0.48.zip",
+  "full_sha256": "88336d1c9eba741441cc369359ea955ee1316571ed4af5f4e94392ab6fdb83e0"
 }
