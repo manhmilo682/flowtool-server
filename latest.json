@@ -1,9 +1,9 @@
 {
-  "version": "1.0.40",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.40/FlowTool_v1.0.40.zip",
-  "sha256": "a6750d653efa4285d3a6b75654141f7dd9a3891652eed6efd236a54535168d64",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-10T02:06:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.40/FlowTool_FULL_v1.0.40.zip",
-  "full_sha256": "444b3a9a7cd0c12f8c9562b4bf8e6b4ecd0266888ae20cf20bd4334e1eef7154"
+  "version": "1.0.41",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.41/FlowTool_v1.0.41.zip",
+  "sha256": "b9b1bbb694983194bf8af5063eb8c689be97cf7365c06453e3dbb691390e20e5",
+  "notes": "Sửa lỗi generator updater làm mất dấu gạch chéo đường dẫn khiến robocopy chỉ thấy ổ C",
+  "published_at": "2026-05-10T02:34:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.41/FlowTool_FULL_v1.0.41.zip",
+  "full_sha256": "a89848eba782fd50a4cf049ed8da90bcd11f902dc60466f2bbc06adeb018a5f6"
 }
