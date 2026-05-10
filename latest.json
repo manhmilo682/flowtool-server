@@ -1,9 +1,9 @@
 {
-  "version": "1.0.48",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.48/FlowTool_v1.0.48.zip",
-  "sha256": "65b7cf5b73597ddb32b90ad630af4a04ebd540e2589f95ae247b83290d817465",
-  "notes": "Them phan quyen key Basic/Premium. Premium dung toan bo tool, Basic khoa tab Shopee, Tiktok va Tai khoan TikTok.",
-  "published_at": "2026-05-10T10:06:51Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.48/FlowTool_FULL_v1.0.48.zip",
-  "full_sha256": "88336d1c9eba741441cc369359ea955ee1316571ed4af5f4e94392ab6fdb83e0"
+  "version": "1.0.49",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.49/FlowTool_v1.0.49.zip",
+  "sha256": "adaefd8687de948df2f89c15db4da7ffb497576575c88d959c58f620277253df",
+  "notes": "Sua loi sau update tai khoan TikTok bi hien nham sang bang Flow. Database tu normalize provider moi lan doc danh sach tai khoan.",
+  "published_at": "2026-05-10T10:16:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.49/FlowTool_FULL_v1.0.49.zip",
+  "full_sha256": "1c126eb393f1856a59ae2e50b2a4dff2f38af9b599933d71904b981bdc6d8d25"
 }
