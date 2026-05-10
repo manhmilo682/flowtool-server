@@ -1,9 +1,9 @@
 {
-  "version": "1.0.59",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.59/FlowTool_v1.0.59.zip",
-  "sha256": "89e5f9a965a568826a4496829fcbcc120ed4c9aacec3ad41ec604edb96626a24",
-  "notes": "Sua loi Quet san pham TikTok Chrome ghi registry nham cho trong ban dong goi. Script bay gio ghi truc tiep vao FlowTool/data/tiktok_collected_links.json; loai file du lieu quet khoi goi update/full de khong ghi de du lieu nguoi dung.",
-  "published_at": "2026-05-10T15:16:19Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.59/FlowTool_FULL_v1.0.59.zip",
-  "full_sha256": "d20aad8cf2f846219f47867384f2f88843ee55b8ee6b4a376e5f0685a357e447"
+  "version": "1.0.60",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.60/FlowTool_v1.0.60.zip",
+  "sha256": "8edd1a6af4d4b540f233fbfe778cb47df56bad9cdb74659d53aa735fc4ca553a",
+  "notes": "Sua link san pham TikTok Chrome sang shop.tiktok.com/vn/pdp",
+  "published_at": "2026-05-10T15:29:38Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.60/FlowTool_FULL_v1.0.60.zip",
+  "full_sha256": "717e2c4bfac6041a3b4830b0482636a54e53cbb5f637803c0d61ea790973e75f"
 }
