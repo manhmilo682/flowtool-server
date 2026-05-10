@@ -1,9 +1,9 @@
 {
-  "version": "1.0.46",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.46/FlowTool_v1.0.46.zip",
-  "sha256": "1f967912ebad00eed3067e53128602b6de8253b1255c056ba0b47c8e4716db22",
-  "notes": "Sua popup chon file/thu muc thanh cua so doc lap khong bi zoom theo node va tu sua chu tieng Viet bi loi encoding UTF-8.",
-  "published_at": "2026-05-10T08:02:05Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.46/FlowTool_FULL_v1.0.46.zip",
-  "full_sha256": "4e67db0da2a7b3461760dc1040b3f7776152f6710a6010dc968952dde3aace3a"
+  "version": "1.0.47",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.47/FlowTool_v1.0.47.zip",
+  "sha256": "07021329e40f996ce2aa5cbade1fe34c2d78a0ba22e86c6da4f22081288db4fb",
+  "notes": "Sua dut diem font tieu de va nut trong popup chon thu muc bang nguon chu UTF-8 chuan qua bo dich noi bo.",
+  "published_at": "2026-05-10T08:08:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.47/FlowTool_FULL_v1.0.47.zip",
+  "full_sha256": "9fae2070bc95f04d41c6d450cae6a4fc6cc3641ceafdec6121ef91273a0b2932"
 }
