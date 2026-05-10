@@ -1,9 +1,9 @@
 {
-  "version": "1.0.71",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.71/FlowTool_v1.0.71.zip",
-  "sha256": "4d4669f3ae4c16be12600db552aee6d0b85d6543863324c6f72e795bc836b249",
-  "notes": "Sua chay workflow TikTok: bo qua selection vo tinh khi So video lon hon so dong dang chon",
-  "published_at": "2026-05-10T17:32:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.71/FlowTool_FULL_v1.0.71.zip",
-  "full_sha256": "a0d89652f6ec7532abc02c9b4a482f59a2ab8475e93be3715b937f31386d5599"
+  "version": "1.0.72",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.72/FlowTool_v1.0.72.zip",
+  "sha256": "f862a468851df66942ffcb534a5dda778446b6e2e415e42065afaaace2ccb7d3",
+  "notes": "Luu va dong bo model chay Flow/Grok lan chon cuoi",
+  "published_at": "2026-05-10T17:37:32Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.72/FlowTool_FULL_v1.0.72.zip",
+  "full_sha256": "bdb881316cdb75d5831e9b81530e7083d1df096c0496942f1f8e2eae4b23ee1c"
 }
