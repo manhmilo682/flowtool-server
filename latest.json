@@ -1,9 +1,9 @@
 {
-  "version": "1.0.45",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.45/FlowTool_v1.0.45.zip",
-  "sha256": "35dfa4fbf11dd227ad641bdb9c95c64ea7857b98e11f0aa544dea778ee35f632",
-  "notes": "Thay popup chon file/thu muc cua Windows bang dialog noi bo trong tool de khong lam canvas bi vang/le khi mo popup.",
-  "published_at": "2026-05-10T07:54:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.45/FlowTool_FULL_v1.0.45.zip",
-  "full_sha256": "b9531114bbf9eb025981f27c8f927c88c1b5bc4c104e4f639d0d7be094973316"
+  "version": "1.0.46",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.46/FlowTool_v1.0.46.zip",
+  "sha256": "1f967912ebad00eed3067e53128602b6de8253b1255c056ba0b47c8e4716db22",
+  "notes": "Sua popup chon file/thu muc thanh cua so doc lap khong bi zoom theo node va tu sua chu tieng Viet bi loi encoding UTF-8.",
+  "published_at": "2026-05-10T08:02:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.46/FlowTool_FULL_v1.0.46.zip",
+  "full_sha256": "4e67db0da2a7b3461760dc1040b3f7776152f6710a6010dc968952dde3aace3a"
 }
