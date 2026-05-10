@@ -1,9 +1,9 @@
 {
-  "version": "1.0.70",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.70/FlowTool_v1.0.70.zip",
-  "sha256": "0e14e68ede926c69c373119f25f343cf7d7a5c2f93f81216cb03e03af393a55f",
-  "notes": "Cap nhat trang thai TikTok: Da quet anh va Video da hoan chinh",
-  "published_at": "2026-05-10T17:16:06Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.70/FlowTool_FULL_v1.0.70.zip",
-  "full_sha256": "e64e86047a30102f47ca42474897672ea8cf240cea9b7d31d58afdc6d33c3205"
+  "version": "1.0.71",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.71/FlowTool_v1.0.71.zip",
+  "sha256": "4d4669f3ae4c16be12600db552aee6d0b85d6543863324c6f72e795bc836b249",
+  "notes": "Sua chay workflow TikTok: bo qua selection vo tinh khi So video lon hon so dong dang chon",
+  "published_at": "2026-05-10T17:32:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.71/FlowTool_FULL_v1.0.71.zip",
+  "full_sha256": "a0d89652f6ec7532abc02c9b4a482f59a2ab8475e93be3715b937f31386d5599"
 }
