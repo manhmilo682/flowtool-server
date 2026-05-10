@@ -1,9 +1,9 @@
 {
-  "version": "1.0.42",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.42/FlowTool_v1.0.42.zip",
-  "sha256": "7767f1cf00d2caa89fd3e412bfa0058283f3457a73abcc86e37b4d0b5d1e314d",
-  "notes": "Sửa triệt để lỗi key mới chưa có ngày hết hạn khi kích hoạt lần đầu",
-  "published_at": "2026-05-10T06:13:38Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.42/FlowTool_FULL_v1.0.42.zip",
-  "full_sha256": "22ce528a0c2706fdf5cb41d52b5837fa0eb7d98bf620283741d21a75524b8983"
+  "version": "1.0.43",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.43/FlowTool_v1.0.43.zip",
+  "sha256": "b0c7ba417e1275528ae8334342c61ee3e248e180a29bdd71a088de7bdfdf931a",
+  "notes": "Tự tách lại tài khoản TikTok bị lưu nhầm sang Flow",
+  "published_at": "2026-05-10T06:19:48Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.43/FlowTool_FULL_v1.0.43.zip",
+  "full_sha256": "7b42a3c1fb8d60b815240bb449bffa2aa5d3bf4fa97c8b392bf0883867f5d2ba"
 }
