@@ -1,9 +1,9 @@
 {
-  "version": "1.0.41",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.41/FlowTool_v1.0.41.zip",
-  "sha256": "b9b1bbb694983194bf8af5063eb8c689be97cf7365c06453e3dbb691390e20e5",
-  "notes": "Sửa lỗi generator updater làm mất dấu gạch chéo đường dẫn khiến robocopy chỉ thấy ổ C",
-  "published_at": "2026-05-10T02:34:47Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.41/FlowTool_FULL_v1.0.41.zip",
-  "full_sha256": "a89848eba782fd50a4cf049ed8da90bcd11f902dc60466f2bbc06adeb018a5f6"
+  "version": "1.0.42",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.42/FlowTool_v1.0.42.zip",
+  "sha256": "7767f1cf00d2caa89fd3e412bfa0058283f3457a73abcc86e37b4d0b5d1e314d",
+  "notes": "Sửa triệt để lỗi key mới chưa có ngày hết hạn khi kích hoạt lần đầu",
+  "published_at": "2026-05-10T06:13:38Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.42/FlowTool_FULL_v1.0.42.zip",
+  "full_sha256": "22ce528a0c2706fdf5cb41d52b5837fa0eb7d98bf620283741d21a75524b8983"
 }
