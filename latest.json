@@ -1,9 +1,9 @@
 {
-  "version": "1.0.68",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.68/FlowTool_v1.0.68.zip",
-  "sha256": "519a596c3b89a13c2ee5ae6ba439e5226778f196f41f2651bc724f194e1c8fc0",
-  "notes": "Cap nhat extension captcha keo cham va giu 1 giay truoc khi tha",
-  "published_at": "2026-05-10T17:02:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.68/FlowTool_FULL_v1.0.68.zip",
-  "full_sha256": "2f5498b92e5dfed575f1e35e7ea1eee4d285abec947ebc898747ceb55a3bf273"
+  "version": "1.0.69",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.69/FlowTool_v1.0.69.zip",
+  "sha256": "2612c69ee2f2bfd5012adecc0c1d2582ecbcb21af2229b6ed95580c9f6e7bffa",
+  "notes": "Sua update extension captcha: goi nhe cap nhat AntiCaptcha va ep Chrome load extension da patch",
+  "published_at": "2026-05-10T17:09:45Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.69/FlowTool_FULL_v1.0.69.zip",
+  "full_sha256": "6236351933b36ea183243743826d5390954734860e3dd4c6bee1d80f2750114e"
 }
