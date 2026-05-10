@@ -1,9 +1,9 @@
 {
-  "version": "1.0.66",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.66/FlowTool_v1.0.66.zip",
-  "sha256": "223a98295b03e92b9206825cb4df34632eaf1df63d9745395f6fa0aaee66e826",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-10T16:43:53Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.66/FlowTool_FULL_v1.0.66.zip",
-  "full_sha256": "56ff25cb1153d53aa1013c58d9d1167f72912ae77f5ba1c923e8f479118c7365"
+  "version": "1.0.67",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.67/FlowTool_v1.0.67.zip",
+  "sha256": "e3e4872e3c733c258ee93026af5774c2208062ea217e15d61e4eed85ac61f707",
+  "notes": "Cap nhat menu chuot phai xoa anh video va sua log quet anh TikTok",
+  "published_at": "2026-05-10T16:53:21Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.67/FlowTool_FULL_v1.0.67.zip",
+  "full_sha256": "3a867b5ba542c954361d1598fe0d1cc064675046bc9c3deb70d74c6f390f53e4"
 }
