@@ -1,9 +1,9 @@
 {
-  "version": "1.0.44",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.44/FlowTool_v1.0.44.zip",
-  "sha256": "9c37bf3efd29d33fbe78e66bdc706241ce94eb543c5a18520b1c71565584f094",
-  "notes": "Sửa lỗi popup mở file/thông báo làm canvas workflow bị văng hoặc trắng màn hình",
-  "published_at": "2026-05-10T07:07:00Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.44/FlowTool_FULL_v1.0.44.zip",
-  "full_sha256": "0053d2757f4643620165430ec07067220696b1713c2ef295b94364ba445748b5"
+  "version": "1.0.45",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.45/FlowTool_v1.0.45.zip",
+  "sha256": "35dfa4fbf11dd227ad641bdb9c95c64ea7857b98e11f0aa544dea778ee35f632",
+  "notes": "Thay popup chon file/thu muc cua Windows bang dialog noi bo trong tool de khong lam canvas bi vang/le khi mo popup.",
+  "published_at": "2026-05-10T07:54:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.45/FlowTool_FULL_v1.0.45.zip",
+  "full_sha256": "b9531114bbf9eb025981f27c8f927c88c1b5bc4c104e4f639d0d7be094973316"
 }
