@@ -1,9 +1,9 @@
 {
-  "version": "1.0.51",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.51/FlowTool_v1.0.51.zip",
-  "sha256": "217da510b78aad1dc84c87d11e5a589b055948a5aee6405b75bb87a8308dddb7",
-  "notes": "Them script rieng quet san pham TikTok bang Chrome Studio. Upload video mau khong mo popup Windows, lay Product ID theo tung trang va luu rieng theo username tai khoan TikTok.",
-  "published_at": "2026-05-10T14:00:46Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.51/FlowTool_FULL_v1.0.51.zip",
-  "full_sha256": "141f69e4d4f33a98db184e9c1526f3f38ebe70a43045f16b1938661151f4c9d3"
+  "version": "1.0.52",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.52/FlowTool_v1.0.52.zip",
+  "sha256": "ae5223d404bb741054a79272270e9889ca1901033a35d02e29b9b1c89818b3ac",
+  "notes": "Sua loi nut Quet san pham bang Chrome bao thieu file khi script da duoc bao ve thanh pyc trong ban dong goi.",
+  "published_at": "2026-05-10T14:08:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.52/FlowTool_FULL_v1.0.52.zip",
+  "full_sha256": "f84c396c799229beb589fad8e3a8f5000d0e175ad09c435ebdddde0c067d3dbd"
 }
