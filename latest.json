@@ -1,9 +1,9 @@
 {
-  "version": "1.0.63",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.63/FlowTool_v1.0.63.zip",
-  "sha256": "42881cda2af92a10d1fcd3ca16ba6c634d883140146058475b0a08c2b4336830",
-  "notes": "Doi ten nut Chrome trong tab TikTok thanh Quet ID san pham",
-  "published_at": "2026-05-10T15:57:11Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.63/FlowTool_FULL_v1.0.63.zip",
-  "full_sha256": "a50413adf0e43578d71114221f7a6754a4e2945b1c4cadd5afb06ccc3c4871c9"
+  "version": "1.0.64",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.64/FlowTool_v1.0.64.zip",
+  "sha256": "a8706422733c29b9e3704c79ff7ac4144662deb175461ec256e51c315147cfe3",
+  "notes": "Them nut Quet anh san pham TikTok theo slot bang Chrome",
+  "published_at": "2026-05-10T16:14:49Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.64/FlowTool_FULL_v1.0.64.zip",
+  "full_sha256": "dc8ac7c7187af1b49bdb5a02fc5fad3e162538f1d1e607f6dc438c86c80eaf54"
 }
