@@ -1,9 +1,9 @@
 {
-  "version": "1.0.67",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.67/FlowTool_v1.0.67.zip",
-  "sha256": "e3e4872e3c733c258ee93026af5774c2208062ea217e15d61e4eed85ac61f707",
-  "notes": "Cap nhat menu chuot phai xoa anh video va sua log quet anh TikTok",
-  "published_at": "2026-05-10T16:53:21Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.67/FlowTool_FULL_v1.0.67.zip",
-  "full_sha256": "3a867b5ba542c954361d1598fe0d1cc064675046bc9c3deb70d74c6f390f53e4"
+  "version": "1.0.68",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.68/FlowTool_v1.0.68.zip",
+  "sha256": "519a596c3b89a13c2ee5ae6ba439e5226778f196f41f2651bc724f194e1c8fc0",
+  "notes": "Cap nhat extension captcha keo cham va giu 1 giay truoc khi tha",
+  "published_at": "2026-05-10T17:02:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.68/FlowTool_FULL_v1.0.68.zip",
+  "full_sha256": "2f5498b92e5dfed575f1e35e7ea1eee4d285abec947ebc898747ceb55a3bf273"
 }
