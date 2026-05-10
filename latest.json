@@ -1,9 +1,9 @@
 {
-  "version": "1.0.43",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.43/FlowTool_v1.0.43.zip",
-  "sha256": "b0c7ba417e1275528ae8334342c61ee3e248e180a29bdd71a088de7bdfdf931a",
-  "notes": "Tự tách lại tài khoản TikTok bị lưu nhầm sang Flow",
-  "published_at": "2026-05-10T06:19:48Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.43/FlowTool_FULL_v1.0.43.zip",
-  "full_sha256": "7b42a3c1fb8d60b815240bb449bffa2aa5d3bf4fa97c8b392bf0883867f5d2ba"
+  "version": "1.0.44",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.44/FlowTool_v1.0.44.zip",
+  "sha256": "9c37bf3efd29d33fbe78e66bdc706241ce94eb543c5a18520b1c71565584f094",
+  "notes": "Sửa lỗi popup mở file/thông báo làm canvas workflow bị văng hoặc trắng màn hình",
+  "published_at": "2026-05-10T07:07:00Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.44/FlowTool_FULL_v1.0.44.zip",
+  "full_sha256": "0053d2757f4643620165430ec07067220696b1713c2ef295b94364ba445748b5"
 }
