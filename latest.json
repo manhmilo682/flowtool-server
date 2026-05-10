@@ -1,9 +1,9 @@
 {
-  "version": "1.0.56",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.56/FlowTool_v1.0.56.zip",
-  "sha256": "4a4729a601a92f606be98821d3a73eb09566ed7990b2f2fe1a39c2ad89687654",
-  "notes": "Sau khi Quet san pham bang Chrome thanh cong, tu dong cap nhat Product ID vao bang dieu khien TikTok thanh cac slot Da quet, khong tao trung theo username TikTok.",
-  "published_at": "2026-05-10T14:43:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.56/FlowTool_FULL_v1.0.56.zip",
-  "full_sha256": "cb466d91c43645d66d1a6e0bbb4dd6309f6f212d895fa5add42170c3437f442d"
+  "version": "1.0.57",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.57/FlowTool_v1.0.57.zip",
+  "sha256": "017ad7ab1a87c5bba7fba00ac67f6b23411fcfa5f0c7d37c3d627b31ae1493c7",
+  "notes": "Sua tinh trang sau khi quet san pham TikTok Chrome bi treo lau o buoc lam moi bang. Refresh bang du lieu chuyen sang signal UI thread, bo ghi registry trong luc refresh, va tu sua slot bi thieu cho ID da ton tai.",
+  "published_at": "2026-05-10T14:56:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.57/FlowTool_FULL_v1.0.57.zip",
+  "full_sha256": "7566fc44f444786778194e4ddfc4ff9f0daac18b234aae88592bf0fa5563c172"
 }
