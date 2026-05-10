@@ -1,9 +1,9 @@
 {
-  "version": "1.0.60",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.60/FlowTool_v1.0.60.zip",
-  "sha256": "8edd1a6af4d4b540f233fbfe778cb47df56bad9cdb74659d53aa735fc4ca553a",
-  "notes": "Sua link san pham TikTok Chrome sang shop.tiktok.com/vn/pdp",
-  "published_at": "2026-05-10T15:29:38Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.60/FlowTool_FULL_v1.0.60.zip",
-  "full_sha256": "717e2c4bfac6041a3b4830b0482636a54e53cbb5f637803c0d61ea790973e75f"
+  "version": "1.0.61",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.61/FlowTool_v1.0.61.zip",
+  "sha256": "e49d21fea6d81e7ded68a5e702750c31e26cc9e0d6445a0d2e4d100f3ea8448f",
+  "notes": "Them cot Username truoc Link SP trong bang TikTok",
+  "published_at": "2026-05-10T15:34:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.61/FlowTool_FULL_v1.0.61.zip",
+  "full_sha256": "76214e07f5d8a93311b3a5a19ec411f736eae48cf8194fb6f550249f58aff1cc"
 }
