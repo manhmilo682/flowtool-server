@@ -1,9 +1,9 @@
 {
-  "version": "1.0.54",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.54/FlowTool_v1.0.54.zip",
-  "sha256": "6532e04b6fee8e42cb0c17f110e3c6941a9dc6850a1e304073ad2f29ebe5b389",
-  "notes": "Sua loi Playwright timeout khi bam nut Add/Next trong quet san pham TikTok Chrome. Script cho nut xuat hien theo vong ngan, click fallback bang JavaScript va log ro tien do.",
-  "published_at": "2026-05-10T14:27:07Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.54/FlowTool_FULL_v1.0.54.zip",
-  "full_sha256": "9690a7408718acdc67046f6a9058ed32e55e23a139ee2465c27ab056264d5167"
+  "version": "1.0.55",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.55/FlowTool_v1.0.55.zip",
+  "sha256": "2f9bff1dfc141ffa3434e8f7f2fffa37be701a234e42a9b0e709d29a8ffd82f5",
+  "notes": "Sua loi overlay huong dan TikTok chan nut Add khi quet san pham Chrome. Truoc khi update, tool tu dung tien trinh TikTok dang chay de tranh Robocopy loi file dang bi khoa.",
+  "published_at": "2026-05-10T14:32:45Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.55/FlowTool_FULL_v1.0.55.zip",
+  "full_sha256": "ac37da89a623cd82c9eb07c9ebc95a8994a835a890082c8812d17c62f6d69a1d"
 }
