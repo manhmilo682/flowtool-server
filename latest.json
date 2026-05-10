@@ -1,9 +1,9 @@
 {
-  "version": "1.0.39",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.39/FlowTool_v1.0.39.zip",
-  "sha256": "92e2d45444cfd2691ae123773f4cbab96150f8679415a2da623cc10eb3c5595d",
-  "notes": "Updater dùng robocopy và đọc latest.json bằng GitHub API để tránh cache raw",
-  "published_at": "2026-05-09T18:14:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.39/FlowTool_FULL_v1.0.39.zip",
-  "full_sha256": "34664f5ad1c288acffe9046e0c5773801cecd62703d49bfcafa1026e87c75ec5"
+  "version": "1.0.40",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.40/FlowTool_v1.0.40.zip",
+  "sha256": "a6750d653efa4285d3a6b75654141f7dd9a3891652eed6efd236a54535168d64",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-10T02:06:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.40/FlowTool_FULL_v1.0.40.zip",
+  "full_sha256": "444b3a9a7cd0c12f8c9562b4bf8e6b4ecd0266888ae20cf20bd4334e1eef7154"
 }
