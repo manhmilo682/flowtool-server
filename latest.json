@@ -1,9 +1,9 @@
 {
-  "version": "1.0.57",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.57/FlowTool_v1.0.57.zip",
-  "sha256": "017ad7ab1a87c5bba7fba00ac67f6b23411fcfa5f0c7d37c3d627b31ae1493c7",
-  "notes": "Sua tinh trang sau khi quet san pham TikTok Chrome bi treo lau o buoc lam moi bang. Refresh bang du lieu chuyen sang signal UI thread, bo ghi registry trong luc refresh, va tu sua slot bi thieu cho ID da ton tai.",
-  "published_at": "2026-05-10T14:56:44Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.57/FlowTool_FULL_v1.0.57.zip",
-  "full_sha256": "7566fc44f444786778194e4ddfc4ff9f0daac18b234aae88592bf0fa5563c172"
+  "version": "1.0.58",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.58/FlowTool_v1.0.58.zip",
+  "sha256": "52b0b9df6655146e26f9cd16481e181eb3864fd5aff44e1ae8dcd03d9cc5683b",
+  "notes": "Sua treo sau khi quet san pham TikTok Chrome: bang dieu khien TikTok doc registry truc tiep tu JSON, khong goi load_registry co the doi lock/ghi file khi refresh UI.",
+  "published_at": "2026-05-10T15:05:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.58/FlowTool_FULL_v1.0.58.zip",
+  "full_sha256": "2c25714973c5e2d62ebbdd291041760847f36e41b2cb9e98372e63162798f9a6"
 }
