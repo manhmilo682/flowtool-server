@@ -1,9 +1,9 @@
 {
-  "version": "1.0.86",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.86/FlowTool_v1.0.86.zip",
-  "sha256": "6209147753e3a8a16cf19e19e4d883ef3c788a2e8bd19167aabe6dd611e8eec2",
-  "notes": "Sua dang TikTok tim slot theo key URL hoac product ID",
-  "published_at": "2026-05-11T15:23:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.86/FlowTool_FULL_v1.0.86.zip",
-  "full_sha256": "3591df8596313a9d0604392b2e3ecbc582340c1ab7af76b0acffb93880618ea5"
+  "version": "1.0.88",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.88/FlowTool_v1.0.88.zip",
+  "sha256": "430619263fbde1cf34a7eaa7e0db017e4901ad6dd493be58b19fa071c2e59a48",
+  "notes": "Toi uu dung luong goi update nhe",
+  "published_at": "2026-05-11T15:31:27Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.88/FlowTool_FULL_v1.0.88.zip",
+  "full_sha256": "4b1ae780a047eb30907acd21df7f973046cc3bfb9fd2e28ebdfb903b13647030"
 }
