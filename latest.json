@@ -1,9 +1,9 @@
 {
-  "version": "1.0.91",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.91/FlowTool_v1.0.91.zip",
-  "sha256": "484780aa5dfb4067d7d01c0e311ccf620bb5dfd8f950160be84954cd812edafa",
-  "notes": "Sua dang TikTok: chi danh dau thanh cong khi TikTok xac nhan sau khi bam Dang",
-  "published_at": "2026-05-11T15:57:53Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.91/FlowTool_FULL_v1.0.91.zip",
-  "full_sha256": "909bba38197b246b4d7c609f577c0ee4b7f69553ae9f46296c1397e881ffd228"
+  "version": "1.0.92",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.92/FlowTool_v1.0.92.zip",
+  "sha256": "ccf1a8f2349098302da7e2d807d986f0dfbb1bc49c2bee98927bcd23a92aeefb",
+  "notes": "Xac minh tung buoc dang TikTok va chi di tiep khi san pham da duoc chon that",
+  "published_at": "2026-05-11T16:14:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.92/FlowTool_FULL_v1.0.92.zip",
+  "full_sha256": "c10441b4007a9d4430875808599ff968eabb5046c92ac030069a18f1781dda75"
 }
