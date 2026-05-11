@@ -1,9 +1,9 @@
 {
-  "version": "1.0.96",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.96/FlowTool_v1.0.96.zip",
-  "sha256": "ed08df77afeed9ad70a853542b98adc4735f3bf8ddcd38c50c8cede3da300548",
-  "notes": "Sau khi dang TikTok thanh cong hien trang thai Da dang TikTok tren bang",
-  "published_at": "2026-05-11T17:50:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.96/FlowTool_FULL_v1.0.96.zip",
-  "full_sha256": "520ee80d315d027ef77ea06aee8f4cd9250b86dd0f0a6b16e01343ea9236b742"
+  "version": "1.0.97",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.97/FlowTool_v1.0.97.zip",
+  "sha256": "90e86896a484ec1388b5269615a420238aab9a524e83c0835559b6370ce01185",
+  "notes": "Cap nhat trang thai Da dang TikTok cho dung dong slot sau khi dang thanh cong",
+  "published_at": "2026-05-11T17:59:57Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.97/FlowTool_FULL_v1.0.97.zip",
+  "full_sha256": "698215f4e19cf48218d1e353139729357c9483ea91c6fd9c3aee0cfa3ea456f4"
 }
