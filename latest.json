@@ -1,9 +1,9 @@
 {
-  "version": "1.0.79",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.79/FlowTool_v1.0.79.zip",
-  "sha256": "61aaea530172bd3722359560db00142eed25e296ec927e2f42ee5b3502228bdf",
-  "notes": "Dong goi day du PIL uiautomator2 requests tkinter va smoke test toan tool",
-  "published_at": "2026-05-11T12:49:11Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.79/FlowTool_FULL_v1.0.79.zip",
-  "full_sha256": "8b8f1ecebaf271bdf684657979659474fe9e2e664f58c492c768f4748c135a1e"
+  "version": "1.0.80",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.80/FlowTool_v1.0.80.zip",
+  "sha256": "a1427c22e656d38d4fd8593406c4ec9a12c959d7e8e584d8a9214c08c010edc4",
+  "notes": "Khong bung traceback khi khong co slot TikTok san sang de dang",
+  "published_at": "2026-05-11T13:35:48Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.80/FlowTool_FULL_v1.0.80.zip",
+  "full_sha256": "8b324d73f4c1a3a78ea65f3e83488023d8e70f8cf372c936b8b194f858e607a7"
 }
