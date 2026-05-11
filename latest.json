@@ -1,9 +1,9 @@
 {
-  "version": "1.0.98",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.98/FlowTool_v1.0.98.zip",
-  "sha256": "ab2d15df003587021183837327daac1a30d4ed69796e725e8c25341d5ef04564",
-  "notes": "Bang TikTok hien Da dang TikTok neu cung slot hoac cung ID san pham da duoc dang",
-  "published_at": "2026-05-11T18:12:52Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.98/FlowTool_FULL_v1.0.98.zip",
-  "full_sha256": "d95e1fa8960479050ba63ad5b08a7d86c56086a673f89b22c92c494bb6d4b4eb"
+  "version": "1.0.99",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.99/FlowTool_v1.0.99.zip",
+  "sha256": "8e7d07f7a77e9e4ba9d21cb5dd21b1cc6b291ace1d75987916b959e3faaf1db0",
+  "notes": "Neu script bao slot da dang roi thi tu cap nhat bang sang Da dang TikTok",
+  "published_at": "2026-05-11T18:25:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.99/FlowTool_FULL_v1.0.99.zip",
+  "full_sha256": "752579595e4242061fd50f3dacbd2479887086f16adc3cebd394669e0be792e8"
 }
