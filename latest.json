@@ -1,9 +1,9 @@
 {
-  "version": "1.0.83",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.83/FlowTool_v1.0.83.zip",
-  "sha256": "967ddbf5b0025c2cfd3b7424b8c1faabf32d47c54c99a1fe90ec99aab613e2ec",
-  "notes": "Dang TikTok dung So video, ho tro slot da chon va trang thai Da dang Tiktok",
-  "published_at": "2026-05-11T14:53:47Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.83/FlowTool_FULL_v1.0.83.zip",
-  "full_sha256": "37ddeb5548b61627cb0b9d53ed7a9fc21bd4efef5a97890b38cee61877e1d2a0"
+  "version": "1.0.84",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.84/FlowTool_v1.0.84.zip",
+  "sha256": "3709be55217ba15ddfd0e6554f83a94af8cca6828c595409f7b22753d020f86c",
+  "notes": "Sua dang TikTok slot da chon di truc tiep, them debug loc slot",
+  "published_at": "2026-05-11T15:02:02Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.84/FlowTool_FULL_v1.0.84.zip",
+  "full_sha256": "ed9cce50d4eff560285cfa8dc909b86fb90972b77de9f63e45f7311260249dba"
 }
