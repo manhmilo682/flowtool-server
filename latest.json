@@ -1,9 +1,9 @@
 {
-  "version": "1.0.73",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.73/FlowTool_v1.0.73.zip",
-  "sha256": "a3b965bd08a8ae1455170b5d1ba4f76d366ca8ec45d18ac59d25d4ca34264c2f",
-  "notes": "Them nut Gia han Ban quyen va cho vao tool xem tab khi chua co key",
-  "published_at": "2026-05-11T05:27:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.73/FlowTool_FULL_v1.0.73.zip",
-  "full_sha256": "6b3cc351df6d2e9c859cc46f8498c9c7a3add22fe08c87f8d16028fa1ff9f622"
+  "version": "1.0.74",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.74/FlowTool_v1.0.74.zip",
+  "sha256": "008820f0a0bb5e132033096da4aee3cd05ced03ad1ced7376fcffc44576dd8e8",
+  "notes": "Sua loi findChildren khi khoa quyen ban quyen",
+  "published_at": "2026-05-11T07:27:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.74/FlowTool_FULL_v1.0.74.zip",
+  "full_sha256": "443d6aa465a4080cb1246c1092b471392889f7cabf5b239a46239166fb6ce666"
 }
