@@ -1,9 +1,9 @@
 {
-  "version": "1.0.81",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.81/FlowTool_v1.0.81.zip",
-  "sha256": "951cd0a19673b33683778a1aa61581631815e4e87e748974402fca485d1f1526",
-  "notes": "Bo ADB TikTok, chon tai khoan dang Chrome Studio da luong",
-  "published_at": "2026-05-11T14:39:15Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.81/FlowTool_FULL_v1.0.81.zip",
-  "full_sha256": "9ac3690146add852e6dc91390c5b0f0c019afb6732dca1b631ed1e0e1f27fff7"
+  "version": "1.0.82",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.82/FlowTool_v1.0.82.zip",
+  "sha256": "bc4580e8a571114a9f88cd30c7b41a9897867dbd9ef652b0b2439e7169d9ed6b",
+  "notes": "Bo dong ghi chu ADB trong khung tai khoan dang TikTok",
+  "published_at": "2026-05-11T14:47:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.82/FlowTool_FULL_v1.0.82.zip",
+  "full_sha256": "35e2df5975e76b7d2af8e86f58be66487a09c9826189e0190c5b2ebd420b3d20"
 }
