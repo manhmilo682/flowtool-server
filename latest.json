@@ -1,9 +1,9 @@
 {
-  "version": "1.0.93",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.93/FlowTool_v1.0.93.zip",
-  "sha256": "1e9c776759a79940420c29dc43007e52caae29d2e84d2d2a3b34aec1befef2de",
-  "notes": "Sua Next san pham TikTok: khong bam JS va phai xac minh man hinh da chuyen moi di tiep",
-  "published_at": "2026-05-11T16:37:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.93/FlowTool_FULL_v1.0.93.zip",
-  "full_sha256": "0d372828e4b7c9f404a4b4a7b02f7cc8f790b1e23b34179fbc4e5c6da439dbd6"
+  "version": "1.0.94",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.94/FlowTool_v1.0.94.zip",
+  "sha256": "5425ba848d7520166707c9913aa8ebaa517cb5b3481d0bf504add6956224d99c",
+  "notes": "Sua nut Dang TikTok: them force click, click toa do va Enter neu click thuong bi timeout",
+  "published_at": "2026-05-11T17:03:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.94/FlowTool_FULL_v1.0.94.zip",
+  "full_sha256": "850c447f1221460464b2fba1198872f83bde7f66c755e4133f1ba2115f95d553"
 }
