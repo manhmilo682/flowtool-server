@@ -1,9 +1,9 @@
 {
-  "version": "1.0.89",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.89/FlowTool_v1.0.89.zip",
-  "sha256": "728dcdee7a36d991d29a0171e9c4980b62589005010dc3098cd1ec6ae2db78d4",
-  "notes": "Dang TikTok lay video truc tiep theo slot neu file mp4 da ton tai",
-  "published_at": "2026-05-11T15:37:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.89/FlowTool_FULL_v1.0.89.zip",
-  "full_sha256": "b606bfefa4d33da16b3972a90e676f7f12d19a97953bbb0966a423d6dc6f3995"
+  "version": "1.0.90",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.90/FlowTool_v1.0.90.zip",
+  "sha256": "71ce4a25b68d45785474d9e0ad581f457e45e2ce725796b7fc103e6b24fe7464",
+  "notes": "S?a timeout ??ng TikTok Studio, th?m log t?ng b??c v? t?ng ?? b?n khi b?m Add/Next/Post",
+  "published_at": "2026-05-11T15:45:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.90/FlowTool_FULL_v1.0.90.zip",
+  "full_sha256": "6a379dd3092b54fe1f6afcbca8ed67668441cf9037064fee0a547e7ff38c5286"
 }
