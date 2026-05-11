@@ -1,9 +1,9 @@
 {
-  "version": "1.0.76",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.76/FlowTool_v1.0.76.zip",
-  "sha256": "22b863d82e2e40a94045f73c95c7c59a80a490f5f59142d76ade4e863326c19e",
-  "notes": "Sua loi Access denied khi nhieu slot cung ghi tiktok_collected_links.json",
-  "published_at": "2026-05-11T12:03:34Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.76/FlowTool_FULL_v1.0.76.zip",
-  "full_sha256": "9f3e24cc39e5bd11151ba94ab390a188de12228623ed7f5d4064ebc23d293ad3"
+  "version": "1.0.77",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.77/FlowTool_v1.0.77.zip",
+  "sha256": "1b618fbfc72b8d41227f826f896736db754da970179ec22a6a55417fb24a37fa",
+  "notes": "Dang TikTok Studio bang Chrome khong yeu cau uiautomator2",
+  "published_at": "2026-05-11T12:20:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.77/FlowTool_FULL_v1.0.77.zip",
+  "full_sha256": "89e5e3d7ddd1b7fe627231f1ef6867361aa03979f045ff11f7e9f27b31d5b7e6"
 }
