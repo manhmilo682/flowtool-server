@@ -1,9 +1,9 @@
 {
-  "version": "1.0.82",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.82/FlowTool_v1.0.82.zip",
-  "sha256": "bc4580e8a571114a9f88cd30c7b41a9897867dbd9ef652b0b2439e7169d9ed6b",
-  "notes": "Bo dong ghi chu ADB trong khung tai khoan dang TikTok",
-  "published_at": "2026-05-11T14:47:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.82/FlowTool_FULL_v1.0.82.zip",
-  "full_sha256": "35e2df5975e76b7d2af8e86f58be66487a09c9826189e0190c5b2ebd420b3d20"
+  "version": "1.0.83",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.83/FlowTool_v1.0.83.zip",
+  "sha256": "967ddbf5b0025c2cfd3b7424b8c1faabf32d47c54c99a1fe90ec99aab613e2ec",
+  "notes": "Dang TikTok dung So video, ho tro slot da chon va trang thai Da dang Tiktok",
+  "published_at": "2026-05-11T14:53:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.83/FlowTool_FULL_v1.0.83.zip",
+  "full_sha256": "37ddeb5548b61627cb0b9d53ed7a9fc21bd4efef5a97890b38cee61877e1d2a0"
 }
