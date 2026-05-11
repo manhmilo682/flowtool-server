@@ -1,9 +1,9 @@
 {
-  "version": "1.0.78",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.78/FlowTool_v1.0.78.zip",
-  "sha256": "267393e7b64547af0a01bee046055021c09e71574d32c9d86e4643f22afa851c",
-  "notes": "Dang TikTok Studio bang Chrome khong yeu cau PIL hoac uiautomator2",
-  "published_at": "2026-05-11T12:28:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.78/FlowTool_FULL_v1.0.78.zip",
-  "full_sha256": "964d3b74ade73414843ba9ccec3de6eaddc04dfe7ff8e2efee0c088f0fa4a0b4"
+  "version": "1.0.79",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.79/FlowTool_v1.0.79.zip",
+  "sha256": "61aaea530172bd3722359560db00142eed25e296ec927e2f42ee5b3502228bdf",
+  "notes": "Dong goi day du PIL uiautomator2 requests tkinter va smoke test toan tool",
+  "published_at": "2026-05-11T12:49:11Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.79/FlowTool_FULL_v1.0.79.zip",
+  "full_sha256": "8b8f1ecebaf271bdf684657979659474fe9e2e664f58c492c768f4748c135a1e"
 }
