@@ -1,9 +1,9 @@
 {
-  "version": "1.0.74",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.74/FlowTool_v1.0.74.zip",
-  "sha256": "008820f0a0bb5e132033096da4aee3cd05ced03ad1ced7376fcffc44576dd8e8",
-  "notes": "Sua loi findChildren khi khoa quyen ban quyen",
-  "published_at": "2026-05-11T07:27:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.74/FlowTool_FULL_v1.0.74.zip",
-  "full_sha256": "443d6aa465a4080cb1246c1092b471392889f7cabf5b239a46239166fb6ce666"
+  "version": "1.0.75",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.75/FlowTool_v1.0.75.zip",
+  "sha256": "418066b3a494cc193db7d43a9819b3ce4fc0b9eab1824b4413af621ec60e813f",
+  "notes": "Them xml.etree vao ban dong goi de dang TikTok khong loi import",
+  "published_at": "2026-05-11T11:35:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.75/FlowTool_FULL_v1.0.75.zip",
+  "full_sha256": "551aa379cc4cdf533d2ec3ea8db388a5a5467b54e32c30e8c7debfcc04f94db3"
 }
