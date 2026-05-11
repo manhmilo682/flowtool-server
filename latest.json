@@ -1,9 +1,9 @@
 {
-  "version": "1.0.92",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.92/FlowTool_v1.0.92.zip",
-  "sha256": "ccf1a8f2349098302da7e2d807d986f0dfbb1bc49c2bee98927bcd23a92aeefb",
-  "notes": "Xac minh tung buoc dang TikTok va chi di tiep khi san pham da duoc chon that",
-  "published_at": "2026-05-11T16:14:51Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.92/FlowTool_FULL_v1.0.92.zip",
-  "full_sha256": "c10441b4007a9d4430875808599ff968eabb5046c92ac030069a18f1781dda75"
+  "version": "1.0.93",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.93/FlowTool_v1.0.93.zip",
+  "sha256": "1e9c776759a79940420c29dc43007e52caae29d2e84d2d2a3b34aec1befef2de",
+  "notes": "Sua Next san pham TikTok: khong bam JS va phai xac minh man hinh da chuyen moi di tiep",
+  "published_at": "2026-05-11T16:37:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.93/FlowTool_FULL_v1.0.93.zip",
+  "full_sha256": "0d372828e4b7c9f404a4b4a7b02f7cc8f790b1e23b34179fbc4e5c6da439dbd6"
 }
