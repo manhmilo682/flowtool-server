@@ -1,9 +1,9 @@
 {
-  "version": "1.0.75",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.75/FlowTool_v1.0.75.zip",
-  "sha256": "418066b3a494cc193db7d43a9819b3ce4fc0b9eab1824b4413af621ec60e813f",
-  "notes": "Them xml.etree vao ban dong goi de dang TikTok khong loi import",
-  "published_at": "2026-05-11T11:35:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.75/FlowTool_FULL_v1.0.75.zip",
-  "full_sha256": "551aa379cc4cdf533d2ec3ea8db388a5a5467b54e32c30e8c7debfcc04f94db3"
+  "version": "1.0.76",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.76/FlowTool_v1.0.76.zip",
+  "sha256": "22b863d82e2e40a94045f73c95c7c59a80a490f5f59142d76ade4e863326c19e",
+  "notes": "Sua loi Access denied khi nhieu slot cung ghi tiktok_collected_links.json",
+  "published_at": "2026-05-11T12:03:34Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.76/FlowTool_FULL_v1.0.76.zip",
+  "full_sha256": "9f3e24cc39e5bd11151ba94ab390a188de12228623ed7f5d4064ebc23d293ad3"
 }
