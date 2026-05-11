@@ -1,9 +1,9 @@
 {
-  "version": "1.0.88",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.88/FlowTool_v1.0.88.zip",
-  "sha256": "430619263fbde1cf34a7eaa7e0db017e4901ad6dd493be58b19fa071c2e59a48",
-  "notes": "Toi uu dung luong goi update nhe",
-  "published_at": "2026-05-11T15:31:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.88/FlowTool_FULL_v1.0.88.zip",
-  "full_sha256": "4b1ae780a047eb30907acd21df7f973046cc3bfb9fd2e28ebdfb903b13647030"
+  "version": "1.0.89",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.89/FlowTool_v1.0.89.zip",
+  "sha256": "728dcdee7a36d991d29a0171e9c4980b62589005010dc3098cd1ec6ae2db78d4",
+  "notes": "Dang TikTok lay video truc tiep theo slot neu file mp4 da ton tai",
+  "published_at": "2026-05-11T15:37:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.89/FlowTool_FULL_v1.0.89.zip",
+  "full_sha256": "b606bfefa4d33da16b3972a90e676f7f12d19a97953bbb0966a423d6dc6f3995"
 }
