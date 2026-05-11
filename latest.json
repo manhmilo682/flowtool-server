@@ -1,9 +1,9 @@
 {
-  "version": "1.0.90",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.90/FlowTool_v1.0.90.zip",
-  "sha256": "71ce4a25b68d45785474d9e0ad581f457e45e2ce725796b7fc103e6b24fe7464",
-  "notes": "Sua timeout dang TikTok Studio, them log tung buoc va tang do ben khi bam Add/Next/Post",
-  "published_at": "2026-05-11T15:45:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.90/FlowTool_FULL_v1.0.90.zip",
-  "full_sha256": "6a379dd3092b54fe1f6afcbca8ed67668441cf9037064fee0a547e7ff38c5286"
+  "version": "1.0.91",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.91/FlowTool_v1.0.91.zip",
+  "sha256": "484780aa5dfb4067d7d01c0e311ccf620bb5dfd8f950160be84954cd812edafa",
+  "notes": "Sua dang TikTok: chi danh dau thanh cong khi TikTok xac nhan sau khi bam Dang",
+  "published_at": "2026-05-11T15:57:53Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.91/FlowTool_FULL_v1.0.91.zip",
+  "full_sha256": "909bba38197b246b4d7c609f577c0ee4b7f69553ae9f46296c1397e881ffd228"
 }
