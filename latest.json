@@ -1,9 +1,9 @@
 {
-  "version": "1.0.72",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.72/FlowTool_v1.0.72.zip",
-  "sha256": "f862a468851df66942ffcb534a5dda778446b6e2e415e42065afaaace2ccb7d3",
-  "notes": "Luu va dong bo model chay Flow/Grok lan chon cuoi",
-  "published_at": "2026-05-10T17:37:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.72/FlowTool_FULL_v1.0.72.zip",
-  "full_sha256": "bdb881316cdb75d5831e9b81530e7083d1df096c0496942f1f8e2eae4b23ee1c"
+  "version": "1.0.73",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.73/FlowTool_v1.0.73.zip",
+  "sha256": "a3b965bd08a8ae1455170b5d1ba4f76d366ca8ec45d18ac59d25d4ca34264c2f",
+  "notes": "Them nut Gia han Ban quyen va cho vao tool xem tab khi chua co key",
+  "published_at": "2026-05-11T05:27:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.73/FlowTool_FULL_v1.0.73.zip",
+  "full_sha256": "6b3cc351df6d2e9c859cc46f8498c9c7a3add22fe08c87f8d16028fa1ff9f622"
 }
