@@ -1,9 +1,9 @@
 {
-  "version": "1.0.95",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.95/FlowTool_v1.0.95.zip",
-  "sha256": "5f968fdc5c1f1d038a6b8ae59c39fea751a9ea7e13528043c17e87173702be40",
-  "notes": "Khong tinh Uploaded la dang thanh cong va dung neu chua xac minh link san pham da gan",
-  "published_at": "2026-05-11T17:39:56Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.95/FlowTool_FULL_v1.0.95.zip",
-  "full_sha256": "2bc104197a7b93c49e1da1049cb6ba60c412bfec619e46c9bc4dae7cbf7bba1f"
+  "version": "1.0.96",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.96/FlowTool_v1.0.96.zip",
+  "sha256": "ed08df77afeed9ad70a853542b98adc4735f3bf8ddcd38c50c8cede3da300548",
+  "notes": "Sau khi dang TikTok thanh cong hien trang thai Da dang TikTok tren bang",
+  "published_at": "2026-05-11T17:50:43Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.96/FlowTool_FULL_v1.0.96.zip",
+  "full_sha256": "520ee80d315d027ef77ea06aee8f4cd9250b86dd0f0a6b16e01343ea9236b742"
 }
