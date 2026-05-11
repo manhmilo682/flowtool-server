@@ -1,9 +1,9 @@
 {
-  "version": "1.0.85",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.85/FlowTool_v1.0.85.zip",
-  "sha256": "f91e5c2bcad9319fb3771a5009ab6cecb59f6e67e41ac5a063aadff287f5bbac",
-  "notes": "Dang TikTok slot da chon bang registry key truc tiep",
-  "published_at": "2026-05-11T15:08:53Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.85/FlowTool_FULL_v1.0.85.zip",
-  "full_sha256": "08acf52b0e30b9f52d2ab3ef09965fdbd071a3e09bf44602a4affaff16c863df"
+  "version": "1.0.66",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.66/FlowTool_v1.0.66.zip",
+  "sha256": "23a199f1a73271c98b1abf34b18b8f954de820c64600d2ef8582ebed763fa0f3",
+  "notes": "Sua dang TikTok tim slot theo key URL hoac product ID",
+  "published_at": "2026-05-11T15:18:28Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.66/FlowTool_FULL_v1.0.66.zip",
+  "full_sha256": "f42f6c51217072b4b98be220a6e4f63ebb7f1151515c6f6c834b06fb95400820"
 }
