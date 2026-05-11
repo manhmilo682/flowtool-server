@@ -1,9 +1,9 @@
 {
-  "version": "1.0.99",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.99/FlowTool_v1.0.99.zip",
-  "sha256": "8e7d07f7a77e9e4ba9d21cb5dd21b1cc6b291ace1d75987916b959e3faaf1db0",
-  "notes": "Neu script bao slot da dang roi thi tu cap nhat bang sang Da dang TikTok",
-  "published_at": "2026-05-11T18:25:08Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.99/FlowTool_FULL_v1.0.99.zip",
-  "full_sha256": "752579595e4242061fd50f3dacbd2479887086f16adc3cebd394669e0be792e8"
+  "version": "1.0.100",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.100/FlowTool_v1.0.100.zip",
+  "sha256": "00efcfc16df3f7e73da4347e9f186fb4cb8ba3e16225d1eca00fe5cffc8bad54",
+  "notes": "Sua duong dan registry TikTok khi chay ban exe de ghi dung file data cua tool",
+  "published_at": "2026-05-11T18:31:13Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.0.100/FlowTool_FULL_v1.0.100.zip",
+  "full_sha256": "dff2ce80b5f1b624fc0a9b0fe629cef5f617588bfe73b80c71f93473883fc9e3"
 }
