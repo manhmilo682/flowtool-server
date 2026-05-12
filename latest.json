@@ -1,9 +1,9 @@
 {
-  "version": "1.1.01",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.01/FlowTool_v1.1.01.zip",
-  "sha256": "cb04bb6eb023c3e56d873967c2baf76162ddf4e2524be9cafac59cad6462677f",
-  "notes": "Nang version 1.1.01 va giu cac fix TikTok dang video, trang thai Da dang TikTok, registry dung thu muc tool",
-  "published_at": "2026-05-11T18:37:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.01/FlowTool_FULL_v1.1.01.zip",
-  "full_sha256": "cc8ec8e5966d7c3a85999dfd2cf428ec7ac4b6ae145c8eb1e492e59fcb571c22"
+  "version": "1.1.02",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.02/FlowTool_v1.1.02.zip",
+  "sha256": "a11cab5ff74b67bd9160f05427ecdd0f8fd6318e990f9a1e459b88b67af89e5d",
+  "notes": "Cap nhat bang so sanh goi Basic/Premium va bang gia trong man Gia han Ban quyen",
+  "published_at": "2026-05-12T02:21:36Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.02/FlowTool_FULL_v1.1.02.zip",
+  "full_sha256": "d517758f17dd40e1fe73825a527e82c604102f749daed936ad025b36df959f26"
 }
