@@ -1,9 +1,9 @@
 {
-  "version": "1.1.04",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.04/FlowTool_v1.1.04.zip",
-  "sha256": "7d35b3059caf6a8c11349c37522ae7e4e170380c79f795b1ee94ea978d7cbe19",
-  "notes": "Sua loi Chrome khong nap AntiCaptcha extension: tu khoi dong lai profile neu thieu load-extension va them chan doan extension trong Logs",
-  "published_at": "2026-05-12T13:04:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.04/FlowTool_FULL_v1.1.04.zip",
-  "full_sha256": "af16fa4692e179102b2694e615f9c1b568c715e994e08a6502f15cadca8272c1"
+  "version": "1.1.05",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.05/FlowTool_v1.1.05.zip",
+  "sha256": "5e59ab5bbee15d59c933d0a38bd402bbea574f1db93e0ab9b49309c7294a21ed",
+  "notes": "Them ban AntiCaptcha extension sach cho Chrome, bo thu muc _metadata va uu tien nap extension Chrome-clean",
+  "published_at": "2026-05-12T13:12:42Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.05/FlowTool_FULL_v1.1.05.zip",
+  "full_sha256": "9283bd6680279bcaa40d95770b8c1813a7feaa118764b5ece847d32874b2677f"
 }
