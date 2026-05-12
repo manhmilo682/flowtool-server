@@ -1,9 +1,9 @@
 {
-  "version": "1.1.02",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.02/FlowTool_v1.1.02.zip",
-  "sha256": "a11cab5ff74b67bd9160f05427ecdd0f8fd6318e990f9a1e459b88b67af89e5d",
-  "notes": "Cap nhat bang so sanh goi Basic/Premium va bang gia trong man Gia han Ban quyen",
-  "published_at": "2026-05-12T02:21:36Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.02/FlowTool_FULL_v1.1.02.zip",
-  "full_sha256": "d517758f17dd40e1fe73825a527e82c604102f749daed936ad025b36df959f26"
+  "version": "1.1.03",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.03/FlowTool_v1.1.03.zip",
+  "sha256": "b7ef895cd5fcd6fa374540236d04aa2411985931387b16e74a7655ff69a81598",
+  "notes": "Khoa logic het han key online: app khong tu tinh expires khi server thieu ngay het han; cap nhat du lieu key da bind",
+  "published_at": "2026-05-12T11:51:37Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.03/FlowTool_FULL_v1.1.03.zip",
+  "full_sha256": "cf1fe81eda44fe616badd7013e8ede015f161156a3a88b362580e3de4aa29d86"
 }
