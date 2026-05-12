@@ -1,9 +1,9 @@
 {
-  "version": "1.1.03",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.03/FlowTool_v1.1.03.zip",
-  "sha256": "b7ef895cd5fcd6fa374540236d04aa2411985931387b16e74a7655ff69a81598",
-  "notes": "Khoa logic het han key online: app khong tu tinh expires khi server thieu ngay het han; cap nhat du lieu key da bind",
-  "published_at": "2026-05-12T11:51:37Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.03/FlowTool_FULL_v1.1.03.zip",
-  "full_sha256": "cf1fe81eda44fe616badd7013e8ede015f161156a3a88b362580e3de4aa29d86"
+  "version": "1.1.04",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.04/FlowTool_v1.1.04.zip",
+  "sha256": "7d35b3059caf6a8c11349c37522ae7e4e170380c79f795b1ee94ea978d7cbe19",
+  "notes": "Sua loi Chrome khong nap AntiCaptcha extension: tu khoi dong lai profile neu thieu load-extension va them chan doan extension trong Logs",
+  "published_at": "2026-05-12T13:04:16Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.04/FlowTool_FULL_v1.1.04.zip",
+  "full_sha256": "af16fa4692e179102b2694e615f9c1b568c715e994e08a6502f15cadca8272c1"
 }
