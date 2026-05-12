@@ -1,9 +1,9 @@
 {
-  "version": "1.1.05",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.05/FlowTool_v1.1.05.zip",
-  "sha256": "5e59ab5bbee15d59c933d0a38bd402bbea574f1db93e0ab9b49309c7294a21ed",
-  "notes": "Them ban AntiCaptcha extension sach cho Chrome, bo thu muc _metadata va uu tien nap extension Chrome-clean",
-  "published_at": "2026-05-12T13:12:42Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.05/FlowTool_FULL_v1.1.05.zip",
-  "full_sha256": "9283bd6680279bcaa40d95770b8c1813a7feaa118764b5ece847d32874b2677f"
+  "version": "1.1.06",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.06/FlowTool_v1.1.06.zip",
+  "sha256": "f1142d46a58aa057f31f716da94f3ccbe13c7c7b2911ed2dd60f74d173f91d61",
+  "notes": "Tu tai va uu tien Chrome for Testing/Chromium de nap AntiCaptcha tu dong tren Chrome moi",
+  "published_at": "2026-05-12T13:35:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.06/FlowTool_FULL_v1.1.06.zip",
+  "full_sha256": "d22b663b415e1358f014577c20b4a62b3c0f230b097667b85e636a6955ef47af"
 }
