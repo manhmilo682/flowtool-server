@@ -1,9 +1,9 @@
 {
-  "version": "1.1.06",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.06/FlowTool_v1.1.06.zip",
-  "sha256": "f1142d46a58aa057f31f716da94f3ccbe13c7c7b2911ed2dd60f74d173f91d61",
-  "notes": "Tu tai va uu tien Chrome for Testing/Chromium de nap AntiCaptcha tu dong tren Chrome moi",
-  "published_at": "2026-05-12T13:35:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.06/FlowTool_FULL_v1.1.06.zip",
-  "full_sha256": "d22b663b415e1358f014577c20b4a62b3c0f230b097667b85e636a6955ef47af"
+  "version": "1.1.07",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.07/FlowTool_v1.1.07.zip",
+  "sha256": "f9ef4683e767b80f5905c5a4f0828607ceb6f6c7b01854d006bf17dd9dac4088",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-12T14:14:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.07/FlowTool_FULL_v1.1.07.zip",
+  "full_sha256": "1ea2d3160969155ebf470496d4e4f3c78e76f0fe71650d9ea2b734cec2fac553"
 }
