@@ -98,12 +98,21 @@
       "expires": "2026-05-14T07:42:16.340031Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "E98F03736663BCE03278EAC23A39C36B7F5B1DEE0DD6420B030E814934A02311"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-05-14T11:11:16.633Z",
-      "last_machine_code": "E98F-0373-6663-BCE0-3278"
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-OIOI-X8F0-LUPP": {
+      "customer": "KH_20260514_181618",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 1,
+      "created_at": "2026-05-14T11:16:20.212515Z",
+      "activated_at": "",
+      "expires": "2026-05-15T11:16:20.212515Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
