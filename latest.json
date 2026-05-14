@@ -1,9 +1,9 @@
 {
-  "version": "1.1.34",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.34/FlowTool_v1.1.34.zip",
-  "sha256": "f58a15661144084a200d9819a416c4ead0698e4a284227bc23b7009bac35b32c",
-  "notes": "Sua loi prompt nhieu dong bi Enter gui som khi check outfit",
-  "published_at": "2026-05-14T17:52:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.34/FlowTool_FULL_v1.1.34.zip",
-  "full_sha256": "c0785cdf61257733a6f427a5d965c82989085c477ba03cba83f2bcdf0efff0cd"
+  "version": "1.1.35",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.35/FlowTool_v1.1.35.zip",
+  "sha256": "4640b8ff7e60919e588f9c012b6115d3d2c309af49bbaeb4c4b2b7472fcc2f42",
+  "notes": "Tao new chat Gemini moi lan check outfit",
+  "published_at": "2026-05-14T18:00:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.35/FlowTool_FULL_v1.1.35.zip",
+  "full_sha256": "226c3479cfe6085cfe332535b958374ee52ceb41d5308cf9472710832d2b26d9"
 }
