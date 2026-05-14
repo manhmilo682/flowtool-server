@@ -1,9 +1,9 @@
 {
-  "version": "1.1.30",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.30/FlowTool_v1.1.30.zip",
-  "sha256": "95e67df936674bc4d81a7027c4adcace92868467475f8d06dc75774a1e116742",
-  "notes": "Fix check outfit Gemini web multi slot va clipboard upload",
-  "published_at": "2026-05-14T16:51:56Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.30/FlowTool_FULL_v1.1.30.zip",
-  "full_sha256": "4315863962a1150e147ada944cd942b122eaf4fce3b3c4af04ba5d8c3a2b0a82"
+  "version": "1.1.31",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.31/FlowTool_v1.1.31.zip",
+  "sha256": "227d58fb918a946959eebad61ea40ccefa86fd80bd9e8ff5c1a44b4db86f14d3",
+  "notes": "An ffmpeg khi check khop outfit tach frame video",
+  "published_at": "2026-05-14T17:11:46Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.31/FlowTool_FULL_v1.1.31.zip",
+  "full_sha256": "61f021e388a3033ed9f9380d24174b44c0d7bb537ac2846120de889751218dc9"
 }
