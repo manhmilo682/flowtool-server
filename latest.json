@@ -1,9 +1,9 @@
 {
-  "version": "1.1.21",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.21/FlowTool_v1.1.21.zip",
-  "sha256": "223229f692f6206c0500a8d6a0f7e83dea396863c85f99e09bbb3e00ba083246",
-  "notes": "Cap nhat check outfit bang Gemini Chrome Pro",
-  "published_at": "2026-05-14T14:37:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.21/FlowTool_FULL_v1.1.21.zip",
-  "full_sha256": "981706eee3d0fe196400cb7e31bc84e0cce43f528b992b2751ddf45c7c396086"
+  "version": "1.1.22",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.22/FlowTool_v1.1.22.zip",
+  "sha256": "407b75e9e63be81f6c6ab3abc7f635cc8c644a82a30c9a64632cdd7f88e51eda",
+  "notes": "Cap nhat upload anh Gemini web",
+  "published_at": "2026-05-14T15:38:03Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.22/FlowTool_FULL_v1.1.22.zip",
+  "full_sha256": "6a7efca06daa0129e538b81fcdc33892e395754f55fbb81ef00f0873303bfee9"
 }
