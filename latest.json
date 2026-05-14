@@ -1,9 +1,9 @@
 {
-  "version": "1.1.36",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.36/FlowTool_v1.1.36.zip",
-  "sha256": "94082b9af282312c88d55d496e323e829f2ed77679fde2608b2031fdea8f523a",
-  "notes": "Sua new chat Gemini khong click nham lich su chat cu",
-  "published_at": "2026-05-14T18:08:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.36/FlowTool_FULL_v1.1.36.zip",
-  "full_sha256": "71726c251684ae6411caea6e41be252e83e773742e649f776aee201ad16321e3"
+  "version": "1.1.37",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.37/FlowTool_v1.1.37.zip",
+  "sha256": "f4b2d064059f3942eed349c2294fb7beffc519822a2161491b7702e1ab39ec0f",
+  "notes": "Sua upload anh Gemini dung upload menu va hidden upload buttons",
+  "published_at": "2026-05-14T18:15:50Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.37/FlowTool_FULL_v1.1.37.zip",
+  "full_sha256": "8495b408de149efffb4fef5b7ad558687d52856c911b8719edad2dd754e108d6"
 }
