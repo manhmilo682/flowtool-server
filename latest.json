@@ -1,9 +1,9 @@
 {
-  "version": "1.1.22",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.22/FlowTool_v1.1.22.zip",
-  "sha256": "407b75e9e63be81f6c6ab3abc7f635cc8c644a82a30c9a64632cdd7f88e51eda",
-  "notes": "Cap nhat upload anh Gemini web",
-  "published_at": "2026-05-14T15:38:03Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.22/FlowTool_FULL_v1.1.22.zip",
-  "full_sha256": "6a7efca06daa0129e538b81fcdc33892e395754f55fbb81ef00f0873303bfee9"
+  "version": "1.1.23",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.23/FlowTool_v1.1.23.zip",
+  "sha256": "445dd4b9644ae4698d2b6aaf3cb1cdad221e6103a6c1dfc79f6d2c5cfe8f215d",
+  "notes": "Cap nhat paste anh Gemini bang clipboard",
+  "published_at": "2026-05-14T15:47:53Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.23/FlowTool_FULL_v1.1.23.zip",
+  "full_sha256": "767fd5d6860d6f081cbf3280a87e75a7a7bd525e16d0164e3f9048edfd3392ce"
 }
