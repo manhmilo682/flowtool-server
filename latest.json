@@ -1,9 +1,9 @@
 {
-  "version": "1.1.35",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.35/FlowTool_v1.1.35.zip",
-  "sha256": "4640b8ff7e60919e588f9c012b6115d3d2c309af49bbaeb4c4b2b7472fcc2f42",
-  "notes": "Tao new chat Gemini moi lan check outfit",
-  "published_at": "2026-05-14T18:00:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.35/FlowTool_FULL_v1.1.35.zip",
-  "full_sha256": "226c3479cfe6085cfe332535b958374ee52ceb41d5308cf9472710832d2b26d9"
+  "version": "1.1.36",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.36/FlowTool_v1.1.36.zip",
+  "sha256": "94082b9af282312c88d55d496e323e829f2ed77679fde2608b2031fdea8f523a",
+  "notes": "Sua new chat Gemini khong click nham lich su chat cu",
+  "published_at": "2026-05-14T18:08:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.36/FlowTool_FULL_v1.1.36.zip",
+  "full_sha256": "71726c251684ae6411caea6e41be252e83e773742e649f776aee201ad16321e3"
 }
