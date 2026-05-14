@@ -1,9 +1,9 @@
 {
-  "version": "1.1.28",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.28/FlowTool_v1.1.28.zip",
-  "sha256": "67ef33d44d9cee7b41fedafcb3e6249c7dc227012283dba5b094ffbf33011712",
-  "notes": "Hotfix tab TikTok bi trong do sort outfit",
-  "published_at": "2026-05-14T16:31:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.28/FlowTool_FULL_v1.1.28.zip",
-  "full_sha256": "ee920be9f041de220197989df14b3e82554c7d167a2fcc5d27f306953b7c2a54"
+  "version": "1.1.30",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.30/FlowTool_v1.1.30.zip",
+  "sha256": "95e67df936674bc4d81a7027c4adcace92868467475f8d06dc75774a1e116742",
+  "notes": "Fix check outfit Gemini web multi slot va clipboard upload",
+  "published_at": "2026-05-14T16:51:56Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.30/FlowTool_FULL_v1.1.30.zip",
+  "full_sha256": "4315863962a1150e147ada944cd942b122eaf4fce3b3c4af04ba5d8c3a2b0a82"
 }
