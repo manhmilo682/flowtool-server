@@ -1,9 +1,9 @@
 {
-  "version": "1.1.37",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.37/FlowTool_v1.1.37.zip",
-  "sha256": "f4b2d064059f3942eed349c2294fb7beffc519822a2161491b7702e1ab39ec0f",
-  "notes": "Sua upload anh Gemini dung upload menu va hidden upload buttons",
-  "published_at": "2026-05-14T18:15:50Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.37/FlowTool_FULL_v1.1.37.zip",
-  "full_sha256": "8495b408de149efffb4fef5b7ad558687d52856c911b8719edad2dd754e108d6"
+  "version": "1.1.38",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.38/FlowTool_v1.1.38.zip",
+  "sha256": "665037aa24b6bab3687f95acc144dfdc8099f7294f277e8ff4933d89b8a85de0",
+  "notes": "Sua treo sau khi upload anh Gemini khong bam gui prompt",
+  "published_at": "2026-05-14T18:22:37Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.38/FlowTool_FULL_v1.1.38.zip",
+  "full_sha256": "ea801290bf606f535b6a1ad2d863f3e4a2a8cb2b9d5d7e866af8d73aeb9bbeb2"
 }
