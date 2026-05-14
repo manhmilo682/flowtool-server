@@ -1,9 +1,9 @@
 {
-  "version": "1.1.32",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.32/FlowTool_v1.1.32.zip",
-  "sha256": "8b5c75a11b7167d68f18077ac5dee65ff4a1edea4f43dc639e0eaf59a64ed695",
-  "notes": "Sua font UTF-8 log check outfit",
-  "published_at": "2026-05-14T17:33:05Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.32/FlowTool_FULL_v1.1.32.zip",
-  "full_sha256": "7a1faa5613d8072fd02a7bb5925d816d5c6e29bc5203152896067e24de70b740"
+  "version": "1.1.33",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.33/FlowTool_v1.1.33.zip",
+  "sha256": "48ad7069e9794cb8a8e0d674ed044fc7b40a0ca15188ee850bb9f11d98cbe3cc",
+  "notes": "Rollback sua font check outfit ve ban on dinh truoc do",
+  "published_at": "2026-05-14T17:45:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.33/FlowTool_FULL_v1.1.33.zip",
+  "full_sha256": "3bab4f25eed5129ce01fbcf8472aaa16a2c576c2649b977bc44ad7ef0d906fa6"
 }
