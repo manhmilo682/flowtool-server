@@ -1,9 +1,9 @@
 {
-  "version": "1.1.24",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.24/FlowTool_v1.1.24.zip",
-  "sha256": "14cda27f52c404f01ceb10cd13173bd805869ee11b6d5c0992816da3b1851c12",
-  "notes": "Fix paste anh Gemini khong can win32clipboard",
-  "published_at": "2026-05-14T15:53:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.24/FlowTool_FULL_v1.1.24.zip",
-  "full_sha256": "11f6176f9f2830ae22e7704be59697284ff67e81b9dd5facb11ea5739e724c26"
+  "version": "1.1.25",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.25/FlowTool_v1.1.25.zip",
+  "sha256": "be88605da5d353819d2b93f253d62f03e72cb94a680d2771b436ef9dbd99f2b3",
+  "notes": "Fix selector upload files Gemini web",
+  "published_at": "2026-05-14T16:03:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.25/FlowTool_FULL_v1.1.25.zip",
+  "full_sha256": "5868461908509aaeebaa6ebd3ddd0f16fa32ae72af6e2a36fe61821de8972bd3"
 }
