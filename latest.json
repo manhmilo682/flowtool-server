@@ -1,9 +1,9 @@
 {
-  "version": "1.1.27",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.27/FlowTool_v1.1.27.zip",
-  "sha256": "5e7d8987af8924bd1b1bf960ca4c3a5f1dad341175873934b20ea71b9d8a4a1c",
-  "notes": "Noi so video vao check outfit va khoa sua bang",
-  "published_at": "2026-05-14T16:21:24Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.27/FlowTool_FULL_v1.1.27.zip",
-  "full_sha256": "c06c31f65e3511b5b0db9843f29da3a18d5c9c7f3e3eefacb41da81f45e8d781"
+  "version": "1.1.28",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.28/FlowTool_v1.1.28.zip",
+  "sha256": "67ef33d44d9cee7b41fedafcb3e6249c7dc227012283dba5b094ffbf33011712",
+  "notes": "Hotfix tab TikTok bi trong do sort outfit",
+  "published_at": "2026-05-14T16:31:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.28/FlowTool_FULL_v1.1.28.zip",
+  "full_sha256": "ee920be9f041de220197989df14b3e82554c7d167a2fcc5d27f306953b7c2a54"
 }
