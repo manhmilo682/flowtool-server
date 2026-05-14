@@ -1,9 +1,9 @@
 {
-  "version": "1.1.25",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.25/FlowTool_v1.1.25.zip",
-  "sha256": "be88605da5d353819d2b93f253d62f03e72cb94a680d2771b436ef9dbd99f2b3",
-  "notes": "Fix selector upload files Gemini web",
-  "published_at": "2026-05-14T16:03:08Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.25/FlowTool_FULL_v1.1.25.zip",
-  "full_sha256": "5868461908509aaeebaa6ebd3ddd0f16fa32ae72af6e2a36fe61821de8972bd3"
+  "version": "1.1.26",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.26/FlowTool_v1.1.26.zip",
+  "sha256": "0fd0c5ce899967aa925037978442ca7dc4f12384125b7222176e6b19fbcab99b",
+  "notes": "Them sap xep cot check outfit",
+  "published_at": "2026-05-14T16:17:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.26/FlowTool_FULL_v1.1.26.zip",
+  "full_sha256": "8a717f90fd5a96e582f8aea12f9c462eae7c4ada0490dca76c665cb780279756"
 }
