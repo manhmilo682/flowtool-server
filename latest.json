@@ -1,9 +1,9 @@
 {
-  "version": "1.1.45",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.45/FlowTool_v1.1.45.zip",
-  "sha256": "1ee7361a256597fde9d5eac44399cd57bff20aaed23377f139dc6e050c2411f6",
-  "notes": "Nang cap check outfit: tach nhieu frame video va gui cung anh san pham cho Gemini, cap nhat prompt JSON score.",
-  "published_at": "2026-05-15T11:03:55Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.45/FlowTool_FULL_v1.1.45.zip",
-  "full_sha256": "eb2ac32a7f404ade2b3ea5c56a567542ea2dfad3be811cc5429f075a9dee6c44"
+  "version": "1.1.46",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.46/FlowTool_v1.1.46.zip",
+  "sha256": "7b3ca6b65a12a02d04f0abbbe060632aaa39d39736f4d113cc7b1c64eeb2fa99",
+  "notes": "Sua font log check outfit UTF-8, giu nguyen luong Gemini nhieu frame.",
+  "published_at": "2026-05-15T11:15:21Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.46/FlowTool_FULL_v1.1.46.zip",
+  "full_sha256": "4c8893f9fc7f91e74da26f9c033955f857643905eb9385393602e4b1945946c1"
 }
