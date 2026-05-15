@@ -1,9 +1,9 @@
 {
-  "version": "1.1.52",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.52/FlowTool_v1.1.52.zip",
-  "sha256": "1854babadb204b432901a8b8601f6053aab6820f5b53643b7080cd599987a400",
-  "notes": "Them chuot phai Reset ve Da quet anh va xoa thong tin video/dang/loi de chay lai workflow.",
-  "published_at": "2026-05-15T12:57:06Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.52/FlowTool_FULL_v1.1.52.zip",
-  "full_sha256": "a656998dc2329c00402b18ff5cb03355d7f033cad70cb7a785594b06d7bcaad6"
+  "version": "1.1.53",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.53/FlowTool_v1.1.53.zip",
+  "sha256": "832fa73b45c7b266b4ec7271983bc8a3e63cfade277f052749ac68dc5865458b",
+  "notes": "An triet de cua so CMD khi Ghep Video chay ffmpeg/ffprobe, bo sung SW_HIDE va va cac script ghep phu.",
+  "published_at": "2026-05-15T13:18:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.53/FlowTool_FULL_v1.1.53.zip",
+  "full_sha256": "ca26772dada0d21ac236b6977171e4f5abf8fb25604b9d546e31106ae6363abf"
 }
