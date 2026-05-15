@@ -1,9 +1,9 @@
 {
-  "version": "1.1.42",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.42/FlowTool_v1.1.42.zip",
-  "sha256": "7dc7fb21181c456f6478232f8d2840aa6cbe81d99cf39cc196098beba37b54c4",
-  "notes": "Fix chuan parser diem check outfit lay JSON ket qua cuoi cung",
-  "published_at": "2026-05-15T05:56:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.42/FlowTool_FULL_v1.1.42.zip",
-  "full_sha256": "26d909ceb81ae693c6a53a63be6e5f5264824293e14ca771211912d31b6fe8a6"
+  "version": "1.1.43",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.43/FlowTool_v1.1.43.zip",
+  "sha256": "3e671bf82d7b0ed05bf0768da1d17b016e1bf098805b12f7b594df56b90fab9a",
+  "notes": "Co dinh prompt check outfit dung F:\\promchechoutfit.txt",
+  "published_at": "2026-05-15T06:05:36Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.43/FlowTool_FULL_v1.1.43.zip",
+  "full_sha256": "011fc6b964703c656453be2905b910379fc0cecfe480d35cc650e26fc0fbd3e1"
 }
