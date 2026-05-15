@@ -1,9 +1,9 @@
 {
-  "version": "1.1.41",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.41/FlowTool_v1.1.41.zip",
-  "sha256": "c158fd14465933928293f9b369dcbd50eda27d7be09d05d21b64b66844610807",
-  "notes": "Doc diem score tu JSON Gemini khi check outfit",
-  "published_at": "2026-05-15T05:46:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.41/FlowTool_FULL_v1.1.41.zip",
-  "full_sha256": "31a5e1c7284bbea96533fc1fe736a83e2ad724b0029342d42fa6df571dbe9d59"
+  "version": "1.1.42",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.42/FlowTool_v1.1.42.zip",
+  "sha256": "7dc7fb21181c456f6478232f8d2840aa6cbe81d99cf39cc196098beba37b54c4",
+  "notes": "Fix chuan parser diem check outfit lay JSON ket qua cuoi cung",
+  "published_at": "2026-05-15T05:56:32Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.42/FlowTool_FULL_v1.1.42.zip",
+  "full_sha256": "26d909ceb81ae693c6a53a63be6e5f5264824293e14ca771211912d31b6fe8a6"
 }
