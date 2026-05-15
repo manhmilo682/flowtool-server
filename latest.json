@@ -1,9 +1,9 @@
 {
-  "version": "1.1.39",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.39/FlowTool_v1.1.39.zip",
-  "sha256": "0dcf9841e4191baa314a849b6867deab47340e504e57e24cc380e47649546db9",
-  "notes": "Sua hien thi nhan check outfit bi loi font tren bang",
-  "published_at": "2026-05-14T18:29:44Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.39/FlowTool_FULL_v1.1.39.zip",
-  "full_sha256": "f6097aaea50dad36aa0a54555af1ac6623f4c8ef11414eb0f49755db51f9ca49"
+  "version": "1.1.40",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.40/FlowTool_v1.1.40.zip",
+  "sha256": "5fab12695bd95b5348698d5405c647bfc6eb05d440cd5b3a04a02971e63e9e99",
+  "notes": "Giam log preview lap va doc match_percentage tu JSON Gemini",
+  "published_at": "2026-05-15T05:38:14Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.40/FlowTool_FULL_v1.1.40.zip",
+  "full_sha256": "2e90ba0600aea59b2b242d917dd14f1711a2eeab1a0dbeffff14ed2bd9488441"
 }
