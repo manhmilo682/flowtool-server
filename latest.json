@@ -1,9 +1,9 @@
 {
-  "version": "1.1.49",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.49/FlowTool_v1.1.49.zip",
-  "sha256": "cd25ce08fa7ada600c15765ba78997eae7df232631fb39fa0a408b5642a42710",
-  "notes": "Them menu chuot phai Copy link SP trong bang TikTok.",
-  "published_at": "2026-05-15T12:31:47Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.49/FlowTool_FULL_v1.1.49.zip",
-  "full_sha256": "75430d1c2cd24a98175727e4c8e4370ba1e0456c53003248f0e3e7a74f34efe2"
+  "version": "1.1.50",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.50/FlowTool_v1.1.50.zip",
+  "sha256": "4bd391f602fb619a4d9cfe496c8f465075e41338b81636a644e03a87e88ebb9e",
+  "notes": "Kiem tra do phan giai video Grok sau khi tai ve, chan video chat luong thap va dung tai khoan het limit.",
+  "published_at": "2026-05-15T12:48:09Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.50/FlowTool_FULL_v1.1.50.zip",
+  "full_sha256": "09ec27598591bcf3ddfacb036811e0a6e44f77b32ddb3ffa5be7d62ffb4363f7"
 }
