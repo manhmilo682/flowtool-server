@@ -1,9 +1,9 @@
 {
-  "version": "1.1.51",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.51/FlowTool_v1.1.51.zip",
-  "sha256": "84cb7cfbf44283f1f4ff7e94cc1ed68d20049bb119ea880e671a927eada7b625",
-  "notes": "An cua so CMD khi node Ghep Video/Tach Khung Hinh chay ffmpeg trong workflow.",
-  "published_at": "2026-05-15T12:53:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.51/FlowTool_FULL_v1.1.51.zip",
-  "full_sha256": "2101217ea09fe14346af7ed82df121a9e17ee9e729407d9d383f87c46c3213e8"
+  "version": "1.1.52",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.52/FlowTool_v1.1.52.zip",
+  "sha256": "1854babadb204b432901a8b8601f6053aab6820f5b53643b7080cd599987a400",
+  "notes": "Them chuot phai Reset ve Da quet anh va xoa thong tin video/dang/loi de chay lai workflow.",
+  "published_at": "2026-05-15T12:57:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.52/FlowTool_FULL_v1.1.52.zip",
+  "full_sha256": "a656998dc2329c00402b18ff5cb03355d7f033cad70cb7a785594b06d7bcaad6"
 }
