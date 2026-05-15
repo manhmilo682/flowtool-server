@@ -1,9 +1,9 @@
 {
-  "version": "1.1.43",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.43/FlowTool_v1.1.43.zip",
-  "sha256": "3e671bf82d7b0ed05bf0768da1d17b016e1bf098805b12f7b594df56b90fab9a",
-  "notes": "Co dinh prompt check outfit dung F:\\promchechoutfit.txt",
-  "published_at": "2026-05-15T06:05:36Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.43/FlowTool_FULL_v1.1.43.zip",
-  "full_sha256": "011fc6b964703c656453be2905b910379fc0cecfe480d35cc650e26fc0fbd3e1"
+  "version": "1.1.45",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.45/FlowTool_v1.1.45.zip",
+  "sha256": "1ee7361a256597fde9d5eac44399cd57bff20aaed23377f139dc6e050c2411f6",
+  "notes": "Nang cap check outfit: tach nhieu frame video va gui cung anh san pham cho Gemini, cap nhat prompt JSON score.",
+  "published_at": "2026-05-15T11:03:55Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.45/FlowTool_FULL_v1.1.45.zip",
+  "full_sha256": "eb2ac32a7f404ade2b3ea5c56a567542ea2dfad3be811cc5429f075a9dee6c44"
 }
