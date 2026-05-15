@@ -1,9 +1,9 @@
 {
-  "version": "1.1.47",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.47/FlowTool_v1.1.47.zip",
-  "sha256": "6406836125f286f9e6015b6de079e5ed24394137f7ca17faafe98dfebdb46344",
-  "notes": "Siet nguong check outfit: 88 diem khong con tinh la khop, cap diem manh khi khac co/ren/day vai/form.",
-  "published_at": "2026-05-15T11:26:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.47/FlowTool_FULL_v1.1.47.zip",
-  "full_sha256": "325435db6584705d56b8878f130e2d3c063b10d8158d6e976d87ebb68d80559d"
+  "version": "1.1.48",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.48/FlowTool_v1.1.48.zip",
+  "sha256": "ae34fb5a1cdb2f95e41f16ea9969866c4249e0cf11b77fb19a0ed20d6fbc4597",
+  "notes": "Cap nhat bo loc trang thai TikTok dung nhom Da quet/That bai/Da ghep/Da dang TikTok.",
+  "published_at": "2026-05-15T12:21:07Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.48/FlowTool_FULL_v1.1.48.zip",
+  "full_sha256": "87607e04ad5f616445387921ad336b6579aa549872fe0a6d1549b6f401c08c5c"
 }
