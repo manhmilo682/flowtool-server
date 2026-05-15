@@ -1,9 +1,9 @@
 {
-  "version": "1.1.56",
-  "package_url": "https://github.com/Fix reset ve Da quet anh xoa sach dau Da dang nhung giu video/releases/download/v1.1.56/FlowTool_v1.1.56.zip",
-  "sha256": "0de9d98c70468168552362884dc3d2e38d0079d70741ed15195212d425c1f847",
+  "version": "1.1.57",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.57/FlowTool_v1.1.57.zip",
+  "sha256": "8b1f916feed3f1e3b0c9a1030f895714b14fb40f867b49b8588ecc42a8f19495",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-15T14:03:25Z",
-  "full_package_url": "https://github.com/Fix reset ve Da quet anh xoa sach dau Da dang nhung giu video/releases/download/v1.1.56/FlowTool_FULL_v1.1.56.zip",
-  "full_sha256": "c648933d1d7531753e53f4374762a9c6320dbc94144384773cba517b2a5a8b36"
+  "published_at": "2026-05-15T14:07:29Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.57/FlowTool_FULL_v1.1.57.zip",
+  "full_sha256": "fba1cb875da64cef167a864005c4aa451ccef84a61fc99920b7a0708f4a8351f"
 }
