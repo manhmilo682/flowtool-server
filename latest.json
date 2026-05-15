@@ -1,9 +1,9 @@
 {
-  "version": "1.1.50",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.50/FlowTool_v1.1.50.zip",
-  "sha256": "4bd391f602fb619a4d9cfe496c8f465075e41338b81636a644e03a87e88ebb9e",
-  "notes": "Kiem tra do phan giai video Grok sau khi tai ve, chan video chat luong thap va dung tai khoan het limit.",
-  "published_at": "2026-05-15T12:48:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.50/FlowTool_FULL_v1.1.50.zip",
-  "full_sha256": "09ec27598591bcf3ddfacb036811e0a6e44f77b32ddb3ffa5be7d62ffb4363f7"
+  "version": "1.1.51",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.51/FlowTool_v1.1.51.zip",
+  "sha256": "84cb7cfbf44283f1f4ff7e94cc1ed68d20049bb119ea880e671a927eada7b625",
+  "notes": "An cua so CMD khi node Ghep Video/Tach Khung Hinh chay ffmpeg trong workflow.",
+  "published_at": "2026-05-15T12:53:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.51/FlowTool_FULL_v1.1.51.zip",
+  "full_sha256": "2101217ea09fe14346af7ed82df121a9e17ee9e729407d9d383f87c46c3213e8"
 }
