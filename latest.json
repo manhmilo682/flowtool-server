@@ -1,9 +1,9 @@
 {
-  "version": "1.1.46",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.46/FlowTool_v1.1.46.zip",
-  "sha256": "7b3ca6b65a12a02d04f0abbbe060632aaa39d39736f4d113cc7b1c64eeb2fa99",
-  "notes": "Sua font log check outfit UTF-8, giu nguyen luong Gemini nhieu frame.",
-  "published_at": "2026-05-15T11:15:21Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.46/FlowTool_FULL_v1.1.46.zip",
-  "full_sha256": "4c8893f9fc7f91e74da26f9c033955f857643905eb9385393602e4b1945946c1"
+  "version": "1.1.47",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.47/FlowTool_v1.1.47.zip",
+  "sha256": "6406836125f286f9e6015b6de079e5ed24394137f7ca17faafe98dfebdb46344",
+  "notes": "Siet nguong check outfit: 88 diem khong con tinh la khop, cap diem manh khi khac co/ren/day vai/form.",
+  "published_at": "2026-05-15T11:26:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.47/FlowTool_FULL_v1.1.47.zip",
+  "full_sha256": "325435db6584705d56b8878f130e2d3c063b10d8158d6e976d87ebb68d80559d"
 }
