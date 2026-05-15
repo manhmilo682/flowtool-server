@@ -1,9 +1,9 @@
 {
-  "version": "1.1.60",
-  "package_url": "https://github.com/Chi dung tai khoan Grok loi limit trong luot chay hien tai/releases/download/v1.1.60/FlowTool_v1.1.60.zip",
-  "sha256": "17a18573fad18f7404617e3151d6d1827af3bf009146ceeabe8985708dacf8aa",
+  "version": "1.1.61",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.61/FlowTool_v1.1.61.zip",
+  "sha256": "357770eec682e87fb6499eec8836ae3fa5b2f82388801d4ad8ee9a7b3f79bc0b",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-15T14:32:31Z",
-  "full_package_url": "https://github.com/Chi dung tai khoan Grok loi limit trong luot chay hien tai/releases/download/v1.1.60/FlowTool_FULL_v1.1.60.zip",
-  "full_sha256": "fb087d21b41768bb794f46eec3dbf907286c458501322cd8b93f1a6832a05e5f"
+  "published_at": "2026-05-15T14:36:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.61/FlowTool_FULL_v1.1.61.zip",
+  "full_sha256": "f91b7a124d8f267d8b81691a26703ecef2a52580c140b46bd94458badae8184c"
 }
