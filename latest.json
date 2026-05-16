@@ -1,9 +1,9 @@
 {
-  "version": "1.1.70",
-  "package_url": "https://github.com/Quay lai cach upload Frames cu va them chon che do Flow tieng Viet/releases/download/v1.1.70/FlowTool_v1.1.70.zip",
-  "sha256": "46d6e10a3d751187f96196da1d8ac07c5ee41a8912e0ddade271899c503b87da",
+  "version": "1.1.71",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.71/FlowTool_v1.1.71.zip",
+  "sha256": "99dad523d179bc0bbbb3e6c202a8807357fa2c5a221ca10b71025302c3d6e04f",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-16T17:19:56Z",
-  "full_package_url": "https://github.com/Quay lai cach upload Frames cu va them chon che do Flow tieng Viet/releases/download/v1.1.70/FlowTool_FULL_v1.1.70.zip",
-  "full_sha256": "e8e705848602e337653fafde489b9b10f1935e0b1e9fc9b7e89e2aba69c6460a"
+  "published_at": "2026-05-16T17:23:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.71/FlowTool_FULL_v1.1.71.zip",
+  "full_sha256": "872e2d41059c7739a3db5e9fdc22b309758498fe4fb83e96b68938f4eed7e230"
 }
