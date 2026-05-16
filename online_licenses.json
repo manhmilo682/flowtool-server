@@ -124,12 +124,21 @@
       "expires": "2026-05-16T11:18:41.008144Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "E98F03736663BCE03278EAC23A39C36B7F5B1DEE0DD6420B030E814934A02311"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-05-16T11:19:16.235Z",
-      "last_machine_code": "E98F-0373-6663-BCE0-3278"
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-8YCR-3VH1-WRHX": {
+      "customer": "KH_20260516_182653",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 1,
+      "created_at": "2026-05-16T11:26:55.641015Z",
+      "activated_at": "",
+      "expires": "2026-05-17T11:26:55.641015Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
