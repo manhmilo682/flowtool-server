@@ -1,9 +1,9 @@
 {
-  "version": "1.1.61",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.61/FlowTool_v1.1.61.zip",
-  "sha256": "357770eec682e87fb6499eec8836ae3fa5b2f82388801d4ad8ee9a7b3f79bc0b",
+  "version": "1.1.62",
+  "package_url": "https://github.com/An cua so CMD khi workflow chay lenh nen ffmpeg ffprobe powershell adb/releases/download/v1.1.62/FlowTool_v1.1.62.zip",
+  "sha256": "7fd78691d6941298724a8271c437ffd1cbd8d5c0af9352d476651c27e86a1008",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-15T14:36:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.61/FlowTool_FULL_v1.1.61.zip",
-  "full_sha256": "f91b7a124d8f267d8b81691a26703ecef2a52580c140b46bd94458badae8184c"
+  "published_at": "2026-05-16T05:31:38Z",
+  "full_package_url": "https://github.com/An cua so CMD khi workflow chay lenh nen ffmpeg ffprobe powershell adb/releases/download/v1.1.62/FlowTool_FULL_v1.1.62.zip",
+  "full_sha256": "63b65a581063c0bc64af6736e1300e8586d28a7dbaf46df69805487a67ccd1ee"
 }
