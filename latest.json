@@ -1,9 +1,9 @@
 {
-  "version": "1.1.64",
-  "package_url": "https://github.com/Fix Google Flow khong mo duoc panel chon che do khi nut hien Video x2/releases/download/v1.1.64/FlowTool_v1.1.64.zip",
-  "sha256": "75292057a48f67b109afe6e95f5de68a521dc17501782cf791fa01c5f4d23053",
+  "version": "1.1.65",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.65/FlowTool_v1.1.65.zip",
+  "sha256": "df69360179c6014e9685aaf85006601f2d9fafc2903554cf784b7525c46fe263",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-16T12:03:06Z",
-  "full_package_url": "https://github.com/Fix Google Flow khong mo duoc panel chon che do khi nut hien Video x2/releases/download/v1.1.64/FlowTool_FULL_v1.1.64.zip",
-  "full_sha256": "8415e1be5a4b06467074ddcb8075e0282ec26625290628cde72e2ea1fe916f64"
+  "published_at": "2026-05-16T16:09:11Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.65/FlowTool_FULL_v1.1.65.zip",
+  "full_sha256": "9dfccfcdc0d91552e501db681f557bde0cfb632167aae9d6621a82acb48e5dc7"
 }
