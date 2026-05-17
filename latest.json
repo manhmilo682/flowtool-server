@@ -1,9 +1,9 @@
 {
-  "version": "1.1.79",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.79/FlowTool_v1.1.79.zip",
-  "sha256": "4e0e28a202f71a253be1694b131164d794d4d2099ed55adaf9edf4f9dc102b82",
-  "notes": "Bat buoc Flow dung trinh duyet an danh, bo fallback profile thuong neu thieu mat khau va them log xac nhan mode an danh.",
-  "published_at": "2026-05-17T09:33:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.79/FlowTool_FULL_v1.1.79.zip",
-  "full_sha256": "a56c3e24e4d41c3839c6ae55497ffcac551f9b592094fbd2db98660175877dde"
+  "version": "1.1.80",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.80/FlowTool_v1.1.80.zip",
+  "sha256": "80db086dac3d5b09fae420499377c3087f80da7e825c226d834e6cc7f26b4c30",
+  "notes": "Doi Flow sang mo Chrome Incognito that bang --incognito + temp user-data-dir roi Playwright connect CDP, khong con chi la context sach.",
+  "published_at": "2026-05-17T10:11:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.80/FlowTool_FULL_v1.1.80.zip",
+  "full_sha256": "04ae3f8a1d8739163532e0e805670d86705643ac1c535f1affbc7a89ff68d48d"
 }
