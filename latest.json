@@ -1,9 +1,9 @@
 {
-  "version": "1.1.81",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.81/FlowTool_v1.1.81.zip",
-  "sha256": "bc819688e73cec17eb00f93052e57e13b8e7ecae97e3628e431082215d20efb7",
-  "notes": "Luu DB tai khoan vao LocalAppData/FlowTool/data/app.db ben ngoai thu muc update, tu migrate/merge app.db cu va loai app.db khoi goi update de khong mat tai khoan/mat khau Flow khi cap nhat.",
-  "published_at": "2026-05-17T10:16:42Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.81/FlowTool_FULL_v1.1.81.zip",
-  "full_sha256": "8604dd3407a17aec5b97d78d2a40865b1c0d2c6f9c25d2ffaab70562adc7185a"
+  "version": "1.1.82",
+  "package_url": "https://github.com/Fix Chrome ?n danh hi?n h?p Save As khi Flow t?i ?nh/video; ?p download th?ng v?o th? m?c downloads c?a tool./releases/download/v1.1.82/FlowTool_v1.1.82.zip",
+  "sha256": "ae8954367e282c8962e42f5273625a5abcc682adeb174a62fbe535d264640a39",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-17T10:39:31Z",
+  "full_package_url": "https://github.com/Fix Chrome ?n danh hi?n h?p Save As khi Flow t?i ?nh/video; ?p download th?ng v?o th? m?c downloads c?a tool./releases/download/v1.1.82/FlowTool_FULL_v1.1.82.zip",
+  "full_sha256": "c7c35eefcbebaf617b71271019a1d935b6d22228fc65ccc63807aac77f3d2ecb"
 }
