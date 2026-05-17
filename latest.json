@@ -1,9 +1,9 @@
 {
-  "version": "1.1.76",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.76/FlowTool_v1.1.76.zip",
-  "sha256": "9edba8002bec59a91717b27a377042d5d38f2849a903c5581a87dedf371c72d4",
-  "notes": "Sua loi nut Chay Workflow TikTok dung sau khi lay workflow rieng do bien selected_provider bi dung truoc khi khoi tao.",
-  "published_at": "2026-05-17T05:23:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.76/FlowTool_FULL_v1.1.76.zip",
-  "full_sha256": "130562b44889913c157bc353166547b7ac36569217574562ba314f1bf51595cb"
+  "version": "1.1.77",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.77/FlowTool_v1.1.77.zip",
+  "sha256": "59555e7b41e7fdb6e9980fd89a92d70ba8325cb6e4b9111aac5039844da2e873",
+  "notes": "Da test tao video bang Flow thanh cong. Sua auto login Flow bat dau bang Create with Flow va bat dung composer sau khi vao New project.",
+  "published_at": "2026-05-17T05:37:49Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.77/FlowTool_FULL_v1.1.77.zip",
+  "full_sha256": "7e403cd954ecf51388a0e12c4d638fe1ca6fcd6b93c6a3939e132d017e8b399d"
 }
