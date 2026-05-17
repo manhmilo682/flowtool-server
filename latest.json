@@ -1,9 +1,9 @@
 {
-  "version": "1.1.71",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.71/FlowTool_v1.1.71.zip",
-  "sha256": "99dad523d179bc0bbbb3e6c202a8807357fa2c5a221ca10b71025302c3d6e04f",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-16T17:23:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.71/FlowTool_FULL_v1.1.71.zip",
-  "full_sha256": "872e2d41059c7739a3db5e9fdc22b309758498fe4fb83e96b68938f4eed7e230"
+  "version": "1.1.73",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.73/FlowTool_v1.1.73.zip",
+  "sha256": "de4a19548917fa9a9ff31a87677e2805c7e19f3d3ff288a7103e92aba0c013f2",
+  "notes": "Doi tieu de cot tai khoan Flow/Grok: Ten -> Tai khoan, Email -> Mat khau.",
+  "published_at": "2026-05-17T05:01:33Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.73/FlowTool_FULL_v1.1.73.zip",
+  "full_sha256": "cd74e928e2f5e329c9e2d8231b18249b747758b84a0c01d788e90cd8b75363e7"
 }
