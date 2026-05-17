@@ -1,9 +1,9 @@
 {
-  "version": "1.1.78",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.78/FlowTool_v1.1.78.zip",
-  "sha256": "8caabb3507927f6877b7c5c659455d68abae967e1094bcca0acd2f16d5501f41",
-  "notes": "Sua loi TikTok Dashboard treo sau dong dung workflow do thieu ham hien thi ten tai khoan trong class TiktokDashboard.",
-  "published_at": "2026-05-17T09:24:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.78/FlowTool_FULL_v1.1.78.zip",
-  "full_sha256": "9f2415e4df5f3b4165af62179acc20d27d5b270d739ddb636fe5ed443d4aa433"
+  "version": "1.1.79",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.79/FlowTool_v1.1.79.zip",
+  "sha256": "4e0e28a202f71a253be1694b131164d794d4d2099ed55adaf9edf4f9dc102b82",
+  "notes": "Bat buoc Flow dung trinh duyet an danh, bo fallback profile thuong neu thieu mat khau va them log xac nhan mode an danh.",
+  "published_at": "2026-05-17T09:33:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.79/FlowTool_FULL_v1.1.79.zip",
+  "full_sha256": "a56c3e24e4d41c3839c6ae55497ffcac551f9b592094fbd2db98660175877dde"
 }
