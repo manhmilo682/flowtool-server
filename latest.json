@@ -1,9 +1,9 @@
 {
-  "version": "1.1.75",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.75/FlowTool_v1.1.75.zip",
-  "sha256": "25ec3e05ca01025232b21f90cfde52e38d3962a78ce1876a0aa2be37f29eb812",
-  "notes": "Sua nut chay workflow Flow/TikTok de tu dung tai khoan dang chon, tu bat tai khoan va tu dang nhap Flow bang mat khau da luu.",
-  "published_at": "2026-05-17T05:15:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.75/FlowTool_FULL_v1.1.75.zip",
-  "full_sha256": "9e208ea3fb0e97bd7b046295ec7d0376eeb86b42871db5c06a4d08837f4ce650"
+  "version": "1.1.76",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.76/FlowTool_v1.1.76.zip",
+  "sha256": "9edba8002bec59a91717b27a377042d5d38f2849a903c5581a87dedf371c72d4",
+  "notes": "Sua loi nut Chay Workflow TikTok dung sau khi lay workflow rieng do bien selected_provider bi dung truoc khi khoi tao.",
+  "published_at": "2026-05-17T05:23:16Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.76/FlowTool_FULL_v1.1.76.zip",
+  "full_sha256": "130562b44889913c157bc353166547b7ac36569217574562ba314f1bf51595cb"
 }
