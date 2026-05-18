@@ -1,9 +1,9 @@
 {
-  "version": "1.2.04",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.04/FlowTool_v1.2.04.zip",
-  "sha256": "e8b2037749dc83c430b81247f06000337d8b27904defba655a1071f6f565a671",
-  "notes": "Fix An Chrome: dung SW_HIDE de an han cua so Chrome thay vi keo ra ngoai man hinh.",
-  "published_at": "2026-05-18T17:48:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.04/FlowTool_FULL_v1.2.04.zip",
-  "full_sha256": "736621c9cd05679b1b88d821405131707af9824f2d733fa9c3a8013284851f4c"
+  "version": "1.2.05",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.05/FlowTool_v1.2.05.zip",
+  "sha256": "655c0093d875845f27c540739819ae66f501a93ceb5a6bb3d22152710e770735",
+  "notes": "Fix cua so den mo kem Chrome: khi hien lai Chrome chi restore cua so chinh, khong restore cua so phu Chrome_WidgetWin_0.",
+  "published_at": "2026-05-18T17:54:46Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.05/FlowTool_FULL_v1.2.05.zip",
+  "full_sha256": "7799f62d475a3467abeeef110623388e5da5aeac59bc9760309023dc18105779"
 }
