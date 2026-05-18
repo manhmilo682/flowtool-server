@@ -1,9 +1,9 @@
 {
-  "version": "1.1.97",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.97/FlowTool_v1.1.97.zip",
-  "sha256": "a6d8c066399c0a94d5a9286a6d51c8a8e7e5562127eef5bae6ff33bd19c13eda",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-18T16:50:42Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.97/FlowTool_FULL_v1.1.97.zip",
-  "full_sha256": "aae8526c498144f1e71c80c6686e715844f4fbb6765096b39625768be2f2a2f3"
+  "version": "1.1.98",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.98/FlowTool_v1.1.98.zip",
+  "sha256": "b34f6cdf0a810ff4fbe9afc8b178f0c0a5468f4a7e35d62bd852f13dbd88f61a",
+  "notes": "Gom tab Cai dat tai khoan gon hon, them tai khoan Meta, fix Grok nhan dien dang xuat/lui phien va loi composer de dung som thay vi doi timeout.",
+  "published_at": "2026-05-18T17:16:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.98/FlowTool_FULL_v1.1.98.zip",
+  "full_sha256": "4d067a6b99ed7e746c838b855bf9b5e5b76b086b1df0c1be88f9f7a4c077a513"
 }
