@@ -1,9 +1,9 @@
 {
-  "version": "1.2.03",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.03/FlowTool_v1.2.03.zip",
-  "sha256": "2b819b98335170f67041f0f8e136607a5a1397901dc71943349819efb6344f5a",
-  "notes": "Fix tai khoan Grok tu khoi phuc sau update: chi merge DB cu khi DB nguoi dung trong hoan toan, tranh nap lai tai khoan da xoa.",
-  "published_at": "2026-05-18T17:44:46Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.03/FlowTool_FULL_v1.2.03.zip",
-  "full_sha256": "e35582a84513ddc0910a615f40ae27201068aba4dc52583cffc176fc86495185"
+  "version": "1.2.04",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.04/FlowTool_v1.2.04.zip",
+  "sha256": "e8b2037749dc83c430b81247f06000337d8b27904defba655a1071f6f565a671",
+  "notes": "Fix An Chrome: dung SW_HIDE de an han cua so Chrome thay vi keo ra ngoai man hinh.",
+  "published_at": "2026-05-18T17:48:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.04/FlowTool_FULL_v1.2.04.zip",
+  "full_sha256": "736621c9cd05679b1b88d821405131707af9824f2d733fa9c3a8013284851f4c"
 }
