@@ -1,9 +1,9 @@
 {
-  "version": "1.1.95",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.95/FlowTool_v1.1.95.zip",
-  "sha256": "e1b50f89cef4651d036e4427347e9dc8e026881de76f6bee6d182b9f93d2528f",
-  "notes": "Them nut An Chrome canh Tu dong lam moi trong tab TikTok; luu cau hinh va cho phep bat/tat viec mo Chrome nen khi chay workflow.",
-  "published_at": "2026-05-18T16:10:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.95/FlowTool_FULL_v1.1.95.zip",
-  "full_sha256": "23682ffac1baba97a38fc93f9fe03823c8e5028c624ea900860e0d4a36f06479"
+  "version": "1.1.96",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.96/FlowTool_v1.1.96.zip",
+  "sha256": "bd98ce5c6bdfc658b9d5505919c6442aa3c1f64b20a3fc12bdb5c4269a3ebe26",
+  "notes": "Doi nut Chi chay Da quet thanh Dung lai trong cum Workflow/Video va noi truc tiep vao lenh dung workflow dang chay.",
+  "published_at": "2026-05-18T16:14:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.96/FlowTool_FULL_v1.1.96.zip",
+  "full_sha256": "aa0d6ce48700dcb0aeb3b380acdce43cc9af6291ba090d2fee77330be9b524f4"
 }
