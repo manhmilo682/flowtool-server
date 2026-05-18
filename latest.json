@@ -1,9 +1,9 @@
 {
-  "version": "1.2.07",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.07/FlowTool_v1.2.07.zip",
-  "sha256": "ff46e555c63e7e6019efe22ec724eb78c77ac32e9b815489a21020604dee8883",
-  "notes": "Fix upload anh Grok bi canh bao: chuan hoa moi anh upload sang JPG RGB ten ASCII trong cache truoc khi dua len Grok.",
-  "published_at": "2026-05-18T18:31:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.07/FlowTool_FULL_v1.2.07.zip",
-  "full_sha256": "1fa8a693a867264fa6b21c37f93cbd88b3e7021a9bd00fa169257952fb23f2db"
+  "version": "1.2.08",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.08/FlowTool_v1.2.08.zip",
+  "sha256": "c10ad8360b2379c23a7953542eab4b0ab14676162d2f16a337c40063b8ec36bc",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-18T18:52:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.08/FlowTool_FULL_v1.2.08.zip",
+  "full_sha256": "ec9ebd099386fb6ba03a067f1620f60a3f0cbccc831f46cbd4f2a370cf36f5bd"
 }
