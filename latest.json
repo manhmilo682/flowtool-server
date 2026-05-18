@@ -1,9 +1,9 @@
 {
-  "version": "1.2.05",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.05/FlowTool_v1.2.05.zip",
-  "sha256": "655c0093d875845f27c540739819ae66f501a93ceb5a6bb3d22152710e770735",
-  "notes": "Fix cua so den mo kem Chrome: khi hien lai Chrome chi restore cua so chinh, khong restore cua so phu Chrome_WidgetWin_0.",
-  "published_at": "2026-05-18T17:54:46Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.05/FlowTool_FULL_v1.2.05.zip",
-  "full_sha256": "7799f62d475a3467abeeef110623388e5da5aeac59bc9760309023dc18105779"
+  "version": "1.2.06",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.06/FlowTool_v1.2.06.zip",
+  "sha256": "cbc08cd48f0ab7967560a42132ecc3ed8341e9a41b7d83c9c163584134b02a29",
+  "notes": "Fix Grok video ket popup Upload/Generate/Done: phat hien popup upload sai, dong popup va tu retry node video truoc khi timeout.",
+  "published_at": "2026-05-18T18:21:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.06/FlowTool_FULL_v1.2.06.zip",
+  "full_sha256": "bd1cd31e9826c3b01c36d42bf1fb89c3e730209b123f0c1559afc1b0ba4422c1"
 }
