@@ -1,9 +1,9 @@
 {
-  "version": "1.1.98",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.98/FlowTool_v1.1.98.zip",
-  "sha256": "b34f6cdf0a810ff4fbe9afc8b178f0c0a5468f4a7e35d62bd852f13dbd88f61a",
-  "notes": "Gom tab Cai dat tai khoan gon hon, them tai khoan Meta, fix Grok nhan dien dang xuat/lui phien va loi composer de dung som thay vi doi timeout.",
-  "published_at": "2026-05-18T17:16:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.98/FlowTool_FULL_v1.1.98.zip",
-  "full_sha256": "4d067a6b99ed7e746c838b855bf9b5e5b76b086b1df0c1be88f9f7a4c077a513"
+  "version": "1.1.99",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.99/FlowTool_v1.1.99.zip",
+  "sha256": "1f7e54a2fe8cb7e272c71522e6551bf1493f8ffc3bd264c9b2bbb6533ad9edd9",
+  "notes": "Fix Grok khong nhan nham icon canh bao trong composer thanh loi khi dang Generating.",
+  "published_at": "2026-05-18T17:24:28Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.99/FlowTool_FULL_v1.1.99.zip",
+  "full_sha256": "70c460d4049aba5baa3e3d8252126b9a5fe101ccb611398f4db23a011cd9256d"
 }
