@@ -1,9 +1,9 @@
 {
-  "version": "1.2.02",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.02/FlowTool_v1.2.02.zip",
-  "sha256": "217f8e4de0d91df32e722af79a6443018a731bdbb69e603572033e6ada27e586",
-  "notes": "Fix nut An Chrome: ap dung ca voi Chrome dang mo san, dua cua so workflow ve nen hoac hien lai theo checkbox.",
-  "published_at": "2026-05-18T17:40:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.02/FlowTool_FULL_v1.2.02.zip",
-  "full_sha256": "22958b4c552b4a80443c4c2e110ef450cba9d87bae406850b1a5f7c6a77d6f31"
+  "version": "1.2.03",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.03/FlowTool_v1.2.03.zip",
+  "sha256": "2b819b98335170f67041f0f8e136607a5a1397901dc71943349819efb6344f5a",
+  "notes": "Fix tai khoan Grok tu khoi phuc sau update: chi merge DB cu khi DB nguoi dung trong hoan toan, tranh nap lai tai khoan da xoa.",
+  "published_at": "2026-05-18T17:44:46Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.03/FlowTool_FULL_v1.2.03.zip",
+  "full_sha256": "e35582a84513ddc0910a615f40ae27201068aba4dc52583cffc176fc86495185"
 }
