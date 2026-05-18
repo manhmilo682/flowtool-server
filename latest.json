@@ -1,9 +1,9 @@
 {
-  "version": "1.1.91",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.91/FlowTool_v1.1.91.zip",
-  "sha256": "7ade5385117c00f9084de81a8a47dcfcfe18d5b609f172aa548d40fc5c1216a7",
-  "notes": "Sua updater metadata URL va chan admin script nhan nham ghi chu thanh repo GitHub.",
-  "published_at": "2026-05-18T12:23:00Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.91/FlowTool_FULL_v1.1.91.zip",
-  "full_sha256": "388921c23235c9f4d9396e38eb10b9a696361b162b8c646f59fde693d678da70"
+  "version": "1.1.92",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.92/FlowTool_v1.1.92.zip",
+  "sha256": "e456ca0fb2e1ca7a056837d23913707451d99c5e2b21e56cb196d6ad3f9b5ed2",
+  "notes": "Luu anh video Flow truc tiep tu trang, tranh bat hop thoai Save As cua Chrome.",
+  "published_at": "2026-05-18T12:36:56Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.92/FlowTool_FULL_v1.1.92.zip",
+  "full_sha256": "12a8236ab206663c7808e24b9cf64ff0e7e2068e4e91155f2bd0dbcb859e59d7"
 }
