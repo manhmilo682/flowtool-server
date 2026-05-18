@@ -1,9 +1,9 @@
 {
-  "version": "1.1.96",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.96/FlowTool_v1.1.96.zip",
-  "sha256": "bd98ce5c6bdfc658b9d5505919c6442aa3c1f64b20a3fc12bdb5c4269a3ebe26",
-  "notes": "Doi nut Chi chay Da quet thanh Dung lai trong cum Workflow/Video va noi truc tiep vao lenh dung workflow dang chay.",
-  "published_at": "2026-05-18T16:14:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.96/FlowTool_FULL_v1.1.96.zip",
-  "full_sha256": "aa0d6ce48700dcb0aeb3b380acdce43cc9af6291ba090d2fee77330be9b524f4"
+  "version": "1.1.97",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.97/FlowTool_v1.1.97.zip",
+  "sha256": "a6d8c066399c0a94d5a9286a6d51c8a8e7e5562127eef5bae6ff33bd19c13eda",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-18T16:50:42Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.97/FlowTool_FULL_v1.1.97.zip",
+  "full_sha256": "aae8526c498144f1e71c80c6686e715844f4fbb6765096b39625768be2f2a2f3"
 }
