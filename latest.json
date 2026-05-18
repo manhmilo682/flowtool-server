@@ -1,9 +1,9 @@
 {
-  "version": "1.1.99",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.99/FlowTool_v1.1.99.zip",
-  "sha256": "1f7e54a2fe8cb7e272c71522e6551bf1493f8ffc3bd264c9b2bbb6533ad9edd9",
-  "notes": "Fix Grok khong nhan nham icon canh bao trong composer thanh loi khi dang Generating.",
-  "published_at": "2026-05-18T17:24:28Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.99/FlowTool_FULL_v1.1.99.zip",
-  "full_sha256": "70c460d4049aba5baa3e3d8252126b9a5fe101ccb611398f4db23a011cd9256d"
+  "version": "1.2.01",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.01/FlowTool_v1.2.01.zip",
+  "sha256": "7020bcc7153bc281219698bee2820340b1340e295d366f56c29d4b31b0606984",
+  "notes": "Fix xoa tai khoan Grok: xoa theo provider + profile_path, chon dong an toan hon khi bang chi co 1 dong.",
+  "published_at": "2026-05-18T17:31:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.01/FlowTool_FULL_v1.2.01.zip",
+  "full_sha256": "f0d4c6f3b149b8cadd7ae643c7d8f8b3a781ca128fd40f5cfafecb2b8b2c01ff"
 }
