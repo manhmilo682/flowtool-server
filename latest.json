@@ -1,9 +1,9 @@
 {
-  "version": "1.1.94",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.94/FlowTool_v1.1.94.zip",
-  "sha256": "64021cc5ab5870dd925807d115302f255c5cf57121dbff93ff7195099f96d5d0",
-  "notes": "Flow dung Chrome profile thuong va tu dang nhap lai tren profile neu Google yeu cau dang nhap.",
-  "published_at": "2026-05-18T15:42:44Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.94/FlowTool_FULL_v1.1.94.zip",
-  "full_sha256": "45e1e8d326cd7c2cfae718adc0d07dee6c8205894671aee9e5d9508a09c853bd"
+  "version": "1.1.95",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.95/FlowTool_v1.1.95.zip",
+  "sha256": "e1b50f89cef4651d036e4427347e9dc8e026881de76f6bee6d182b9f93d2528f",
+  "notes": "Them nut An Chrome canh Tu dong lam moi trong tab TikTok; luu cau hinh va cho phep bat/tat viec mo Chrome nen khi chay workflow.",
+  "published_at": "2026-05-18T16:10:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.95/FlowTool_FULL_v1.1.95.zip",
+  "full_sha256": "23682ffac1baba97a38fc93f9fe03823c8e5028c624ea900860e0d4a36f06479"
 }
