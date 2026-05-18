@@ -1,9 +1,9 @@
 {
-  "version": "1.2.06",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.06/FlowTool_v1.2.06.zip",
-  "sha256": "cbc08cd48f0ab7967560a42132ecc3ed8341e9a41b7d83c9c163584134b02a29",
-  "notes": "Fix Grok video ket popup Upload/Generate/Done: phat hien popup upload sai, dong popup va tu retry node video truoc khi timeout.",
-  "published_at": "2026-05-18T18:21:06Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.06/FlowTool_FULL_v1.2.06.zip",
-  "full_sha256": "bd1cd31e9826c3b01c36d42bf1fb89c3e730209b123f0c1559afc1b0ba4422c1"
+  "version": "1.2.07",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.07/FlowTool_v1.2.07.zip",
+  "sha256": "ff46e555c63e7e6019efe22ec724eb78c77ac32e9b815489a21020604dee8883",
+  "notes": "Fix upload anh Grok bi canh bao: chuan hoa moi anh upload sang JPG RGB ten ASCII trong cache truoc khi dua len Grok.",
+  "published_at": "2026-05-18T18:31:33Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.07/FlowTool_FULL_v1.2.07.zip",
+  "full_sha256": "1fa8a693a867264fa6b21c37f93cbd88b3e7021a9bd00fa169257952fb23f2db"
 }
