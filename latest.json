@@ -1,9 +1,9 @@
 {
-  "version": "1.1.92",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.92/FlowTool_v1.1.92.zip",
-  "sha256": "e456ca0fb2e1ca7a056837d23913707451d99c5e2b21e56cb196d6ad3f9b5ed2",
-  "notes": "Luu anh video Flow truc tiep tu trang, tranh bat hop thoai Save As cua Chrome.",
-  "published_at": "2026-05-18T12:36:56Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.92/FlowTool_FULL_v1.1.92.zip",
-  "full_sha256": "12a8236ab206663c7808e24b9cf64ff0e7e2068e4e91155f2bd0dbcb859e59d7"
+  "version": "1.1.94",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.94/FlowTool_v1.1.94.zip",
+  "sha256": "64021cc5ab5870dd925807d115302f255c5cf57121dbff93ff7195099f96d5d0",
+  "notes": "Flow dung Chrome profile thuong va tu dang nhap lai tren profile neu Google yeu cau dang nhap.",
+  "published_at": "2026-05-18T15:42:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.1.94/FlowTool_FULL_v1.1.94.zip",
+  "full_sha256": "45e1e8d326cd7c2cfae718adc0d07dee6c8205894671aee9e5d9508a09c853bd"
 }
