@@ -1,9 +1,9 @@
 {
-  "version": "1.2.21",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.21/FlowTool_v1.2.21.zip",
-  "sha256": "8d3e26629461aee490c13680581e95621ac0a07558e1440d67ed81d42e87ffc9",
+  "version": "1.2.22",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.22/FlowTool_v1.2.22.zip",
+  "sha256": "e39c3fc5328d455d25f1fa73a03dc115c5ca3d69d68bf4c3274600eee0b77645",
   "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-19T12:51:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.21/FlowTool_FULL_v1.2.21.zip",
-  "full_sha256": "16d37309a2a06755cc7ebd933decc440107a045e17b42d35e0d3c1454b96b835"
+  "published_at": "2026-05-19T14:22:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.22/FlowTool_FULL_v1.2.22.zip",
+  "full_sha256": "d5c3feeb4b9cd65daf2a5ecac41daec49ffb5a96e31df87e4451f97b8a82862a"
 }
