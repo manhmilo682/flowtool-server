@@ -1,9 +1,9 @@
 {
-  "version": "1.2.49",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.49/FlowTool_v1.2.49.zip",
-  "sha256": "f035a66974f85f595e9584869cb331ee2aaf08270c7f4ade3ff9c6e525e0590b",
-  "notes": "Sua tien do workflow TikTok: chon slot nao chi chay slot do, mau so tien do theo so slot thuc te trong hang doi.",
-  "published_at": "2026-05-20T16:46:45Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.49/FlowTool_FULL_v1.2.49.zip",
-  "full_sha256": "88f1019ce65c4cc16bed7d379a2238c3745394b10147109e050300fb45eb5570"
+  "version": "1.2.51",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.51/FlowTool_v1.2.51.zip",
+  "sha256": "ac65458eb7e1a3a01c38871fd845da08e027081bdbb58dbf45e24c355ad5e15f",
+  "notes": "Rut gon nhan tien do TikTok thanh DANG CHAY x/y va bo cac bo loc trang thai Dang dang, That bai, Da xoa.",
+  "published_at": "2026-05-20T16:58:27Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.51/FlowTool_FULL_v1.2.51.zip",
+  "full_sha256": "a37ec95c4f6b0b6369a3975d32fc924ef671d67420da47b90f511d1a13c1e9e0"
 }
