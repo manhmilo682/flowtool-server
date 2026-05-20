@@ -1,9 +1,9 @@
 {
-  "version": "1.2.35",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.35/FlowTool_v1.2.35.zip",
-  "sha256": "f6d9015c9047869f67255525a485ee0bf58454a0ff5e0e26499fc46eb568953a",
-  "notes": "Them ChatGPT provider/node Tao anh bang ChatGPT va Meta provider/node Tao Video bang Meta Vibes. Chua test tao video Meta that voi tai khoan dang nhap.",
-  "published_at": "2026-05-20T13:51:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.35/FlowTool_FULL_v1.2.35.zip",
-  "full_sha256": "ff7650514a1e5b4bc4cf68af65aa52bd0f0677ec300929353f37d97c95708fd3"
+  "version": "1.2.36",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.36/FlowTool_v1.2.36.zip",
+  "sha256": "7609fff498923eefed616cbdecd132092dd9e3f5f838aed3aed569cd773840d9",
+  "notes": "Bo chon Model chay mac dinh. Workflow tu dong chay dung provider theo tung node Flow/Grok/ChatGPT/Meta va co the ket hop nhieu model trong mot workflow.",
+  "published_at": "2026-05-20T14:12:24Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.36/FlowTool_FULL_v1.2.36.zip",
+  "full_sha256": "0d0a3cb7d20891ae63935bfe0a9a59b1362c184c5cde2e5b79c7233ec1b66a55"
 }
