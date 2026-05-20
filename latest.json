@@ -1,9 +1,9 @@
 {
-  "version": "1.2.47",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.47/FlowTool_v1.2.47.zip",
-  "sha256": "05969e3f8593c3318323b9d7350a21996b22412f23f2c3eeaa99c3cc5d5b123d",
-  "notes": "Sua Meta Vibes tai lap video cu: chi nhan video co src/blob moi sau moi prompt va chan luu trung noi dung video trong cung phien.",
-  "published_at": "2026-05-20T16:28:20Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.47/FlowTool_FULL_v1.2.47.zip",
-  "full_sha256": "5b695aeedab6a4548abf9f9e9f71057e5783707814e0af855807524b97571df1"
+  "version": "1.2.48",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.48/FlowTool_v1.2.48.zip",
+  "sha256": "6c607c2b441fa73e9a5aa2ed7962a0956311ae851cdd9f192f46558900749892",
+  "notes": "Them o tien do rieng tren bang dieu khien TikTok: hien workflow/da luong dang chay bao nhieu, xong bao nhieu, loi bao nhieu.",
+  "published_at": "2026-05-20T16:38:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.48/FlowTool_FULL_v1.2.48.zip",
+  "full_sha256": "c633f87b7803eec9dc8fb71487d9c3ff3ad420372d47af36c8db155cafc03e79"
 }
