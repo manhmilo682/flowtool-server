@@ -1,9 +1,9 @@
 {
-  "version": "1.2.38",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.38/FlowTool_v1.2.38.zip",
-  "sha256": "9f1a51e118347488f87c242686d8192597dbeff25fcf4b70781063fa8abf7b32",
-  "notes": "Hotfix TikTok mixed-provider: sua callback provider_browser_getter trong TiktokDashboard de node tu mo dung provider theo workflow.",
-  "published_at": "2026-05-20T14:33:22Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.38/FlowTool_FULL_v1.2.38.zip",
-  "full_sha256": "f55278c0009699a677d08f76965e2b231fc7f7c4a95cb6fa904926161b2a2179"
+  "version": "1.2.39",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.39/FlowTool_v1.2.39.zip",
+  "sha256": "2000a2f22fd37916b896778f935b0fad01708f20e2db8d2d4d7801102cfc3235",
+  "notes": "Hotfix workflow provider: dung SQLite connection rieng trong worker thread khi lay tai khoan ChatGPT/Flow/Grok/Meta de tranh loi cross-thread.",
+  "published_at": "2026-05-20T14:40:29Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.39/FlowTool_FULL_v1.2.39.zip",
+  "full_sha256": "c7432d2a87c4a6b0e02ec0210e933aa92f8069da0030e5c3db44692c28a7836f"
 }
