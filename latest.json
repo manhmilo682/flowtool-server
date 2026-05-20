@@ -1,9 +1,9 @@
 {
-  "version": "1.2.43",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.43/FlowTool_v1.2.43.zip",
-  "sha256": "c648c2eee50c22923a9020a556980cf41e26adfeb5a6c57124e401b0be4a04bf",
-  "notes": "Sua loi Playwright Sync API khi workflow TikTok chuyen node ChatGPT sang Meta; chi giu browser cua provider node dang chay.",
-  "published_at": "2026-05-20T15:27:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.43/FlowTool_FULL_v1.2.43.zip",
-  "full_sha256": "a273ab7d0b66c7d3572157d97f319c85b8d73d912c4c3d9af36deafda53dca0a"
+  "version": "1.2.44",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.44/FlowTool_v1.2.44.zip",
+  "sha256": "0f44ea9321aa9f9dfe0706f3f4066def34516a1a13df25794a67a7e974075916",
+  "notes": "Sua Meta Vibes bi popup Discard prompt: khong bam nham nut Create dieu huong, tu bam Stay neu popup hien; an popup Restore pages cua Chrome.",
+  "published_at": "2026-05-20T15:39:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.44/FlowTool_FULL_v1.2.44.zip",
+  "full_sha256": "f8ff01bc7b3a70174c21f89726bd85bbe273f0a647ecbfe3225359a12a4e1dbb"
 }
