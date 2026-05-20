@@ -1,9 +1,9 @@
 {
-  "version": "1.2.30",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.30/FlowTool_v1.2.30.zip",
-  "sha256": "ed541503f07f26001a2cefcbee2de08e44075dcd3f83463f51298994aa21fa70",
-  "notes": "Sua tuong thich giao dien Flow moi: tu dong di qua popup onboarding va bam Add to Prompt sau khi upload anh.",
-  "published_at": "2026-05-20T13:00:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.30/FlowTool_FULL_v1.2.30.zip",
-  "full_sha256": "adfadc82703d03ce0d2c8dcf41074e69c5edd377a5ff43488c9d60216a74e266"
+  "version": "1.2.31",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.31/FlowTool_v1.2.31.zip",
+  "sha256": "b339129c73ef069a80d6995573d6e0ae5f4f3dfc5e6d51d97085343c3edb8d02",
+  "notes": "Tang toc buoc upload Flow giao dien moi: bam Add to Prompt va nhan dien thumbnail trong composer de khong cho lau.",
+  "published_at": "2026-05-20T13:11:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.31/FlowTool_FULL_v1.2.31.zip",
+  "full_sha256": "401747322e8f61da24f7d0a0ff790b33811210c4179cf023108d8771c3435c3e"
 }
