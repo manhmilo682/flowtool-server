@@ -1,9 +1,9 @@
 {
-  "version": "1.2.37",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.37/FlowTool_v1.2.37.zip",
-  "sha256": "976648228d9c67a092de19353b811450a6dc6f19d71e33becae45df65b899529",
-  "notes": "Tu dong nap extension getcookiefplus cho Chrome profile Meta, giu AntiCaptcha va them extension cookie rieng khi mo tai khoan Meta.",
-  "published_at": "2026-05-20T14:23:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.37/FlowTool_FULL_v1.2.37.zip",
-  "full_sha256": "7b605721554f4af6c7886d04bc85d02bce5dda23894db4f49bd423f0214cc7f1"
+  "version": "1.2.38",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.38/FlowTool_v1.2.38.zip",
+  "sha256": "9f1a51e118347488f87c242686d8192597dbeff25fcf4b70781063fa8abf7b32",
+  "notes": "Hotfix TikTok mixed-provider: sua callback provider_browser_getter trong TiktokDashboard de node tu mo dung provider theo workflow.",
+  "published_at": "2026-05-20T14:33:22Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.38/FlowTool_FULL_v1.2.38.zip",
+  "full_sha256": "f55278c0009699a677d08f76965e2b231fc7f7c4a95cb6fa904926161b2a2179"
 }
