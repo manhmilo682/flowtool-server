@@ -1,9 +1,9 @@
 {
-  "version": "1.2.44",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.44/FlowTool_v1.2.44.zip",
-  "sha256": "0f44ea9321aa9f9dfe0706f3f4066def34516a1a13df25794a67a7e974075916",
-  "notes": "Sua Meta Vibes bi popup Discard prompt: khong bam nham nut Create dieu huong, tu bam Stay neu popup hien; an popup Restore pages cua Chrome.",
-  "published_at": "2026-05-20T15:39:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.44/FlowTool_FULL_v1.2.44.zip",
-  "full_sha256": "f8ff01bc7b3a70174c21f89726bd85bbe273f0a647ecbfe3225359a12a4e1dbb"
+  "version": "1.2.45",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.45/FlowTool_v1.2.45.zip",
+  "sha256": "ac97dca753243ab7f1dca9e59b1e9c1b84d3a63be5598bb3da627cc9e8051739",
+  "notes": "Sua Meta Vibes: mo dung man Create/composer, chi bam nut gui gan composer, tranh ket o trang Vibes gallery khi hien Discard prompt.",
+  "published_at": "2026-05-20T15:53:01Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.45/FlowTool_FULL_v1.2.45.zip",
+  "full_sha256": "f0256aced32d55faa96a638fef55a5fea70f9dfddc9dc4e1754520880a7b3123"
 }
