@@ -1,9 +1,9 @@
 {
-  "version": "1.2.41",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.41/FlowTool_v1.2.41.zip",
-  "sha256": "eeefb0a34b58db6586fd0a5b4b979fbf689b7bd3935076117db823094ad17a32",
-  "notes": "Hotfix provider browser: ChatGPT/Meta/Grok mo dung trang provider ngay khi khoi tao session, khong hien Flow truoc.",
-  "published_at": "2026-05-20T15:02:20Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.41/FlowTool_FULL_v1.2.41.zip",
-  "full_sha256": "bc6b55b9bc494fc065fe2facc6e1cab6fd9e01097f777b27b96f33f8bcfc8136"
+  "version": "1.2.42",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.42/FlowTool_v1.2.42.zip",
+  "sha256": "80cd62c016d21c90a7738b73b7cde76839a140bf03bbd97536ece22a0a327d27",
+  "notes": "Cap nhat workflow TikTok: chi mo Chrome khi node can dung provider tuong ung va tranh loi Meta Playwright sync trong luong async.",
+  "published_at": "2026-05-20T15:14:23Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.42/FlowTool_FULL_v1.2.42.zip",
+  "full_sha256": "11727d1f76eb897b8341eb9937327a9a621d7be66f493b30d850a7ed7e365d7c"
 }
