@@ -150,12 +150,21 @@
       "expires": "2029-02-09T11:34:43.234756Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "CCD8260CAED850E3C548BE44BF1E33A30CEF9F02FA2D470F8FF2417E757C7664"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-05-20T10:43:04.571Z",
-      "last_machine_code": "CCD8-260C-AED8-50E3-C548"
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-LPEH-H3IM-RVEU": {
+      "customer": "KH_20260520_193629",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 2,
+      "created_at": "2026-05-20T12:36:34.293068Z",
+      "activated_at": "",
+      "expires": "2026-05-22T12:36:34.293068Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
