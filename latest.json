@@ -1,9 +1,9 @@
 {
-  "version": "1.2.53",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.53/FlowTool_v1.2.53.zip",
-  "sha256": "33dc4edef8571aa9ed694d59b426b1eaaed8511b3fa7676cc94405541f110556",
-  "notes": "Them sap xep cot Trang thai trong bang TikTok va giu sap xep sau khi lam moi bang.",
-  "published_at": "2026-05-20T17:20:28Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.53/FlowTool_FULL_v1.2.53.zip",
-  "full_sha256": "374d50d2fbda356e432536d87b440c440d7996bba5aa4b500b9af3decbafcd25"
+  "version": "1.2.54",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.54/FlowTool_v1.2.54.zip",
+  "sha256": "6a3cc12db505349fb044642c713fded95c1bed65624b1d36926a676406613dcd",
+  "notes": "Them sap xep hai cot Anh da ghep va Video trong bang TikTok, bam tiep de dao chieu.",
+  "published_at": "2026-05-20T17:28:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.54/FlowTool_FULL_v1.2.54.zip",
+  "full_sha256": "0f7bed6ce68ac72b7c0411ee03f533fda08d1c86ebe8d42a234c5bc121af16c1"
 }
