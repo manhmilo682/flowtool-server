@@ -1,9 +1,9 @@
 {
-  "version": "1.2.45",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.45/FlowTool_v1.2.45.zip",
-  "sha256": "ac97dca753243ab7f1dca9e59b1e9c1b84d3a63be5598bb3da627cc9e8051739",
-  "notes": "Sua Meta Vibes: mo dung man Create/composer, chi bam nut gui gan composer, tranh ket o trang Vibes gallery khi hien Discard prompt.",
-  "published_at": "2026-05-20T15:53:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.45/FlowTool_FULL_v1.2.45.zip",
-  "full_sha256": "f0256aced32d55faa96a638fef55a5fea70f9dfddc9dc4e1754520880a7b3123"
+  "version": "1.2.46",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.46/FlowTool_v1.2.46.zip",
+  "sha256": "66d3b8843957070e8bcdf75dc2db587fc3a3c56acc165f1f629693971b6eb4af",
+  "notes": "Sua Meta Vibes: khong nhan nham textbox tren trang Vibes, ep bam Create sidebar truoc khi upload/gui prompt.",
+  "published_at": "2026-05-20T15:59:55Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.46/FlowTool_FULL_v1.2.46.zip",
+  "full_sha256": "fb2c911bcda67e323dd227029a6b711c2258d3ec7468333a826fd78a3b4e9c4c"
 }
