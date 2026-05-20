@@ -1,9 +1,9 @@
 {
-  "version": "1.2.42",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.42/FlowTool_v1.2.42.zip",
-  "sha256": "80cd62c016d21c90a7738b73b7cde76839a140bf03bbd97536ece22a0a327d27",
-  "notes": "Cap nhat workflow TikTok: chi mo Chrome khi node can dung provider tuong ung va tranh loi Meta Playwright sync trong luong async.",
-  "published_at": "2026-05-20T15:14:23Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.42/FlowTool_FULL_v1.2.42.zip",
-  "full_sha256": "11727d1f76eb897b8341eb9937327a9a621d7be66f493b30d850a7ed7e365d7c"
+  "version": "1.2.43",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.43/FlowTool_v1.2.43.zip",
+  "sha256": "c648c2eee50c22923a9020a556980cf41e26adfeb5a6c57124e401b0be4a04bf",
+  "notes": "Sua loi Playwright Sync API khi workflow TikTok chuyen node ChatGPT sang Meta; chi giu browser cua provider node dang chay.",
+  "published_at": "2026-05-20T15:27:09Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.43/FlowTool_FULL_v1.2.43.zip",
+  "full_sha256": "a273ab7d0b66c7d3572157d97f319c85b8d73d912c4c3d9af36deafda53dca0a"
 }
