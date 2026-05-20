@@ -1,9 +1,9 @@
 {
-  "version": "1.2.51",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.51/FlowTool_v1.2.51.zip",
-  "sha256": "ac65458eb7e1a3a01c38871fd845da08e027081bdbb58dbf45e24c355ad5e15f",
-  "notes": "Rut gon nhan tien do TikTok thanh DANG CHAY x/y va bo cac bo loc trang thai Dang dang, That bai, Da xoa.",
-  "published_at": "2026-05-20T16:58:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.51/FlowTool_FULL_v1.2.51.zip",
-  "full_sha256": "a37ec95c4f6b0b6369a3975d32fc924ef671d67420da47b90f511d1a13c1e9e0"
+  "version": "1.2.52",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.52/FlowTool_v1.2.52.zip",
+  "sha256": "cc10bac658246ca5a7e81a63e76f537932e4a18c53849891d71c74725554561a",
+  "notes": "Sua da luong workflow TikTok: moi luong dung rieng tai khoan provider ChatGPT/Meta/Grok, tu gioi han so luong theo account dang bat de tranh loi thread Playwright.",
+  "published_at": "2026-05-20T17:14:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.52/FlowTool_FULL_v1.2.52.zip",
+  "full_sha256": "279bc73ec174ed94d4e7a8337d4668940aefcc5f0566764d00614f7b47499be8"
 }
