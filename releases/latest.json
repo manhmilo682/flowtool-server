@@ -1,9 +1,9 @@
 {
-  "version": "1.2.40",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.40/FlowTool_v1.2.40.zip",
-  "sha256": "9da34196e717e845c59514069ebb6b424507797761855bf1eef56ab5114cf3f4",
-  "notes": "Hotfix TikTok workflow: chay WorkflowEngine trong clean thread rieng de Playwright Sync cua ChatGPT/Meta/Flow/Grok khong bi loi asyncio loop.",
-  "published_at": "2026-05-20T14:54:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.40/FlowTool_FULL_v1.2.40.zip",
-  "full_sha256": "9d81673b34a59bb7ba0cd63df3663f4efdb6e649b147049f6716fb96429f8d4a"
+  "version": "1.2.41",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.41/FlowTool_v1.2.41.zip",
+  "sha256": "eeefb0a34b58db6586fd0a5b4b979fbf689b7bd3935076117db823094ad17a32",
+  "notes": "Hotfix provider browser: ChatGPT/Meta/Grok mo dung trang provider ngay khi khoi tao session, khong hien Flow truoc.",
+  "published_at": "2026-05-20T15:02:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.41/FlowTool_FULL_v1.2.41.zip",
+  "full_sha256": "bc6b55b9bc494fc065fe2facc6e1cab6fd9e01097f777b27b96f33f8bcfc8136"
 }
