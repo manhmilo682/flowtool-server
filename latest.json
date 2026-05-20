@@ -1,9 +1,9 @@
 {
-  "version": "1.2.36",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.36/FlowTool_v1.2.36.zip",
-  "sha256": "7609fff498923eefed616cbdecd132092dd9e3f5f838aed3aed569cd773840d9",
-  "notes": "Bo chon Model chay mac dinh. Workflow tu dong chay dung provider theo tung node Flow/Grok/ChatGPT/Meta va co the ket hop nhieu model trong mot workflow.",
-  "published_at": "2026-05-20T14:12:24Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.36/FlowTool_FULL_v1.2.36.zip",
-  "full_sha256": "0d0a3cb7d20891ae63935bfe0a9a59b1362c184c5cde2e5b79c7233ec1b66a55"
+  "version": "1.2.37",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.37/FlowTool_v1.2.37.zip",
+  "sha256": "976648228d9c67a092de19353b811450a6dc6f19d71e33becae45df65b899529",
+  "notes": "Tu dong nap extension getcookiefplus cho Chrome profile Meta, giu AntiCaptcha va them extension cookie rieng khi mo tai khoan Meta.",
+  "published_at": "2026-05-20T14:23:01Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.37/FlowTool_FULL_v1.2.37.zip",
+  "full_sha256": "7b605721554f4af6c7886d04bc85d02bce5dda23894db4f49bd423f0214cc7f1"
 }
