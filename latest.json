@@ -1,9 +1,9 @@
 {
-  "version": "1.2.46",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.46/FlowTool_v1.2.46.zip",
-  "sha256": "66d3b8843957070e8bcdf75dc2db587fc3a3c56acc165f1f629693971b6eb4af",
-  "notes": "Sua Meta Vibes: khong nhan nham textbox tren trang Vibes, ep bam Create sidebar truoc khi upload/gui prompt.",
-  "published_at": "2026-05-20T15:59:55Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.46/FlowTool_FULL_v1.2.46.zip",
-  "full_sha256": "fb2c911bcda67e323dd227029a6b711c2258d3ec7468333a826fd78a3b4e9c4c"
+  "version": "1.2.47",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.47/FlowTool_v1.2.47.zip",
+  "sha256": "05969e3f8593c3318323b9d7350a21996b22412f23f2c3eeaa99c3cc5d5b123d",
+  "notes": "Sua Meta Vibes tai lap video cu: chi nhan video co src/blob moi sau moi prompt va chan luu trung noi dung video trong cung phien.",
+  "published_at": "2026-05-20T16:28:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.47/FlowTool_FULL_v1.2.47.zip",
+  "full_sha256": "5b695aeedab6a4548abf9f9e9f71057e5783707814e0af855807524b97571df1"
 }
