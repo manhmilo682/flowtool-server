@@ -1,9 +1,9 @@
 {
-  "version": "1.2.39",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.39/FlowTool_v1.2.39.zip",
-  "sha256": "2000a2f22fd37916b896778f935b0fad01708f20e2db8d2d4d7801102cfc3235",
-  "notes": "Hotfix workflow provider: dung SQLite connection rieng trong worker thread khi lay tai khoan ChatGPT/Flow/Grok/Meta de tranh loi cross-thread.",
-  "published_at": "2026-05-20T14:40:29Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.39/FlowTool_FULL_v1.2.39.zip",
-  "full_sha256": "c7432d2a87c4a6b0e02ec0210e933aa92f8069da0030e5c3db44692c28a7836f"
+  "version": "1.2.40",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.40/FlowTool_v1.2.40.zip",
+  "sha256": "9da34196e717e845c59514069ebb6b424507797761855bf1eef56ab5114cf3f4",
+  "notes": "Hotfix TikTok workflow: chay WorkflowEngine trong clean thread rieng de Playwright Sync cua ChatGPT/Meta/Flow/Grok khong bi loi asyncio loop.",
+  "published_at": "2026-05-20T14:54:43Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.40/FlowTool_FULL_v1.2.40.zip",
+  "full_sha256": "9d81673b34a59bb7ba0cd63df3663f4efdb6e649b147049f6716fb96429f8d4a"
 }
