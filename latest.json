@@ -1,9 +1,9 @@
 {
-  "version": "1.2.72",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.72/FlowTool_v1.2.72.zip",
-  "sha256": "9473aaf3b472d3f46832d1797cedaa35cddaf292428216b63170793ada3e8e3d",
-  "notes": "Sua Meta Vibes upload anh va gui prompt chac chan hon",
-  "published_at": "2026-05-21T13:03:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.72/FlowTool_FULL_v1.2.72.zip",
-  "full_sha256": "4279f3200684ca18602f25cfa273fc8e2f362157c7adc11361b0f56cc8119381"
+  "version": "1.2.73",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.73/FlowTool_v1.2.73.zip",
+  "sha256": "36076c8c3f0e44ddad677892dd7911833d04ca1fe424d64b728ea9b8d016d025",
+  "notes": "Sua Meta Vibes tim composer va tu restart khi loi Playwright sync async",
+  "published_at": "2026-05-21T13:12:57Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.73/FlowTool_FULL_v1.2.73.zip",
+  "full_sha256": "53ea1ba9b1e8a24e61f7f1d70b9ee64bd50154f6e2702fb6ae0312cbfe14eba2"
 }
