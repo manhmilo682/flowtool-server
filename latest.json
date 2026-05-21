@@ -1,9 +1,9 @@
 {
-  "version": "1.2.57",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.57/FlowTool_v1.2.57.zip",
-  "sha256": "fafdd476ea4bb275e997b7c48b9ca629d1fc959128c04dcf4f99a1c3b4116fbe",
-  "notes": "Sua TikTok: cac nut chay chinh lay so luong theo o So video, khong bi gioi han boi slot dang click; neu khong du slot thi chi chay trong pham vi co the.",
-  "published_at": "2026-05-21T04:05:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.57/FlowTool_FULL_v1.2.57.zip",
-  "full_sha256": "98dde996984259bb7157808f72f58e65ca43fd1fc85207ea0d8686c8d63493fa"
+  "version": "1.2.58",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.58/FlowTool_v1.2.58.zip",
+  "sha256": "0dbc344c7ee119c32a7fea9577499785369e0ce0da0cc8ef2ff6eec5e6568b7c",
+  "notes": "Them check limit ChatGPT image generation: nhan dien free plan/image generation limit va bo qua tai khoan het quota de workflow dung tai khoan khac.",
+  "published_at": "2026-05-21T04:10:09Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.58/FlowTool_FULL_v1.2.58.zip",
+  "full_sha256": "6fcb96d1f9e30012e504016f88151f319c389ab449702fdad10121b7256febcd"
 }
