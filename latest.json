@@ -1,9 +1,9 @@
 {
-  "version": "1.2.67",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.67/FlowTool_v1.2.67.zip",
-  "sha256": "ef8bbd37720725d59a866dd7bc7a1d8ac732e1790ed2090a91511a43b4ac223b",
-  "notes": "Chong ghep nham canh video giua cac slot khi chay da luong",
-  "published_at": "2026-05-21T11:35:51Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.67/FlowTool_FULL_v1.2.67.zip",
-  "full_sha256": "4f601975ea87e1959ce3603af47f5a132ccabe32136a7f07d244ee0ad834b876"
+  "version": "1.2.68",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.68/FlowTool_v1.2.68.zip",
+  "sha256": "9bb55e79a00e71f8c0d53c5651571dc63e1044e791cff3b93e4e6c58e5af4d05",
+  "notes": "Them dang video tu menu chuot phai va sap xep lai menu hang doi",
+  "published_at": "2026-05-21T11:43:02Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.68/FlowTool_FULL_v1.2.68.zip",
+  "full_sha256": "a455722efe596600719ed0ee1abd56a07640e2240a2356d704eab8f656bb0f88"
 }
