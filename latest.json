@@ -1,9 +1,9 @@
 {
-  "version": "1.2.80",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.80/FlowTool_v1.2.80.zip",
-  "sha256": "1a3cffdd4020adb339d7a4ec880c6cca93e37e213c0ebf5bf3f1263a427f63e0",
-  "notes": "Fix Flow UI moi va on dinh cac buoc chay Veo3",
-  "published_at": "2026-05-21T17:38:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.80/FlowTool_FULL_v1.2.80.zip",
-  "full_sha256": "4a14cb0640f0052d6e1ab7030e4e6cd9d0240a98f92a430d631ce7920196f454"
+  "version": "1.2.81",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.81/FlowTool_v1.2.81.zip",
+  "sha256": "4d25ded3894b898ead6637efe00b9ae5f7b16ecc5a38281c59cf2b4354e40e8b",
+  "notes": "Fix Flow UI moi: bam nut tao mau cam va khong dong prompt khi dang render",
+  "published_at": "2026-05-21T17:48:32Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.81/FlowTool_FULL_v1.2.81.zip",
+  "full_sha256": "7fd84063e996e328eb34c85cf7c31bfc7feed58cdb6ad648c5af9fd2714a2ecb"
 }
