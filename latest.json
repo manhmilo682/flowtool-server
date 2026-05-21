@@ -1,9 +1,9 @@
 {
-  "version": "1.2.56",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.56/FlowTool_v1.2.56.zip",
-  "sha256": "e998fd594f4c38125256a8fe48d8b401d3e902c2067306f7d897e473bf147899",
-  "notes": "Sua ChatGPT: moi prompt mo chat moi, thu xoa chat va bam tao lai khi bao loi; them cot Anh da ghep o giua popup preview TikTok.",
-  "published_at": "2026-05-20T17:46:02Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.56/FlowTool_FULL_v1.2.56.zip",
-  "full_sha256": "9bf1514fc64dea2213a29846ed48b5e449af3c844f5345f04623f9b94bdce977"
+  "version": "1.2.57",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.57/FlowTool_v1.2.57.zip",
+  "sha256": "fafdd476ea4bb275e997b7c48b9ca629d1fc959128c04dcf4f99a1c3b4116fbe",
+  "notes": "Sua TikTok: cac nut chay chinh lay so luong theo o So video, khong bi gioi han boi slot dang click; neu khong du slot thi chi chay trong pham vi co the.",
+  "published_at": "2026-05-21T04:05:43Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.57/FlowTool_FULL_v1.2.57.zip",
+  "full_sha256": "98dde996984259bb7157808f72f58e65ca43fd1fc85207ea0d8686c8d63493fa"
 }
