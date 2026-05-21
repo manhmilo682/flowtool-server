@@ -1,9 +1,9 @@
 {
-  "version": "1.2.64",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.64/FlowTool_v1.2.64.zip",
-  "sha256": "bcc3c3a6876a49825250d2666dbbaab6cb0a53cf676bd3911f27e82b72000d94",
-  "notes": "Sua chia luong provider doc lap cho Grok va Meta",
-  "published_at": "2026-05-21T06:08:19Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.64/FlowTool_FULL_v1.2.64.zip",
-  "full_sha256": "f4f8efe2bffb9003fd4cd037d8983fc3d20abea499375ba791a28bbc76da52b0"
+  "version": "1.2.66",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.66/FlowTool_v1.2.66.zip",
+  "sha256": "c85760d01c5ecbe29ce7a2972f7adce83a94f16096473ed36f70daccdaa3d4bf",
+  "notes": "Sua khoa luong provider bang ve rieng cho Grok va Meta",
+  "published_at": "2026-05-21T11:23:15Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.66/FlowTool_FULL_v1.2.66.zip",
+  "full_sha256": "3efc43e5b0b509a1c0abd1da04ce7d6409291dc3297ab650903b39f9c13a6841"
 }
