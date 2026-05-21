@@ -1,9 +1,9 @@
 {
-  "version": "1.2.69",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.69/FlowTool_v1.2.69.zip",
-  "sha256": "c4e4e733bf99fa7088d9ae5eec43357981bd2808171fd49cae49ff15ac3c1144",
-  "notes": "Them chay workflow tu menu chuot phai hang doi",
-  "published_at": "2026-05-21T12:10:00Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.69/FlowTool_FULL_v1.2.69.zip",
-  "full_sha256": "706e3dfc2e38c681dade91ffa38eae8d177a4de39b6f1fa8cf140e69bdb2b6fb"
+  "version": "1.2.71",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.71/FlowTool_v1.2.71.zip",
+  "sha256": "5381779fb6181349f24809a1acee4e964045d50cdb089609b48ef0796cb0cf82",
+  "notes": "Xep hang lenh TikTok khi dang chay, sua reset trang thai va toi uu bo cuc bang hang doi",
+  "published_at": "2026-05-21T12:24:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.71/FlowTool_FULL_v1.2.71.zip",
+  "full_sha256": "d1e13d38c93dd6f44ce3930addd4f92d732322b0e5a58f4f5ee458098a3938c0"
 }
