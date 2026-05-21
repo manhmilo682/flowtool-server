@@ -1,9 +1,9 @@
 {
-  "version": "1.2.63",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.63/FlowTool_v1.2.63.zip",
-  "sha256": "51fc81d629ef0122b13f304aea088b938ea5ebac4a42ed8279449072ed45a6ba",
-  "notes": "Toi uu hang doi Workflow 1 va Workflow 2 chay pipeline da luong",
-  "published_at": "2026-05-21T05:59:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.63/FlowTool_FULL_v1.2.63.zip",
-  "full_sha256": "e271228c89eec8cdccebef14e6f7c16721997b221dd106af62bec511ef3ba0ee"
+  "version": "1.2.64",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.64/FlowTool_v1.2.64.zip",
+  "sha256": "bcc3c3a6876a49825250d2666dbbaab6cb0a53cf676bd3911f27e82b72000d94",
+  "notes": "Sua chia luong provider doc lap cho Grok va Meta",
+  "published_at": "2026-05-21T06:08:19Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.64/FlowTool_FULL_v1.2.64.zip",
+  "full_sha256": "f4f8efe2bffb9003fd4cd037d8983fc3d20abea499375ba791a28bbc76da52b0"
 }
