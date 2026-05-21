@@ -1,9 +1,9 @@
 {
-  "version": "1.2.59",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.59/FlowTool_v1.2.59.zip",
-  "sha256": "73f7fa8c22e345b7c6394c379ae7d558b47a5b1348ed35f2c75ff283b6f7f718",
-  "notes": "Them import cookie Meta/Facebook: luu cookie theo tai khoan Meta, nap vao Chrome profile Meta co extension FPlus Cookie va mo Meta Vibes bang session cookie.",
-  "published_at": "2026-05-21T05:20:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.59/FlowTool_FULL_v1.2.59.zip",
-  "full_sha256": "624be06321a73fa4b123b247db736b59e73bc187ac49dfe6640d9d2cd16c3033"
+  "version": "1.2.60",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.60/FlowTool_v1.2.60.zip",
+  "sha256": "cc3d1b960661c8dac6ef33a92381e593233076beb52b8e18f72269b657e03411",
+  "notes": "Cap nhat da luong workflow theo slot va import cookie Meta dung profile moi",
+  "published_at": "2026-05-21T05:40:27Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.60/FlowTool_FULL_v1.2.60.zip",
+  "full_sha256": "dacd08723f87484f71d9e54ef8da25bec646a5fbcf1c71741c905270e34346ac"
 }
