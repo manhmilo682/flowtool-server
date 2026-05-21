@@ -1,9 +1,9 @@
 {
-  "version": "1.2.74",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.74/FlowTool_v1.2.74.zip",
-  "sha256": "013942a93cc9935b5f92b1f84904ac0ea814ff58fdcf921c2b8dac0b1ae88fd7",
-  "notes": "Sua Meta Vibes giu composer va gui prompt bang fallback JS",
-  "published_at": "2026-05-21T13:21:07Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.74/FlowTool_FULL_v1.2.74.zip",
-  "full_sha256": "21bb98fc2b131917953d452f68dff551bb0f578b0ec4aea45c82124d4fbddda4"
+  "version": "1.2.75",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.75/FlowTool_v1.2.75.zip",
+  "sha256": "2db4d8edd3e8b8d58c2ca580d509c5993a6eb06ec5d4bdeda886534f6c704c9d",
+  "notes": "Sua Meta Vibes popup Discard prompt va retry browser ro hon",
+  "published_at": "2026-05-21T13:28:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.75/FlowTool_FULL_v1.2.75.zip",
+  "full_sha256": "1fe70ff62fb178b3575deb868f1878400054109be383697a33b98d6792bf5085"
 }
