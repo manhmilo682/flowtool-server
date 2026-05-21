@@ -1,9 +1,9 @@
 {
-  "version": "1.2.76",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.76/FlowTool_v1.2.76.zip",
-  "sha256": "bec2750582fd26192a4e2c2bf8cb3d6ff5874e41b847a33e7cdfb77cfa165321",
-  "notes": "Khoi phuc cach chay Meta Vibes ve kieu on dinh ban 1.2.64",
-  "published_at": "2026-05-21T13:38:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.76/FlowTool_FULL_v1.2.76.zip",
-  "full_sha256": "d2f753b9908ebc99936087e028a2270f7b1667fca1ca2df2f4bf8563adf7e04e"
+  "version": "1.2.77",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.77/FlowTool_v1.2.77.zip",
+  "sha256": "9b183fc4cd281dda23d85d1da3d5e8777cbc803fa0e9b81a103d1ca79b190cb3",
+  "notes": "Thêm menu chuột phải Xóa ảnh đã ghép cho TikTok slot; xóa file ảnh ghép và clear thông tin workflow 1 trong registry. Cải thiện Meta Vibes: bấm nút gửi góc phải dưới, timeout Meta tối thiểu 420s, rút gọn prompt Meta quá dài để tránh kẹt.",
+  "published_at": "2026-05-21T15:01:21Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.77/FlowTool_FULL_v1.2.77.zip",
+  "full_sha256": "afd67cc11ae023d4677f7148397822018cb53de8949b4a138d738f87da0bf6e4"
 }
