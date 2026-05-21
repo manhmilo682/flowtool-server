@@ -1,9 +1,9 @@
 {
-  "version": "1.2.58",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.58/FlowTool_v1.2.58.zip",
-  "sha256": "0dbc344c7ee119c32a7fea9577499785369e0ce0da0cc8ef2ff6eec5e6568b7c",
-  "notes": "Them check limit ChatGPT image generation: nhan dien free plan/image generation limit va bo qua tai khoan het quota de workflow dung tai khoan khac.",
-  "published_at": "2026-05-21T04:10:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.58/FlowTool_FULL_v1.2.58.zip",
-  "full_sha256": "6fcb96d1f9e30012e504016f88151f319c389ab449702fdad10121b7256febcd"
+  "version": "1.2.59",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.59/FlowTool_v1.2.59.zip",
+  "sha256": "73f7fa8c22e345b7c6394c379ae7d558b47a5b1348ed35f2c75ff283b6f7f718",
+  "notes": "Them import cookie Meta/Facebook: luu cookie theo tai khoan Meta, nap vao Chrome profile Meta co extension FPlus Cookie va mo Meta Vibes bang session cookie.",
+  "published_at": "2026-05-21T05:20:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.59/FlowTool_FULL_v1.2.59.zip",
+  "full_sha256": "624be06321a73fa4b123b247db736b59e73bc187ac49dfe6640d9d2cd16c3033"
 }
