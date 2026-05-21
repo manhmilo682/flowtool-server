@@ -1,9 +1,9 @@
 {
-  "version": "1.2.61",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.61/FlowTool_v1.2.61.zip",
-  "sha256": "7183ffe001b50771d0219430469a462c54bb022eaeb64e8bf04d2bc9aa98e230",
-  "notes": "Hotfix loi luu workflow slot trong bang TikTok",
-  "published_at": "2026-05-21T05:45:42Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.61/FlowTool_FULL_v1.2.61.zip",
-  "full_sha256": "53123c3ea8a0c8431e355137fd67b9e08364c78226b4062640f94282f1b3b996"
+  "version": "1.2.62",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.62/FlowTool_v1.2.62.zip",
+  "sha256": "1cef190d76ff129aec0662f34b71a5441a78be3dac6bf87118b36a7666196e81",
+  "notes": "Them Workflow 1 va Workflow 2 cho tung slot TikTok",
+  "published_at": "2026-05-21T05:54:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.62/FlowTool_FULL_v1.2.62.zip",
+  "full_sha256": "b109a7a52932d00fb64683c0851e42eba67ddf8497b277ffa2c63aa4cc97648e"
 }
