@@ -1,9 +1,9 @@
 {
-  "version": "1.2.75",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.75/FlowTool_v1.2.75.zip",
-  "sha256": "2db4d8edd3e8b8d58c2ca580d509c5993a6eb06ec5d4bdeda886534f6c704c9d",
-  "notes": "Sua Meta Vibes popup Discard prompt va retry browser ro hon",
-  "published_at": "2026-05-21T13:28:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.75/FlowTool_FULL_v1.2.75.zip",
-  "full_sha256": "1fe70ff62fb178b3575deb868f1878400054109be383697a33b98d6792bf5085"
+  "version": "1.2.76",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.76/FlowTool_v1.2.76.zip",
+  "sha256": "bec2750582fd26192a4e2c2bf8cb3d6ff5874e41b847a33e7cdfb77cfa165321",
+  "notes": "Khoi phuc cach chay Meta Vibes ve kieu on dinh ban 1.2.64",
+  "published_at": "2026-05-21T13:38:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.76/FlowTool_FULL_v1.2.76.zip",
+  "full_sha256": "d2f753b9908ebc99936087e028a2270f7b1667fca1ca2df2f4bf8563adf7e04e"
 }
