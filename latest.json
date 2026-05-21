@@ -1,9 +1,9 @@
 {
-  "version": "1.2.60",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.60/FlowTool_v1.2.60.zip",
-  "sha256": "cc3d1b960661c8dac6ef33a92381e593233076beb52b8e18f72269b657e03411",
-  "notes": "Cap nhat da luong workflow theo slot va import cookie Meta dung profile moi",
-  "published_at": "2026-05-21T05:40:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.60/FlowTool_FULL_v1.2.60.zip",
-  "full_sha256": "dacd08723f87484f71d9e54ef8da25bec646a5fbcf1c71741c905270e34346ac"
+  "version": "1.2.61",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.61/FlowTool_v1.2.61.zip",
+  "sha256": "7183ffe001b50771d0219430469a462c54bb022eaeb64e8bf04d2bc9aa98e230",
+  "notes": "Hotfix loi luu workflow slot trong bang TikTok",
+  "published_at": "2026-05-21T05:45:42Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.61/FlowTool_FULL_v1.2.61.zip",
+  "full_sha256": "53123c3ea8a0c8431e355137fd67b9e08364c78226b4062640f94282f1b3b996"
 }
