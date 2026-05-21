@@ -1,9 +1,9 @@
 {
-  "version": "1.2.66",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.66/FlowTool_v1.2.66.zip",
-  "sha256": "c85760d01c5ecbe29ce7a2972f7adce83a94f16096473ed36f70daccdaa3d4bf",
-  "notes": "Sua khoa luong provider bang ve rieng cho Grok va Meta",
-  "published_at": "2026-05-21T11:23:15Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.66/FlowTool_FULL_v1.2.66.zip",
-  "full_sha256": "3efc43e5b0b509a1c0abd1da04ce7d6409291dc3297ab650903b39f9c13a6841"
+  "version": "1.2.67",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.67/FlowTool_v1.2.67.zip",
+  "sha256": "ef8bbd37720725d59a866dd7bc7a1d8ac732e1790ed2090a91511a43b4ac223b",
+  "notes": "Chong ghep nham canh video giua cac slot khi chay da luong",
+  "published_at": "2026-05-21T11:35:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.67/FlowTool_FULL_v1.2.67.zip",
+  "full_sha256": "4f601975ea87e1959ce3603af47f5a132ccabe32136a7f07d244ee0ad834b876"
 }
