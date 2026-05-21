@@ -1,9 +1,9 @@
 {
-  "version": "1.2.82",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.82/FlowTool_v1.2.82.zip",
-  "sha256": "0d099f5e80c70774137f0da53e3c211be9076efff1ca76e153e686d7f1454322",
-  "notes": "Fix Flow Add to Prompt va cap nhat model Veo 3.1 UI moi",
-  "published_at": "2026-05-21T18:01:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.82/FlowTool_FULL_v1.2.82.zip",
-  "full_sha256": "6fb1528004220e2be3abd4387577d72ae12089ac8374500de5ed16cc03bb11be"
+  "version": "1.2.83",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.83/FlowTool_v1.2.83.zip",
+  "sha256": "5ca3d182e01be9b1e670d5100fb72ec1fc8762634f423b7c6ec159347668e11e",
+  "notes": "Fix realtime Flow Add to Prompt va tu mo lai Chrome debug port",
+  "published_at": "2026-05-21T18:23:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.83/FlowTool_FULL_v1.2.83.zip",
+  "full_sha256": "b705a2eeefe05d62311752a9b738b7d5fedba1f2c082259ca14bfba0582b30d3"
 }
