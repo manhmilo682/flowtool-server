@@ -1,9 +1,9 @@
 {
-  "version": "1.2.71",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.71/FlowTool_v1.2.71.zip",
-  "sha256": "5381779fb6181349f24809a1acee4e964045d50cdb089609b48ef0796cb0cf82",
-  "notes": "Xep hang lenh TikTok khi dang chay, sua reset trang thai va toi uu bo cuc bang hang doi",
-  "published_at": "2026-05-21T12:24:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.71/FlowTool_FULL_v1.2.71.zip",
-  "full_sha256": "d1e13d38c93dd6f44ce3930addd4f92d732322b0e5a58f4f5ee458098a3938c0"
+  "version": "1.2.72",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.72/FlowTool_v1.2.72.zip",
+  "sha256": "9473aaf3b472d3f46832d1797cedaa35cddaf292428216b63170793ada3e8e3d",
+  "notes": "Sua Meta Vibes upload anh va gui prompt chac chan hon",
+  "published_at": "2026-05-21T13:03:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.72/FlowTool_FULL_v1.2.72.zip",
+  "full_sha256": "4279f3200684ca18602f25cfa273fc8e2f362157c7adc11361b0f56cc8119381"
 }
