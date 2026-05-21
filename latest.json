@@ -1,9 +1,9 @@
 {
-  "version": "1.2.81",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.81/FlowTool_v1.2.81.zip",
-  "sha256": "4d25ded3894b898ead6637efe00b9ae5f7b16ecc5a38281c59cf2b4354e40e8b",
-  "notes": "Fix Flow UI moi: bam nut tao mau cam va khong dong prompt khi dang render",
-  "published_at": "2026-05-21T17:48:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.81/FlowTool_FULL_v1.2.81.zip",
-  "full_sha256": "7fd84063e996e328eb34c85cf7c31bfc7feed58cdb6ad648c5af9fd2714a2ecb"
+  "version": "1.2.82",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.82/FlowTool_v1.2.82.zip",
+  "sha256": "0d099f5e80c70774137f0da53e3c211be9076efff1ca76e153e686d7f1454322",
+  "notes": "Fix Flow Add to Prompt va cap nhat model Veo 3.1 UI moi",
+  "published_at": "2026-05-21T18:01:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.82/FlowTool_FULL_v1.2.82.zip",
+  "full_sha256": "6fb1528004220e2be3abd4387577d72ae12089ac8374500de5ed16cc03bb11be"
 }
