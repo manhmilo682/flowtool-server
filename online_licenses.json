@@ -180,8 +180,12 @@
       "expires": "2026-05-27T12:43:55.434515Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [],
-      "blocked_hwids": []
+      "allowed_hwids": [
+        "5108A8F4DCF93DB21E38054AAB27BD272F8A2E854C2FC1D81AFB18B6241DC2B4"
+      ],
+      "blocked_hwids": [],
+      "bound_at": "2026-05-22T12:44:32.571Z",
+      "last_machine_code": "5108-A8F4-DCF9-3DB2-1E38"
     }
   }
 }
