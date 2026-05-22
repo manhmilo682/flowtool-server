@@ -1,9 +1,9 @@
 {
-  "version": "1.3.06",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.06/FlowTool_v1.3.06.zip",
-  "sha256": "eb8fe9356b4d2f2caa8f104b6ee3b5b096d1890245611c0623a58a128fe5add1",
-  "notes": "Fix loi ghep video nham slot khi chay Meta song song: worker chi dong browser ma no that su muon/mo, khong dong browser theo account chinh neu account do dang duoc luong khac dung lam provider. Engine chan video node nam trong thu muc slot khac truoc khi khoa vao slot hien tai de tranh ghep nham.",
-  "published_at": "2026-05-22T16:04:45Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.06/FlowTool_FULL_v1.3.06.zip",
-  "full_sha256": "4373609a1dec87fe1a30de7d80caa48e6cbde73e17585ab072a932a0da6d5ae3"
+  "version": "1.3.08",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.08/FlowTool_v1.3.08.zip",
+  "sha256": "e553ee49b0b4a4100d733b203be27abb9b5f6eed845bd632b87a3cc07f58a2f3",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-05-22T18:18:48Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.08/FlowTool_FULL_v1.3.08.zip",
+  "full_sha256": "fba4c3a7a34f65d73d4a7709f29f06c6d99f9d6d9c9c31e6cc72413f20972df3"
 }
