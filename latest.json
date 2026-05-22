@@ -1,9 +1,9 @@
 {
-  "version": "1.2.96",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.96/FlowTool_v1.2.96.zip",
-  "sha256": "e77345dee22a9fa19e4e8aa01225114327f7335230ff49044b6d150cb8f0a3c6",
-  "notes": "Th?m b? l?c Group trong C?u h?nh TikTok; l?c b?ng theo group; khi ch?y workflow ch? l?y slot thu?c group ?ang ch?n; l?u l?a ch?n group trong c?u h?nh UI.",
-  "published_at": "2026-05-22T14:11:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.96/FlowTool_FULL_v1.2.96.zip",
-  "full_sha256": "47bc1f6f2378d7fc9de567248816b133110452ade26c89922bb83fcc584e429b"
+  "version": "1.2.97",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.97/FlowTool_v1.2.97.zip",
+  "sha256": "d3317bb27a3be3c8178f40d24ba61614b6f3baa6a6e8620888bffe1c791ecbac",
+  "notes": "Th?m c?t Group hi?n th? trong b?ng slot TikTok, ??t sau M? slot; gi? Key ?n; c?p nh?t sort c?c c?t sau khi th?m Group.",
+  "published_at": "2026-05-22T14:22:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.97/FlowTool_FULL_v1.2.97.zip",
+  "full_sha256": "2c9080780ef2e8236d635e112491890480ba667dc84e8d86c14f54176722a98b"
 }
