@@ -1,9 +1,9 @@
 {
-  "version": "1.2.83",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.83/FlowTool_v1.2.83.zip",
-  "sha256": "5ca3d182e01be9b1e670d5100fb72ec1fc8762634f423b7c6ec159347668e11e",
-  "notes": "Fix realtime Flow Add to Prompt va tu mo lai Chrome debug port",
-  "published_at": "2026-05-21T18:23:20Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.83/FlowTool_FULL_v1.2.83.zip",
-  "full_sha256": "b705a2eeefe05d62311752a9b738b7d5fedba1f2c082259ca14bfba0582b30d3"
+  "version": "1.2.84",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.84/FlowTool_v1.2.84.zip",
+  "sha256": "bef7b6ee6964cb40258730352f31fa7505bfb8c64cae47a33e52b3d92c5f5ede",
+  "notes": "Fix Flow: cho anh load Add to Prompt roi nhap prompt vao composer",
+  "published_at": "2026-05-22T02:57:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.84/FlowTool_FULL_v1.2.84.zip",
+  "full_sha256": "7cf34176f9a09b075528c0941c14d1d09a94865411d3754657d14291093cd25c"
 }
