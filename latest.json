@@ -1,9 +1,9 @@
 {
-  "version": "1.2.98",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.98/FlowTool_v1.2.98.zip",
-  "sha256": "9df1f74f4dedd4f6d23c84c2a2b2fcdc4fc7d89392bb3aa0cf09b422025e9e14",
-  "notes": "B? c?t Username trong b?ng slot TikTok v? tr?ng v?i c?t T?i kho?n; c?p nh?t l?i index sort/tooltip sau khi b? c?t.",
-  "published_at": "2026-05-22T14:27:14Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.98/FlowTool_FULL_v1.2.98.zip",
-  "full_sha256": "558788ed0f2212c0922ff26eac56d82ffabecf0ebaf89664adbca0fe4a966a11"
+  "version": "1.2.99",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.99/FlowTool_v1.2.99.zip",
+  "sha256": "7b3e171afa9cec3846c38069ec7c059b4f0f00cbe41493a9096d54833445a67d",
+  "notes": "Th?m l?a ch?n Ch?a c? group trong b? l?c Group; b?ng v? workflow ch? l?y slot ch?a g?n group khi ch?n m?c n?y.",
+  "published_at": "2026-05-22T14:31:28Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.99/FlowTool_FULL_v1.2.99.zip",
+  "full_sha256": "710aebf2583304e18c011c6cdc44b2e8de8f4b57ef3d5ba7b4444c61873fcc66"
 }
