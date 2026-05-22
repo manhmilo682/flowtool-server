@@ -1,9 +1,9 @@
 {
-  "version": "1.2.85",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.85/FlowTool_v1.2.85.zip",
-  "sha256": "f07c1295f676de2f27728ce1fa1e7a12ee3c4477ddf5f0b7968eae3414e56753",
-  "notes": "Fix Flow khong add lap khi anh da vao prompt",
-  "published_at": "2026-05-22T03:07:31Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.85/FlowTool_FULL_v1.2.85.zip",
-  "full_sha256": "65f6fbabfb959efce3dad3abca980fb9e30c501c309f16b573081f20d5ac718a"
+  "version": "1.2.86",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.86/FlowTool_v1.2.86.zip",
+  "sha256": "295faedd2a797c54d2327a14f18730c5b22e0ea959f936f881c13339c4f03e2a",
+  "notes": "Fix Flow dung ngay khi anh da vao composer sau Add to Prompt",
+  "published_at": "2026-05-22T03:17:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.86/FlowTool_FULL_v1.2.86.zip",
+  "full_sha256": "647cc774746c963e383b4e18fc9b5ed850c2cdc801f7ccd21444f750225c7d74"
 }
