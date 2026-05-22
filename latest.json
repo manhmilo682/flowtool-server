@@ -1,9 +1,9 @@
 {
-  "version": "1.2.99",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.99/FlowTool_v1.2.99.zip",
-  "sha256": "7b3e171afa9cec3846c38069ec7c059b4f0f00cbe41493a9096d54833445a67d",
-  "notes": "Th?m l?a ch?n Ch?a c? group trong b? l?c Group; b?ng v? workflow ch? l?y slot ch?a g?n group khi ch?n m?c n?y.",
-  "published_at": "2026-05-22T14:31:28Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.99/FlowTool_FULL_v1.2.99.zip",
-  "full_sha256": "710aebf2583304e18c011c6cdc44b2e8de8f4b57ef3d5ba7b4444c61873fcc66"
+  "version": "1.3.01",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.01/FlowTool_v1.3.01.zip",
+  "sha256": "3dfcb6ba121d0f6e96b1107461d8914da761d7b098738254ca75b9cc233c578e",
+  "notes": "Si?t b? l?c Group khi ch?y workflow: ??i Group s? x?a selection c?; tr??c khi ch?y/th?m h?ng ??i lu?n l?c l?i b?ng group hi?n t?i ?? slot ngo?i group kh?ng l?t v?o queue.",
+  "published_at": "2026-05-22T14:36:11Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.01/FlowTool_FULL_v1.3.01.zip",
+  "full_sha256": "d9a9f9a1a28555489a7b6db7eadde10f38cc8cb6e151d454030b049fcefcf18e"
 }
