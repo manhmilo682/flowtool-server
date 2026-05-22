@@ -1,9 +1,9 @@
 {
-  "version": "1.2.95",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.95/FlowTool_v1.2.95.zip",
-  "sha256": "1a8771abeab51bc7fb6cc46dd22c4f087f18e0e1258a357b0bff65c8ee2c384c",
-  "notes": "Th?m group cho slot TikTok t? menu chu?t ph?i; th?m n?t So s?nh nhanh c?nh Xem tr??c nhanh; dialog so s?nh ?nh s?n ph?m/?nh ?? gh?p c? cu?n chu?t qua slot ti?p theo v? n?t x?a ?nh ?? gh?p cho slot hi?n t?i.",
-  "published_at": "2026-05-22T14:04:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.95/FlowTool_FULL_v1.2.95.zip",
-  "full_sha256": "a6c4e41cc6de781a8040fa28711522b5a829e4c8773306b3d21b2303ebfed50c"
+  "version": "1.2.96",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.96/FlowTool_v1.2.96.zip",
+  "sha256": "e77345dee22a9fa19e4e8aa01225114327f7335230ff49044b6d150cb8f0a3c6",
+  "notes": "Th?m b? l?c Group trong C?u h?nh TikTok; l?c b?ng theo group; khi ch?y workflow ch? l?y slot thu?c group ?ang ch?n; l?u l?a ch?n group trong c?u h?nh UI.",
+  "published_at": "2026-05-22T14:11:01Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.96/FlowTool_FULL_v1.2.96.zip",
+  "full_sha256": "47bc1f6f2378d7fc9de567248816b133110452ade26c89922bb83fcc584e429b"
 }
