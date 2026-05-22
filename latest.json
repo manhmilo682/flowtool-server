@@ -1,9 +1,9 @@
 {
-  "version": "1.3.05",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.05/FlowTool_v1.3.05.zip",
-  "sha256": "0d5a280be93b0c637d3c667c14135fa930f28ab5efa64d3b6c10d39c7efbe844",
-  "notes": "C?p nh?t Xem tr??c nhanh: cu?n chu?t ?? chuy?n slot tr??c/sau trong popup preview, th?m n?t X?a video ngay trong popup v? d?ng chung logic x?a video c?a b?ng ?? d?n registry/tr?ng th?i slot.",
-  "published_at": "2026-05-22T15:40:22Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.05/FlowTool_FULL_v1.3.05.zip",
-  "full_sha256": "673be53ed201a3bef7c4da87493e1ce3dc3208ccd6c67a6701a3ee4a33468d1c"
+  "version": "1.3.06",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.06/FlowTool_v1.3.06.zip",
+  "sha256": "eb8fe9356b4d2f2caa8f104b6ee3b5b096d1890245611c0623a58a128fe5add1",
+  "notes": "Fix loi ghep video nham slot khi chay Meta song song: worker chi dong browser ma no that su muon/mo, khong dong browser theo account chinh neu account do dang duoc luong khac dung lam provider. Engine chan video node nam trong thu muc slot khac truoc khi khoa vao slot hien tai de tranh ghep nham.",
+  "published_at": "2026-05-22T16:04:45Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.06/FlowTool_FULL_v1.3.06.zip",
+  "full_sha256": "4373609a1dec87fe1a30de7d80caa48e6cbde73e17585ab072a932a0da6d5ae3"
 }
