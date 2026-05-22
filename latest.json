@@ -1,9 +1,9 @@
 {
-  "version": "1.2.90",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.90/FlowTool_v1.2.90.zip",
-  "sha256": "14c80bce7e228f9bb2167c2cac25c38951fa9ebfa14f776da9a6a18d70e1f776",
-  "notes": "Fix Grok nhan video tu Downloads",
-  "published_at": "2026-05-22T04:34:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.90/FlowTool_FULL_v1.2.90.zip",
-  "full_sha256": "748211344aecd5c1be8ec35cda1f47ce7b4203219e8628847985eeb614510605"
+  "version": "1.2.91",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.91/FlowTool_v1.2.91.zip",
+  "sha256": "b11ba242f06db88450aedf20d0454ee5324445e3d5995ef2119a5d9d0b7af2b7",
+  "notes": "Fix Grok song song khong nhat nham video slot khac",
+  "published_at": "2026-05-22T05:30:26Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.91/FlowTool_FULL_v1.2.91.zip",
+  "full_sha256": "efd0b31cd3a5c19bad399ed9bebaa653ffe128434133d2ceca11ad7de627da86"
 }
