@@ -1,9 +1,9 @@
 {
-  "version": "1.2.87",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.87/FlowTool_v1.2.87.zip",
-  "sha256": "b3416c4f257434c807a8567e2a8c3972950729ae149150b18af13eac1cc848f8",
-  "notes": "Fix Flow gui yeu cau video bang nut mui ten composer",
-  "published_at": "2026-05-22T03:26:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.87/FlowTool_FULL_v1.2.87.zip",
-  "full_sha256": "83cbe653bc30b0f2121356c5b1d16a12d6e4fa6f5a326f982e80f4bc903f64fa"
+  "version": "1.2.88",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.88/FlowTool_v1.2.88.zip",
+  "sha256": "a73dcb9252010bbb187ea2e1f92febd00a7fd2c0e05fde6dc3a1f0875216d6f7",
+  "notes": "Fix nhan file video tai ve Meta Grok",
+  "published_at": "2026-05-22T04:14:23Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.88/FlowTool_FULL_v1.2.88.zip",
+  "full_sha256": "31a2c9f9093984bba8b42e8b2668e6d4d4f4f5ec5a3df55150a1d2d75826401c"
 }
