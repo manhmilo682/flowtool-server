@@ -1,9 +1,9 @@
 {
-  "version": "1.2.93",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.93/FlowTool_v1.2.93.zip",
-  "sha256": "dbee6f22b126755bee9f53ac353a6bd2d25ff6b5c06f0f1e55f4d7fa58d27611",
-  "notes": "Fix chup anh loi workflow dung thread browser",
-  "published_at": "2026-05-22T07:16:50Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.93/FlowTool_FULL_v1.2.93.zip",
-  "full_sha256": "b22f8d0990c8b7d9320b1b30038f7d0d4b9bb022729d1a293ef3b184c23d2931"
+  "version": "1.2.94",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.94/FlowTool_v1.2.94.zip",
+  "sha256": "375f67a23ee41621f710fbe05456a7389d844fff338425e46b30878af2df2760",
+  "notes": "Chi dang slot Video da hoan chinh",
+  "published_at": "2026-05-22T12:55:19Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.94/FlowTool_FULL_v1.2.94.zip",
+  "full_sha256": "9ba76504c2d67478e844f1f34494c01be24141beb288cceb4f87cf8ca47a4d92"
 }
