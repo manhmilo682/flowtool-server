@@ -1,9 +1,9 @@
 {
-  "version": "1.2.89",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.89/FlowTool_v1.2.89.zip",
-  "sha256": "f9c4b24d87a40f2fa3a0cf9e7a1eeebe750d93ecc72cf30c6f8f8132795654fd",
-  "notes": "Them hang doi slot workflow khi dang chay",
-  "published_at": "2026-05-22T04:20:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.89/FlowTool_FULL_v1.2.89.zip",
-  "full_sha256": "50d4589ea3e4dbe48e84e8741fd53b0595775956a12a21699c9fef42b4fc7966"
+  "version": "1.2.90",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.90/FlowTool_v1.2.90.zip",
+  "sha256": "14c80bce7e228f9bb2167c2cac25c38951fa9ebfa14f776da9a6a18d70e1f776",
+  "notes": "Fix Grok nhan video tu Downloads",
+  "published_at": "2026-05-22T04:34:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.90/FlowTool_FULL_v1.2.90.zip",
+  "full_sha256": "748211344aecd5c1be8ec35cda1f47ce7b4203219e8628847985eeb614510605"
 }
