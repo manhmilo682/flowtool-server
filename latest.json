@@ -1,9 +1,9 @@
 {
-  "version": "1.2.86",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.86/FlowTool_v1.2.86.zip",
-  "sha256": "295faedd2a797c54d2327a14f18730c5b22e0ea959f936f881c13339c4f03e2a",
-  "notes": "Fix Flow dung ngay khi anh da vao composer sau Add to Prompt",
-  "published_at": "2026-05-22T03:17:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.86/FlowTool_FULL_v1.2.86.zip",
-  "full_sha256": "647cc774746c963e383b4e18fc9b5ed850c2cdc801f7ccd21444f750225c7d74"
+  "version": "1.2.87",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.87/FlowTool_v1.2.87.zip",
+  "sha256": "b3416c4f257434c807a8567e2a8c3972950729ae149150b18af13eac1cc848f8",
+  "notes": "Fix Flow gui yeu cau video bang nut mui ten composer",
+  "published_at": "2026-05-22T03:26:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.87/FlowTool_FULL_v1.2.87.zip",
+  "full_sha256": "83cbe653bc30b0f2121356c5b1d16a12d6e4fa6f5a326f982e80f4bc903f64fa"
 }
