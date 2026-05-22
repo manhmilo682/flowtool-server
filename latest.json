@@ -1,9 +1,9 @@
 {
-  "version": "1.2.97",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.97/FlowTool_v1.2.97.zip",
-  "sha256": "d3317bb27a3be3c8178f40d24ba61614b6f3baa6a6e8620888bffe1c791ecbac",
-  "notes": "Th?m c?t Group hi?n th? trong b?ng slot TikTok, ??t sau M? slot; gi? Key ?n; c?p nh?t sort c?c c?t sau khi th?m Group.",
-  "published_at": "2026-05-22T14:22:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.97/FlowTool_FULL_v1.2.97.zip",
-  "full_sha256": "2c9080780ef2e8236d635e112491890480ba667dc84e8d86c14f54176722a98b"
+  "version": "1.2.98",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.98/FlowTool_v1.2.98.zip",
+  "sha256": "9df1f74f4dedd4f6d23c84c2a2b2fcdc4fc7d89392bb3aa0cf09b422025e9e14",
+  "notes": "B? c?t Username trong b?ng slot TikTok v? tr?ng v?i c?t T?i kho?n; c?p nh?t l?i index sort/tooltip sau khi b? c?t.",
+  "published_at": "2026-05-22T14:27:14Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.2.98/FlowTool_FULL_v1.2.98.zip",
+  "full_sha256": "558788ed0f2212c0922ff26eac56d82ffabecf0ebaf89664adbca0fe4a966a11"
 }
