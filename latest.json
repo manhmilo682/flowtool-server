@@ -1,9 +1,9 @@
 {
-  "version": "1.3.03",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.03/FlowTool_v1.3.03.zip",
-  "sha256": "97be01ac27ef4f2e3a57880feb636015ff413153facb542e1e4191f48da76993",
-  "notes": "Th?m node T?o ?nh b?ng Meta trong Workflow Designer; engine h? tr? create_image_meta d?ng t?i kho?n META; MetaVibesWorker c? create_image ?? g?i prompt/upload ?nh v? l?u ?nh k?t qu?.",
-  "published_at": "2026-05-22T15:14:28Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.03/FlowTool_FULL_v1.3.03.zip",
-  "full_sha256": "8f4ba7b248bd64040d9f48ea803fdb5589fab56994520de4adebef39fa00c2bc"
+  "version": "1.3.05",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.05/FlowTool_v1.3.05.zip",
+  "sha256": "0d5a280be93b0c637d3c667c14135fa930f28ab5efa64d3b6c10d39c7efbe844",
+  "notes": "C?p nh?t Xem tr??c nhanh: cu?n chu?t ?? chuy?n slot tr??c/sau trong popup preview, th?m n?t X?a video ngay trong popup v? d?ng chung logic x?a video c?a b?ng ?? d?n registry/tr?ng th?i slot.",
+  "published_at": "2026-05-22T15:40:22Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.05/FlowTool_FULL_v1.3.05.zip",
+  "full_sha256": "673be53ed201a3bef7c4da87493e1ce3dc3208ccd6c67a6701a3ee4a33468d1c"
 }
