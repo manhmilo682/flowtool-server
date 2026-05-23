@@ -1,9 +1,9 @@
 {
-  "version": "1.3.09",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.09/FlowTool_v1.3.09.zip",
-  "sha256": "e228a0cafb8af5384d875737e6302520cc34ea6fa0094db33a855827d364c9df",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-05-23T02:17:02Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.09/FlowTool_FULL_v1.3.09.zip",
-  "full_sha256": "227f27895b3def0792177252cb4f7cb3f2e107107f935b2cebced79f7c2d2645"
+  "version": "1.3.10",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.10/FlowTool_v1.3.10.zip",
+  "sha256": "bc4c551a6692f5b8630d9693864fc365c3015f2546ecab79d65f146a25b5b244",
+  "notes": "Cap nhat luu video Meta theo profile Chrome va manifest slot de tranh ghep nham",
+  "published_at": "2026-05-23T02:59:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.10/FlowTool_FULL_v1.3.10.zip",
+  "full_sha256": "899b8189dc6fa33f04d78376cc7f56a262234569b69340012f38d6db5a2c4dfc"
 }
