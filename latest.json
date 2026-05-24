@@ -1,9 +1,9 @@
 {
-  "version": "1.3.12",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.12/FlowTool_v1.3.12.zip",
-  "sha256": "fb9a759c64cf8dab854f44a3f23336e425148c191102ec444c4e19c67739a559",
-  "notes": "Khoa san pham TikTok theo dung tai khoan: quet ID/quet anh theo tung account da tick, chong trung product theo cap account+product_id, va dang slot boi den chi gui key dung account.",
-  "published_at": "2026-05-23T05:24:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.12/FlowTool_FULL_v1.3.12.zip",
-  "full_sha256": "b8a545b22f301552c17ac3aa8366dbaf6d29efd7513ac743c14988366035f97e"
+  "version": "1.3.13",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.13/FlowTool_v1.3.13.zip",
+  "sha256": "b1c5fe26ed40bf4b38e0440c1b7c9e4386d5e3d20d0aea5e789ee6ad7d2b165d",
+  "notes": "Tang do on dinh TikTok: retry khi quet anh bi ERR_ABORTED/khong lay duoc anh san pham; tang thoi gian cho Grok/Meta tao anh; tu tao lai video Meta toi da 3 lan khi check phat hien video lech anh slot truoc khi ghep.",
+  "published_at": "2026-05-24T06:16:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.13/FlowTool_FULL_v1.3.13.zip",
+  "full_sha256": "e9935ac4181d0a09a8ee3ea5c61f768ac218c11be62c3abd3c4242d6614ab8d5"
 }
