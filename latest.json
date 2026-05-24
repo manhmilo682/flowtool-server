@@ -1,9 +1,9 @@
 {
-  "version": "1.3.17",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.17/FlowTool_v1.3.17.zip",
-  "sha256": "3b86c4d228d00059f7d3f5bedfde227ff7cfb40f9d04ca35afea806a1173a15a",
-  "notes": "Them node Anh da quet trong Workflow Designer. Node nay lay truc tiep anh san pham da quet cua slot TikTok hien tai tu image_path/registry de noi sang cac node Tao anh hoac Tao video.",
-  "published_at": "2026-05-24T07:01:13Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.17/FlowTool_FULL_v1.3.17.zip",
-  "full_sha256": "ed5457af6a939af5582c4c765a6a606b09dcc0735915bc58958d7336a5b0807d"
+  "version": "1.3.18",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.18/FlowTool_v1.3.18.zip",
+  "sha256": "adede18e1f6a8d014b066bae0bf9ed236395df84b05b318d39d3f8d5d8862274",
+  "notes": "Cho phep Dang video TikTok web slot da chon chay song song theo profile Chrome khac nhau. Neu dang acc 1 ma tiep tuc chon slot acc 2 roi bam Dang video, tool se mo luong dang moi ngay; neu trung profile thi van xep hang de tranh dung chung Chrome.",
+  "published_at": "2026-05-24T07:39:01Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.18/FlowTool_FULL_v1.3.18.zip",
+  "full_sha256": "842c78e2017687b8fe59f9bf493ff08f4c06329c6528b01415d9c864e5c35c53"
 }
