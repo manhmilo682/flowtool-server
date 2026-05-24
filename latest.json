@@ -1,9 +1,9 @@
 {
-  "version": "1.3.25",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.25/FlowTool_v1.3.25.zip",
-  "sha256": "c78f24ae6015f7838340b1dfb412c1119a15a634be4bdb8c9763f2e5a8e3635c",
-  "notes": "Cai tien nut Sap xep workflow designer: cac node cung tang duoc chia thanh nhieu lan ngang, khong con don thanh mot cot dai kho xem.",
-  "published_at": "2026-05-24T10:10:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.25/FlowTool_FULL_v1.3.25.zip",
-  "full_sha256": "ba027746d827ec05a514e093bbe5843317c03420e6e1c49e417b00987bc2cd44"
+  "version": "1.3.26",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.26/FlowTool_v1.3.26.zip",
+  "sha256": "c1893c5b3fb201519649edae6ea453de10cbe094fb8495e8eb85b4e20645446a",
+  "notes": "Thay danh sach hieu ung node Tao Video bang FFmpeg: an cac hieu ung cu pan/zoom co ban khoi dropdown, mac dinh Fashion Smooth Push, them cac preset dep hon cho fashion/product/editorial.",
+  "published_at": "2026-05-24T10:31:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.26/FlowTool_FULL_v1.3.26.zip",
+  "full_sha256": "7056cc043dc53ccc8904b35f67b0eb62cba5efda398b00e0070bc1efe8a4c62f"
 }
