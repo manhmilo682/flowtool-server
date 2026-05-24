@@ -1,9 +1,9 @@
 {
-  "version": "1.3.18",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.18/FlowTool_v1.3.18.zip",
-  "sha256": "adede18e1f6a8d014b066bae0bf9ed236395df84b05b318d39d3f8d5d8862274",
-  "notes": "Cho phep Dang video TikTok web slot da chon chay song song theo profile Chrome khac nhau. Neu dang acc 1 ma tiep tuc chon slot acc 2 roi bam Dang video, tool se mo luong dang moi ngay; neu trung profile thi van xep hang de tranh dung chung Chrome.",
-  "published_at": "2026-05-24T07:39:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.18/FlowTool_FULL_v1.3.18.zip",
-  "full_sha256": "842c78e2017687b8fe59f9bf493ff08f4c06329c6528b01415d9c864e5c35c53"
+  "version": "1.3.21",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.21/FlowTool_v1.3.21.zip",
+  "sha256": "836a9e5afc589d676671f93bde2f0b52987091d03c85545101dc8b938a5f0963",
+  "notes": "Mo rong node Tao Video bang FFmpeg voi them preset pan cheo, zoom fade, pulse zoom, bounce zoom va cinematic vignette.",
+  "published_at": "2026-05-24T08:00:36Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.21/FlowTool_FULL_v1.3.21.zip",
+  "full_sha256": "8cd2c86b094bcd16048418e0923dc54118457b588b41f5b7f0bf00fa5cce3bac"
 }
