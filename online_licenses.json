@@ -176,8 +176,12 @@
       "expires": "2026-05-27T12:43:55.434515Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [],
-      "blocked_hwids": []
+      "allowed_hwids": [
+        "EA5819A35AA04BF65E6A11E9774EA056301114D3C99F0636BDB532896CAFBFC3"
+      ],
+      "blocked_hwids": [],
+      "bound_at": "2026-05-24T15:49:49.503Z",
+      "last_machine_code": "EA58-19A3-5AA0-4BF6-5E6A"
     },
     "MILO-2VIQ-G9UI-U866": {
       "customer": "KH_20260524_224938",
