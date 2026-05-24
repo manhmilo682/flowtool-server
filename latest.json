@@ -1,9 +1,9 @@
 {
-  "version": "1.3.26",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.26/FlowTool_v1.3.26.zip",
-  "sha256": "c1893c5b3fb201519649edae6ea453de10cbe094fb8495e8eb85b4e20645446a",
-  "notes": "Thay danh sach hieu ung node Tao Video bang FFmpeg: an cac hieu ung cu pan/zoom co ban khoi dropdown, mac dinh Fashion Smooth Push, them cac preset dep hon cho fashion/product/editorial.",
-  "published_at": "2026-05-24T10:31:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.26/FlowTool_FULL_v1.3.26.zip",
-  "full_sha256": "7056cc043dc53ccc8904b35f67b0eb62cba5efda398b00e0070bc1efe8a4c62f"
+  "version": "1.3.27",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.27/FlowTool_v1.3.27.zip",
+  "sha256": "0795a81388a82699ed1904c837303f472a5a3a8ba5384879b7c5185ee39bcb67",
+  "notes": "Doi quet anh TikTok sang luu tat ca anh san pham theo thu muc rieng tung slot, giu Anh da quet lay anh dau; them node Tao Video FFmpeg Cac Anh Da Quet co giay moi anh, hieu ung, ty le, nhac nen ngau nhien, chuyen canh; doi ten hieu ung sang tieng Viet.",
+  "published_at": "2026-05-24T11:52:56Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.27/FlowTool_FULL_v1.3.27.zip",
+  "full_sha256": "5f33426fe5104fc3ad44cdcaa68f501f5deeba289ebc824060e98de802797e24"
 }
