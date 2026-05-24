@@ -1,9 +1,9 @@
 {
-  "version": "1.3.16",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.16/FlowTool_v1.3.16.zip",
-  "sha256": "836a7d89a3df34e242e5c08d135846978d554451934be25f473f0558ce5cdc2f",
-  "notes": "Them o Luong tai khoan cho Workflow TikTok de gioi han so account/worker chay cung luc; mac dinh 5 luong. Khi mot tai khoan loi/quota/login trong luot chay, tool danh dau account do loi va tu lay tai khoan chua dung vao thay neu con, giu du so luong luong da cau hinh.",
-  "published_at": "2026-05-24T06:46:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.16/FlowTool_FULL_v1.3.16.zip",
-  "full_sha256": "c154ad8433bc7d8da1d302c071e0983408cb297bb6512f0d1c7b367a762b5dc0"
+  "version": "1.3.17",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.17/FlowTool_v1.3.17.zip",
+  "sha256": "3b86c4d228d00059f7d3f5bedfde227ff7cfb40f9d04ca35afea806a1173a15a",
+  "notes": "Them node Anh da quet trong Workflow Designer. Node nay lay truc tiep anh san pham da quet cua slot TikTok hien tai tu image_path/registry de noi sang cac node Tao anh hoac Tao video.",
+  "published_at": "2026-05-24T07:01:13Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.17/FlowTool_FULL_v1.3.17.zip",
+  "full_sha256": "ed5457af6a939af5582c4c765a6a606b09dcc0735915bc58958d7336a5b0807d"
 }
