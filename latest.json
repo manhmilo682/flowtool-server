@@ -1,9 +1,9 @@
 {
-  "version": "1.3.28",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.28/FlowTool_v1.3.28.zip",
-  "sha256": "6b148944f5c7397e3b21de9b376c314e653a538000f49acbe2fcbe48c088f75e",
-  "notes": "Cap nhat node FFmpeg: them lua chon Ngau nhien/Ngau nhien moi canh, moi anh trong slideshow co the boc hieu ung rieng; tang output FFmpeg len 60fps; bo han hai hieu ung flash sale va nhip TikTok khoi UI va preset engine.",
-  "published_at": "2026-05-24T12:09:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.28/FlowTool_FULL_v1.3.28.zip",
-  "full_sha256": "668730cb4d99c481fcc87af90b1906a861fcbeefd504f92afd4efa93ad55738b"
+  "version": "1.3.29",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.29/FlowTool_v1.3.29.zip",
+  "sha256": "affe01ab7536319ae84426eab7f681dd48e3638324b3bd26ef3f9cb6814f3264",
+  "notes": "Them menu chuot phai TikTok: Xoa workflow khoi slot, xoa ca workflow 1/2 va cac truong workflow fallback cua slot dang chon.",
+  "published_at": "2026-05-24T12:14:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.29/FlowTool_FULL_v1.3.29.zip",
+  "full_sha256": "e43d69d39156947cd88bcf83e24937244189cfd380bb1c647336b4cdb1d9b53d"
 }
