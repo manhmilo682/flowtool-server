@@ -1,9 +1,9 @@
 {
-  "version": "1.3.14",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.14/FlowTool_v1.3.14.zip",
-  "sha256": "e9bc76d3cba67f5e70f865f7a24753258760ff1aaf472a3d211fe7924ef723de",
-  "notes": "Them nut Xoa video va anh da ghep trong preview TikTok; them tuy chon tuong tu trong menu chuot phai de xoa dong thoi video hoan chinh va anh da ghep cua slot.",
-  "published_at": "2026-05-24T06:23:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.14/FlowTool_FULL_v1.3.14.zip",
-  "full_sha256": "62f35b1b083b34c6e4913b7e1b25aca4751d09dabf02032f9a748977c2cff079"
+  "version": "1.3.15",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.15/FlowTool_v1.3.15.zip",
+  "sha256": "01582f27ebf7123a34a3b3c36aff335ac0184127c8304510398f99d94a8344dc",
+  "notes": "Sua nut Dang video TikTok chi dang dung cac slot dang boi den; khong tu lay slot khac trong tool va khong chay them tai khoan khong co slot duoc chon.",
+  "published_at": "2026-05-24T06:30:03Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.15/FlowTool_FULL_v1.3.15.zip",
+  "full_sha256": "e63371c6a7386e1575accc976cf53d9506f6532493101f6c8bc6f17ed14ee8f3"
 }
