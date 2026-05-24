@@ -178,6 +178,19 @@
       "max_devices": 1,
       "allowed_hwids": [],
       "blocked_hwids": []
+    },
+    "MILO-2VIQ-G9UI-U866": {
+      "customer": "KH_20260524_224938",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 11,
+      "created_at": "2026-05-24T15:49:41.640148Z",
+      "activated_at": "",
+      "expires": "2026-06-04T15:49:41.640148Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
