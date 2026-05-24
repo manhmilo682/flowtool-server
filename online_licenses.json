@@ -176,12 +176,8 @@
       "expires": "2026-05-27T12:43:55.434515Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "EA5819A35AA04BF65E6A11E9774EA056301114D3C99F0636BDB532896CAFBFC3"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-05-24T15:49:49.503Z",
-      "last_machine_code": "EA58-19A3-5AA0-4BF6-5E6A"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     },
     "MILO-2VIQ-G9UI-U866": {
       "customer": "KH_20260524_224938",
@@ -191,6 +187,19 @@
       "created_at": "2026-05-24T15:49:41.640148Z",
       "activated_at": "",
       "expires": "2026-06-04T15:49:41.640148Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-CX7W-QLFH-JS54": {
+      "customer": "KH_20260524_233419",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 4,
+      "created_at": "2026-05-24T16:34:22.398130Z",
+      "activated_at": "",
+      "expires": "2026-05-28T16:34:22.398130Z",
       "auto_bind": true,
       "max_devices": 1,
       "allowed_hwids": [],
