@@ -1,9 +1,9 @@
 {
-  "version": "1.3.31",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.31/FlowTool_v1.3.31.zip",
-  "sha256": "fe1537d2ca43d6d6ad1c4d67b6bc5dd361085b137815d7879561b70e0207dd12",
-  "notes": "Th?m c?t STT b?n tr?i M? slot trong b?ng TikTok. STT t? ??m l?i t? 1 theo danh s?ch ?ang hi?n th? khi ??i group/filter, v? b?m header STT ?? s?p x?p xu?i/ng??c.",
-  "published_at": "2026-05-24T14:09:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.31/FlowTool_FULL_v1.3.31.zip",
-  "full_sha256": "a88a07111ddc54b35c7c8565d0f74caf0c6da9036892e447e92fbbf0a3ff0d72"
+  "version": "1.3.32",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.32/FlowTool_v1.3.32.zip",
+  "sha256": "d3bc44980ff61837c03bab0ac7acff7e116d2155fa59320fd0e746287012fd41",
+  "notes": "Fix registry TikTok tu phuc hoi khi file rong hoac hong sau khi reset may.",
+  "published_at": "2026-05-24T15:56:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.32/FlowTool_FULL_v1.3.32.zip",
+  "full_sha256": "d5a093fa3f9bc452d6ecc23c226fbd874d6f8c43f3ebad3b3ef480c60ba99b95"
 }
