@@ -1,9 +1,9 @@
 {
-  "version": "1.3.24",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.24/FlowTool_v1.3.24.zip",
-  "sha256": "4b3b95e30ad858856ebc2e185e86e71b55cf252718c766e2d348c08da8d9f9e9",
-  "notes": "Them nhom hieu ung FFmpeg dep hon cho anh tinh: fashion smooth push, product reveal, luxury drift, handheld soft, orbit tilt, color pop, soft flash, magazine cover va beat pulse.",
-  "published_at": "2026-05-24T10:03:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.24/FlowTool_FULL_v1.3.24.zip",
-  "full_sha256": "e9657e414fa76cc0b3aa43ef1e0be358093cc58518402f51b84ed17f32baff8e"
+  "version": "1.3.25",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.25/FlowTool_v1.3.25.zip",
+  "sha256": "c78f24ae6015f7838340b1dfb412c1119a15a634be4bdb8c9763f2e5a8e3635c",
+  "notes": "Cai tien nut Sap xep workflow designer: cac node cung tang duoc chia thanh nhieu lan ngang, khong con don thanh mot cot dai kho xem.",
+  "published_at": "2026-05-24T10:10:59Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.25/FlowTool_FULL_v1.3.25.zip",
+  "full_sha256": "ba027746d827ec05a514e093bbe5843317c03420e6e1c49e417b00987bc2cd44"
 }
