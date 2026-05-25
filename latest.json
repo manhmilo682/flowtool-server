@@ -1,9 +1,9 @@
 {
-  "version": "1.3.35",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.35/FlowTool_v1.3.35.zip",
-  "sha256": "d844d8ebb3655ed805a2b6a8478cae0801a74cc93909985be52eafe1db87fbe8",
-  "notes": "Sua loi key sau khi restart may",
-  "published_at": "2026-05-25T02:13:57Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.35/FlowTool_FULL_v1.3.35.zip",
-  "full_sha256": "7ad6684bf2c18e19cc71c0a7f494bda5cd0579eebbcd4cc226cb9e60fc789f1d"
+  "version": "1.3.36",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.36/FlowTool_v1.3.36.zip",
+  "sha256": "998ad8c7e92ef80905e2233e1e4391da670f16524baa5fc1622115d4dabd1092",
+  "notes": "Them video nen cho FFmpeg anh da quet",
+  "published_at": "2026-05-25T11:29:45Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.36/FlowTool_FULL_v1.3.36.zip",
+  "full_sha256": "d73ff73a7631fa51c0941f37f5015973d46faf764cc6be601e539ec66c61fd12"
 }
