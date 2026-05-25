@@ -1,9 +1,9 @@
 {
-  "version": "1.3.36",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.36/FlowTool_v1.3.36.zip",
-  "sha256": "c1c7dadcc22b5f3c9f75e3a5fd213bf9101dd0d0fe9772853616ef5b767eccbf",
-  "notes": "Them video nen cho FFmpeg anh da quet",
-  "published_at": "2026-05-25T11:34:57Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.36/FlowTool_FULL_v1.3.36.zip",
-  "full_sha256": "3a7934cf81487ebc3b4c8352582a62e6279cbd9ea1a99c7fb4a254a9d372f010"
+  "version": "1.3.37",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.37/FlowTool_v1.3.37.zip",
+  "sha256": "d8c75ca5c9ddf15006be8452b0e51aa47987cb598d682b1291c97f1ac713d379",
+  "notes": "Them tuy chon kich thuoc vi tri bo goc overlay video nen",
+  "published_at": "2026-05-25T11:48:09Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.37/FlowTool_FULL_v1.3.37.zip",
+  "full_sha256": "de5cffadb4626571725c4b03c51efac5c9f442ba11732c430f35842cbc4347ec"
 }
