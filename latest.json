@@ -1,9 +1,9 @@
 {
-  "version": "1.3.34",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.34/FlowTool_v1.3.34.zip",
-  "sha256": "b4798a0653b95033890599d709ec7f97ed2ba402accee70924123a9b2bc0e079",
-  "notes": "Mo rong bao ve du lieu: profile Chrome, media TikTok, cache san pham, queue/state va mirror DB tai khoan.",
-  "published_at": "2026-05-24T16:54:15Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.34/FlowTool_FULL_v1.3.34.zip",
-  "full_sha256": "812652f09b7be8cfc7c6b2c4858f86d717dbb1d758547e407fca53a18ac9546c"
+  "version": "1.3.35",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.35/FlowTool_v1.3.35.zip",
+  "sha256": "d844d8ebb3655ed805a2b6a8478cae0801a74cc93909985be52eafe1db87fbe8",
+  "notes": "Sua loi key sau khi restart may",
+  "published_at": "2026-05-25T02:13:57Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.35/FlowTool_FULL_v1.3.35.zip",
+  "full_sha256": "7ad6684bf2c18e19cc71c0a7f494bda5cd0579eebbcd4cc226cb9e60fc789f1d"
 }
