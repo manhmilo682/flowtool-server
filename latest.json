@@ -1,9 +1,9 @@
 {
-  "version": "1.3.43",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.43/FlowTool_v1.3.43.zip",
-  "sha256": "ca56e57b7495132d8c2822e6f100cc8b4e332b7e3898fb582b57e29e9f6c5b06",
-  "notes": "Rut gon popup xac nhan khi chon nhieu slot",
-  "published_at": "2026-05-25T14:12:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.43/FlowTool_FULL_v1.3.43.zip",
-  "full_sha256": "78d5114fd8dd2fb3796aba919257058208488208af84fef760104f2d2bcacec6"
+  "version": "1.3.44",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.44/FlowTool_v1.3.44.zip",
+  "sha256": "0dd31ef8c844fbf0071183a36e93913cb0eb397b84a73bea25280953630cac9e",
+  "notes": "Chan xoa song song va ghi registry dang batch",
+  "published_at": "2026-05-25T14:17:59Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.44/FlowTool_FULL_v1.3.44.zip",
+  "full_sha256": "0a56422009c0ed868d2842559cf42f2a7eed61579317a73d2cb0207af1a67d21"
 }
