@@ -1,9 +1,9 @@
 {
-  "version": "1.3.39",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.39/FlowTool_v1.3.39.zip",
-  "sha256": "e606da9a75c417c8791ae7d2aee41056519481613d71c60e74536d1088c78776",
-  "notes": "Chan quet anh goi y khi link TikTok loi",
-  "published_at": "2026-05-25T13:48:05Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.39/FlowTool_FULL_v1.3.39.zip",
-  "full_sha256": "bf7d831919a67bc9c06ee77b20de4acfbfe6265f0fc8da43b20d5490f6bf01d8"
+  "version": "1.3.41",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.41/FlowTool_v1.3.41.zip",
+  "sha256": "1d9315e1746108215786e1082dd725ee13f3eb4707f19317c29db4f5584d9b35",
+  "notes": "Xoa anh video trong nen va them xoa group TikTok",
+  "published_at": "2026-05-25T14:00:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.41/FlowTool_FULL_v1.3.41.zip",
+  "full_sha256": "48531a14b4991f7b58af80371c93d4da76b7923c879ff33c8843161af12d4cdc"
 }
