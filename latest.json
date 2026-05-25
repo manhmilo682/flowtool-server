@@ -1,9 +1,9 @@
 {
-  "version": "1.3.53",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.53/FlowTool_v1.3.53.zip",
-  "sha256": "d498346a09d2441211a3267b6b7c560a631b30788b75e76c9beae5002293ac77",
-  "notes": "Bo nut Xoa group o panel trai; sua lay slot dang chon de Xoa group khoi slot hoat dong on dinh trong menu chuot phai.",
-  "published_at": "2026-05-25T18:51:06Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.53/FlowTool_FULL_v1.3.53.zip",
-  "full_sha256": "26ecd5590fce99c8c5cb43efef6172fcf5f673021697bb2137556a8d070c030e"
+  "version": "1.3.55",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.55/FlowTool_v1.3.55.zip",
+  "sha256": "602c837c0751c1e73c6342f8fb1d5615441ed5d08a9a2bc494aabf975741ba72",
+  "notes": "Sua Go khoi group: xoa group theo key va fallback theo ma slot + tai khoan de khong bi sot khi bang sort/an cot.",
+  "published_at": "2026-05-25T19:00:38Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.55/FlowTool_FULL_v1.3.55.zip",
+  "full_sha256": "0fd31d4390751c4aeefd83a239000da6e185b2206bcbd63acf23c4750bfc2833"
 }
