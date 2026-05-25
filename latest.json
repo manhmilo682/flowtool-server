@@ -1,9 +1,9 @@
 {
-  "version": "1.3.46",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.46/FlowTool_v1.3.46.zip",
-  "sha256": "a6f6f44981c886969af6471c63d4fb287987b96ffc49a6b9f84841e028d4c80b",
-  "notes": "Sua loi mat registry TikTok sau khi mat dien: tu khoi phuc backup hop le va khong ghi rong de len du lieu.",
-  "published_at": "2026-05-25T14:53:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.46/FlowTool_FULL_v1.3.46.zip",
-  "full_sha256": "89de5eb35d8e156ab502c61d39e0c949b48431ea4bcc8298ef4fdbd05185224a"
+  "version": "1.3.47",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.47/FlowTool_v1.3.47.zip",
+  "sha256": "917322e5cd1ee85649dd2dac9b5d3c9aa023ed17fbc732a85262e57f83b4d5d1",
+  "notes": "Tang toc xoa du lieu TikTok: xu ly theo batch, ghi registry mot lan va xoa file song song cho batch lon.",
+  "published_at": "2026-05-25T15:54:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.47/FlowTool_FULL_v1.3.47.zip",
+  "full_sha256": "281cfe144eea651b426992cec704eee0ed6d1f5ff1c27d8c931f1f041064d413"
 }
