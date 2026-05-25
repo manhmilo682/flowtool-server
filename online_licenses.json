@@ -176,12 +176,8 @@
       "expires": "2026-05-27T12:43:55.434515Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "5403AE00A1C1F93FF6A3ADE1F39C1D0BE19E790ACAAE951458D30F316473599B"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-05-24T16:34:30.245Z",
-      "last_machine_code": "5403-AE00-A1C1-F93F-F6A3"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     },
     "MILO-2VIQ-G9UI-U866": {
       "customer": "KH_20260524_224938",
@@ -204,6 +200,19 @@
       "created_at": "2026-05-24T16:34:22.398130Z",
       "activated_at": "",
       "expires": "2026-05-28T16:34:22.398130Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-LS63-0FGO-2QGF": {
+      "customer": "KH_20260525_091001",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 5,
+      "created_at": "2026-05-25T02:10:05.248922Z",
+      "activated_at": "",
+      "expires": "2026-05-30T02:10:05.248922Z",
       "auto_bind": true,
       "max_devices": 1,
       "allowed_hwids": [],
