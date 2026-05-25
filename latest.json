@@ -1,9 +1,9 @@
 {
-  "version": "1.3.50",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.50/FlowTool_v1.3.50.zip",
-  "sha256": "115f9ebc467f106cf4d63f4a1643dc8f7c42ec03777aa1f6b2741c9d6c27f1e0",
-  "notes": "Them Xoa group vao menu chuot phai va tang toc refresh bang TikTok cho du lieu lon.",
-  "published_at": "2026-05-25T16:17:13Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.50/FlowTool_FULL_v1.3.50.zip",
-  "full_sha256": "670ce8ab2fcc36f348fd0ce60b996464fc16bbaa81201920d18d74c9649c3b5a"
+  "version": "1.3.52",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.52/FlowTool_v1.3.52.zip",
+  "sha256": "b30c8a4cedbe84a1518596f883bc3b87d5df88029877cf17e9d21e6e6038ad78",
+  "notes": "Fix TikTok semantic PDP URL sau redirect; toi uu cac thao tac hang loat trong bang TikTok bang batch/background de chay tot voi du lieu lon.",
+  "published_at": "2026-05-25T18:42:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.52/FlowTool_FULL_v1.3.52.zip",
+  "full_sha256": "3e729de25b2c49087c73c276a1d983a09d78dd31877e20f48c17fd4c976e7b7a"
 }
