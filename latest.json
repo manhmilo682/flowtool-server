@@ -1,9 +1,9 @@
 {
-  "version": "1.3.55",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.55/FlowTool_v1.3.55.zip",
-  "sha256": "602c837c0751c1e73c6342f8fb1d5615441ed5d08a9a2bc494aabf975741ba72",
-  "notes": "Sua Go khoi group: xoa group theo key va fallback theo ma slot + tai khoan de khong bi sot khi bang sort/an cot.",
-  "published_at": "2026-05-25T19:00:38Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.55/FlowTool_FULL_v1.3.55.zip",
-  "full_sha256": "0fd31d4390751c4aeefd83a239000da6e185b2206bcbd63acf23c4750bfc2833"
+  "version": "1.3.56",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.56/FlowTool_v1.3.56.zip",
+  "sha256": "e47b77fbee53f98b0d60b7b152da87be05271dcd95fb33bd6e1d4371aeecea11",
+  "notes": "Sau khi Go khoi group, cap nhat ngay cot Group tren bang va reset bo loc group de UI khong giu gia tri cu.",
+  "published_at": "2026-05-25T19:07:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.56/FlowTool_FULL_v1.3.56.zip",
+  "full_sha256": "164835283bae76ac9916d45628072501fef777a7cdd82e126b97b369d925d9c6"
 }
