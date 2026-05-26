@@ -1,9 +1,9 @@
 {
-  "version": "1.3.62",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.62/FlowTool_v1.3.62.zip",
-  "sha256": "df44779d431869b5d3b8beea61e26a6a854c91f74f69e6b2126ec2406975998b",
-  "notes": "Toi uu giam do tab TikTok va cac nut thao tac",
-  "published_at": "2026-05-26T13:13:22Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.62/FlowTool_FULL_v1.3.62.zip",
-  "full_sha256": "8a88c7aed741d6dc2c8ad69dec34160a9b93d06422504b8a0c2bc74449b0bbae"
+  "version": "1.3.63",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.63/FlowTool_v1.3.63.zip",
+  "sha256": "c67a859f5d0a70f64d4f978dee060d9f2058009e948ba885e6284b7f988354d6",
+  "notes": "Bo qua slot workflow TikTok thieu file anh that",
+  "published_at": "2026-05-26T13:21:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.63/FlowTool_FULL_v1.3.63.zip",
+  "full_sha256": "6cad3aa1daf5ce3bb93a264a307fee181e05dd4852490c4a3c30d5d46fe58f7f"
 }
