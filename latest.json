@@ -1,9 +1,9 @@
 {
-  "version": "1.3.56",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.56/FlowTool_v1.3.56.zip",
-  "sha256": "e47b77fbee53f98b0d60b7b152da87be05271dcd95fb33bd6e1d4371aeecea11",
-  "notes": "Sau khi Go khoi group, cap nhat ngay cot Group tren bang va reset bo loc group de UI khong giu gia tri cu.",
-  "published_at": "2026-05-25T19:07:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.56/FlowTool_FULL_v1.3.56.zip",
-  "full_sha256": "164835283bae76ac9916d45628072501fef777a7cdd82e126b97b369d925d9c6"
+  "version": "1.3.57",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.57/FlowTool_v1.3.57.zip",
+  "sha256": "581ae3cc0f3e0e82ac36d59880d68748b6a77948fd45eadb98d47052309677aa",
+  "notes": "Nut Quet ID san pham mo bang chon tai khoan truoc khi chay, chi quet cac tai khoan duoc tick.",
+  "published_at": "2026-05-26T04:19:59Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.57/FlowTool_FULL_v1.3.57.zip",
+  "full_sha256": "cd94f266b7a116f18f8e28a2a296b8e5c3865797404f8f76652a5becb82d820c"
 }
