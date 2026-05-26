@@ -1,9 +1,9 @@
 {
-  "version": "1.3.57",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.57/FlowTool_v1.3.57.zip",
-  "sha256": "581ae3cc0f3e0e82ac36d59880d68748b6a77948fd45eadb98d47052309677aa",
-  "notes": "Nut Quet ID san pham mo bang chon tai khoan truoc khi chay, chi quet cac tai khoan duoc tick.",
-  "published_at": "2026-05-26T04:19:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.57/FlowTool_FULL_v1.3.57.zip",
-  "full_sha256": "cd94f266b7a116f18f8e28a2a296b8e5c3865797404f8f76652a5becb82d820c"
+  "version": "1.3.58",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.58/FlowTool_v1.3.58.zip",
+  "sha256": "f8466202254646c07fc667e7b434a4b7cc808a4dc3f05340e73d7f0134d327e6",
+  "notes": "Fix video mau quet ID san pham: tu tim ca ten co dau/khong dau va cac file video*.mp4 trong assets/tiktok.",
+  "published_at": "2026-05-26T04:25:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.58/FlowTool_FULL_v1.3.58.zip",
+  "full_sha256": "1c509f427522d3b190e60f7f8989b962a7b17d304eb5d9d2fe93ea574bbcc740"
 }
