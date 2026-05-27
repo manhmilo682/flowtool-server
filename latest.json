@@ -1,9 +1,9 @@
 {
-  "version": "1.3.64",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.64/FlowTool_v1.3.64.zip",
-  "sha256": "4cacf9fdca9b1fdebe06bf732132d4240bdf6bd6ef75a04956b14077d3839522",
-  "notes": "Giam loi khoa registry khi chay TikTok song song",
-  "published_at": "2026-05-27T02:55:02Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.64/FlowTool_FULL_v1.3.64.zip",
-  "full_sha256": "45e046d88da59e199716c4d8f59e1657e303acf3320d1b61dc2fc1ed356d8046"
+  "version": "1.3.65",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.65/FlowTool_v1.3.65.zip",
+  "sha256": "811e37e604127fcc235060597d61e34aec601fed13609395e8b730fd667ba0b9",
+  "notes": "Video nen rieng cho tung tai khoan TikTok",
+  "published_at": "2026-05-27T04:31:56Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.65/FlowTool_FULL_v1.3.65.zip",
+  "full_sha256": "af2367f1b5563ed5d2712066a197e966a07d63d298343cf166669a6dcf0a53e7"
 }
