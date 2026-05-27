@@ -1,9 +1,9 @@
 {
-  "version": "1.3.65",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.65/FlowTool_v1.3.65.zip",
-  "sha256": "811e37e604127fcc235060597d61e34aec601fed13609395e8b730fd667ba0b9",
-  "notes": "Video nen rieng cho tung tai khoan TikTok",
-  "published_at": "2026-05-27T04:31:56Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.65/FlowTool_FULL_v1.3.65.zip",
-  "full_sha256": "af2367f1b5563ed5d2712066a197e966a07d63d298343cf166669a6dcf0a53e7"
+  "version": "1.3.66",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.66/FlowTool_v1.3.66.zip",
+  "sha256": "3baa05e24e8ceae7a4a85c8b3153b5041f9138befe9cd97345bfb7948ed54f88",
+  "notes": "Them checkbox hien thi slot theo tung tai khoan TikTok",
+  "published_at": "2026-05-27T07:31:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.66/FlowTool_FULL_v1.3.66.zip",
+  "full_sha256": "3f0b7efd82da2c8b7e57f141d62705083f7112bcfdd6828a3525b0c52ebc6f72"
 }
