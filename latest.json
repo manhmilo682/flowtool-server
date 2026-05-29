@@ -1,9 +1,9 @@
 {
-  "version": "1.3.69",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.69/FlowTool_v1.3.69.zip",
-  "sha256": "dc56d59cc8d5e5a3c68a9d7c7cd85eb004c8b7006e3f56c8063d3201ba9f5751",
-  "notes": "Chon video nen TikTok rieng theo thu tu tung tai khoan",
-  "published_at": "2026-05-29T16:54:44Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.69/FlowTool_FULL_v1.3.69.zip",
-  "full_sha256": "179f57dae15be9c5361d899f633500ab971abdb64e29d9c5e912d59e0b2e5a0a"
+  "version": "1.3.70",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.70/FlowTool_v1.3.70.zip",
+  "sha256": "7f266b1f5a18fe4cb08093f78f5709561f29f57ad2d5e8056d42b8e0a0396822",
+  "notes": "Sua trang thai da dang TikTok theo dung tai khoan san pham",
+  "published_at": "2026-05-29T17:49:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.70/FlowTool_FULL_v1.3.70.zip",
+  "full_sha256": "9b1b1d8977768392d5b53d229e4b38f688ae67309bf4e73962ace4b0ec9cc894"
 }
