@@ -1,9 +1,9 @@
 {
-  "version": "1.3.73",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.73/FlowTool_v1.3.73.zip",
-  "sha256": "e07cdcf071fb4c50b45fa99a419cb473a8efbcc9409180eb633dcde187299600",
-  "notes": "Sua username TikTok, chan video FFmpeg duoi 10s va them tim kiem link SP",
-  "published_at": "2026-06-01T05:49:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.73/FlowTool_FULL_v1.3.73.zip",
-  "full_sha256": "7070945cbcce4bd5e7d0281d4061c6b7fdc2b280f759cef90972ca58d85ffafb"
+  "version": "1.3.74",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.74/FlowTool_v1.3.74.zip",
+  "sha256": "e8e1ed7b24a9b431687a433362296ac859d5148510e01e18e73b8ca368b8ef6c",
+  "notes": "Gioi han workflow TikTok va FFmpeg toi da 5 luong cung luc",
+  "published_at": "2026-06-01T06:13:42Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.74/FlowTool_FULL_v1.3.74.zip",
+  "full_sha256": "473ab7168da380007429ebc286c5ed63a0476472f64a3b7d0107db6b29b70769"
 }
