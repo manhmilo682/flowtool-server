@@ -1,9 +1,9 @@
 {
-  "version": "1.3.81",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.81/FlowTool_v1.3.81.zip",
-  "sha256": "15f05229a47348adbda344c2bb1597b623abbddb4831b69a936372c4b9e8f5b3",
-  "notes": "Them file thao tac Hotmail o thu muc goc tool",
-  "published_at": "2026-06-01T13:45:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.81/FlowTool_FULL_v1.3.81.zip",
-  "full_sha256": "448db013711df92a426d14f146d60f95d2144fd10e1739fb2f2c280493a78e51"
+  "version": "1.3.82",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.82/FlowTool_v1.3.82.zip",
+  "sha256": "7bdf2d7273dd26d52db8ab179358d1ddf5da6d91591f67c697e1051a3debb481",
+  "notes": "Thay file thao tac Hotmail bat txt bang file py",
+  "published_at": "2026-06-01T13:50:29Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.82/FlowTool_FULL_v1.3.82.zip",
+  "full_sha256": "90b84a57b08272dd5d7d9a143738ab383e87a40083d2081635584ffdcd12d91e"
 }
