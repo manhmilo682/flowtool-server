@@ -1,9 +1,9 @@
 {
-  "version": "1.3.71",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.71/FlowTool_v1.3.71.zip",
-  "sha256": "0cb136164276014eab1b5855f4db1d7968ad8af6999193a4b1d7161f8e28104c",
-  "notes": "Cap nhat giao dien tab Tai Khoan TikTok",
-  "published_at": "2026-06-01T05:27:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.71/FlowTool_FULL_v1.3.71.zip",
-  "full_sha256": "6aec413a3bea214cbcf27077d0f4df3c29b01140d6bb76edd0ae370ba632c6d7"
+  "version": "1.3.73",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.73/FlowTool_v1.3.73.zip",
+  "sha256": "e07cdcf071fb4c50b45fa99a419cb473a8efbcc9409180eb633dcde187299600",
+  "notes": "Sua username TikTok, chan video FFmpeg duoi 10s va them tim kiem link SP",
+  "published_at": "2026-06-01T05:49:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.73/FlowTool_FULL_v1.3.73.zip",
+  "full_sha256": "7070945cbcce4bd5e7d0281d4061c6b7fdc2b280f759cef90972ca58d85ffafb"
 }
