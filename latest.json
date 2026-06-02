@@ -1,9 +1,9 @@
 {
-  "version": "1.3.92",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.92/FlowTool_v1.3.92.zip",
-  "sha256": "220fa21eaa87b87ce698eacda4c2f9295d8f463de511a3f43d56ba15bc7b6cc8",
-  "notes": "Bo login TikTok bang cookie va giam dung luong goi update nhe",
-  "published_at": "2026-06-02T13:10:07Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.92/FlowTool_FULL_v1.3.92.zip",
-  "full_sha256": "e2603a6adf79756ba6ae5e2858956d9a11a3db139daf6da2f7c6465c1c2a04f2"
+  "version": "1.3.93",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.93/FlowTool_v1.3.93.zip",
+  "sha256": "463398cfcea67ebcd26e96c9986f68f8769f791e57a088d872eae76c1da64645",
+  "notes": "Hoan tac login TikTok bang cookie, giu goi update nhe da giam dung luong",
+  "published_at": "2026-06-02T13:19:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.93/FlowTool_FULL_v1.3.93.zip",
+  "full_sha256": "3c173f4037c8388522795bf002cad9ad8f137a7e5b7c5704b672fc1db7753183"
 }
