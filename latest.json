@@ -1,9 +1,9 @@
 {
-  "version": "1.3.90",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.90/FlowTool_v1.3.90.zip",
-  "sha256": "2655f7c0f51a1ba94c01897c1cef5030863851e7750b92511e6955884a4355fa",
-  "notes": "Sua nut Mo Chrome TikTok de mo tat ca dong tai khoan dang boi den",
-  "published_at": "2026-06-02T12:58:26Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.90/FlowTool_FULL_v1.3.90.zip",
-  "full_sha256": "90f82bed95b18c6562cd3d5f385eb5a6456f637a487fffa51336240193300cfa"
+  "version": "1.3.92",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.92/FlowTool_v1.3.92.zip",
+  "sha256": "220fa21eaa87b87ce698eacda4c2f9295d8f463de511a3f43d56ba15bc7b6cc8",
+  "notes": "Bo login TikTok bang cookie va giam dung luong goi update nhe",
+  "published_at": "2026-06-02T13:10:07Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.92/FlowTool_FULL_v1.3.92.zip",
+  "full_sha256": "e2603a6adf79756ba6ae5e2858956d9a11a3db139daf6da2f7c6465c1c2a04f2"
 }
