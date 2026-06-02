@@ -1,9 +1,9 @@
 {
-  "version": "1.3.85",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.85/FlowTool_v1.3.85.zip",
-  "sha256": "00525a5a4afcd1e4761feafcf553facea1ee2e853006f2dcae1b543c04a6e958",
-  "notes": "Doi cot Ghi chu thanh Cookie va them dang nhap TikTok bang cookie",
-  "published_at": "2026-06-02T05:29:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.85/FlowTool_FULL_v1.3.85.zip",
-  "full_sha256": "c39eda16bf4d3354f52102bd308dccbe494ef99ffbd0580812eb4e72558fd6c6"
+  "version": "1.3.86",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.86/FlowTool_v1.3.86.zip",
+  "sha256": "eb2ce7d37ed91a999f50b713e9b40d92ff42871fec8a68a6e6d762f904869e46",
+  "notes": "Xoa nut Dang ki Hotmail va tu login TikTok khi mo Chrome",
+  "published_at": "2026-06-02T05:40:15Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.86/FlowTool_FULL_v1.3.86.zip",
+  "full_sha256": "b4b9757cd3349e04db9df51aa7c956ef90f67836ac4c0153352aa2460ea3c079"
 }
