@@ -1,9 +1,9 @@
 {
-  "version": "1.3.84",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.84/FlowTool_v1.3.84.zip",
-  "sha256": "0b6e44126c75b15049f2e319e4d4976a051a5f735bac289bc602c397c5d29123",
-  "notes": "Them tu dang nhap TikTok neu profile bi logout",
-  "published_at": "2026-06-02T05:18:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.84/FlowTool_FULL_v1.3.84.zip",
-  "full_sha256": "75758725e22a6f4471571a817e5360687e01ac65eb71c235fc6814cb6e630c4f"
+  "version": "1.3.85",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.85/FlowTool_v1.3.85.zip",
+  "sha256": "00525a5a4afcd1e4761feafcf553facea1ee2e853006f2dcae1b543c04a6e958",
+  "notes": "Doi cot Ghi chu thanh Cookie va them dang nhap TikTok bang cookie",
+  "published_at": "2026-06-02T05:29:43Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.85/FlowTool_FULL_v1.3.85.zip",
+  "full_sha256": "c39eda16bf4d3354f52102bd308dccbe494ef99ffbd0580812eb4e72558fd6c6"
 }
