@@ -1,9 +1,9 @@
 {
-  "version": "1.3.88",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.88/FlowTool_v1.3.88.zip",
-  "sha256": "d2407734b8b9ea04690e4ac54720c10d0bcd5eacaa6120f4585522ae3fce01f5",
-  "notes": "Sua click phuong thuc login TikTok phone email username",
-  "published_at": "2026-06-02T06:07:29Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.88/FlowTool_FULL_v1.3.88.zip",
-  "full_sha256": "1a2e6b916c6357a885186e171cfdc151c8cc0eea430faa1d1be2b249315d0327"
+  "version": "1.3.89",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.89/FlowTool_v1.3.89.zip",
+  "sha256": "65e4b6a21a558cc654d257b1e19f53028026aed66121f9514a859bd94e154618",
+  "notes": "Sua login TikTok: chon email username roi nhap pass truc tiep, khong bam Log in with password",
+  "published_at": "2026-06-02T12:47:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.89/FlowTool_FULL_v1.3.89.zip",
+  "full_sha256": "034e663965afb493e7c96b231f9c0fd83390ab8a1137fed4e61281fef1580288"
 }
