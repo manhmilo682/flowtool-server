@@ -1,9 +1,9 @@
 {
-  "version": "1.3.96",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.96/FlowTool_v1.3.96.zip",
-  "sha256": "39503890729a084acc4be44fef993ef533ca16a519aea2e882d7ea5a5f8b8669",
-  "notes": "Them nut Check tai khoan TikTok va o set so Chrome chay cung luc",
-  "published_at": "2026-06-02T13:49:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.96/FlowTool_FULL_v1.3.96.zip",
-  "full_sha256": "e369249bec0558f7b04d66acb189eaef5a020c23c4a03518e08421d51289a0fb"
+  "version": "1.3.97",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.97/FlowTool_v1.3.97.zip",
+  "sha256": "668508d52e6e9b7273b19572c8028090998dbb7310ae5558fe32003810aac16b",
+  "notes": "Sua Check tai khoan TikTok mo Chrome hien len va fallback sang trang login khi upload loi",
+  "published_at": "2026-06-02T13:57:25Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.97/FlowTool_FULL_v1.3.97.zip",
+  "full_sha256": "0c141be0ba6d46cee93b8f3445fb80ad2181020892170937f5557f35636ce675"
 }
