@@ -1,9 +1,9 @@
 {
-  "version": "1.3.99",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.99/FlowTool_v1.3.99.zip",
-  "sha256": "7a4f64166f82ac734f9296ba6ec4d875438558021ed036e47e6e94b6613da427",
-  "notes": "Sua dang video nuoi nick TikTok: retry nhieu URL upload va tranh loi chrome-error khi fallback login",
-  "published_at": "2026-06-03T15:15:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.99/FlowTool_FULL_v1.3.99.zip",
-  "full_sha256": "ace75a443764e419c4c16396a5c4d9522c91dbdfbc6dbc977f4091c8f91850ff"
+  "version": "1.3.100",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.100/FlowTool_v1.3.100.zip",
+  "sha256": "ec0418bf7f70776f705374075d178539452d5cb37ce0a81038f3cec7a8e4370d",
+  "notes": "Sua dang video nuoi nick TikTok: mo thang login email khi Studio loi va gioi han 2 luong de tranh TikTok chan hang loat",
+  "published_at": "2026-06-03T15:27:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.100/FlowTool_FULL_v1.3.100.zip",
+  "full_sha256": "1705b4f394f1f7a1a9ac909d2c4b96a674af6573e81572cade42d05a11d9ae58"
 }
