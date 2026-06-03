@@ -1,9 +1,9 @@
 {
-  "version": "1.3.97",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.97/FlowTool_v1.3.97.zip",
-  "sha256": "668508d52e6e9b7273b19572c8028090998dbb7310ae5558fe32003810aac16b",
-  "notes": "Sua Check tai khoan TikTok mo Chrome hien len va fallback sang trang login khi upload loi",
-  "published_at": "2026-06-02T13:57:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.97/FlowTool_FULL_v1.3.97.zip",
-  "full_sha256": "0c141be0ba6d46cee93b8f3445fb80ad2181020892170937f5557f35636ce675"
+  "version": "1.3.98",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.98/FlowTool_v1.3.98.zip",
+  "sha256": "9d67d301dd5e1b53b6f50d6318282d7384e39e7539a0b04dbdcd05f8ebf138c9",
+  "notes": "Sua nut Mo Chrome TikTok khong tu tat Chrome khi Checkpoint Mail hoac Acc Die",
+  "published_at": "2026-06-03T14:57:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.98/FlowTool_FULL_v1.3.98.zip",
+  "full_sha256": "110ab3029db625dda3abb154a11d3fbe4a5e0ea82fc33afbaba25763e1b513ea"
 }
