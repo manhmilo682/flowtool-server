@@ -1,9 +1,9 @@
 {
-  "version": "1.3.104",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.104/FlowTool_v1.3.104.zip",
-  "sha256": "31f4dd752cf5f8b9de11385e6cfca9bc84cafbfc8b270fac0180df4b955aaa3f",
-  "notes": "Chan Dang video nuoi nick khi chua chon thu muc video, khong lay video tu thu muc hien tai",
-  "published_at": "2026-06-04T13:09:10Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.104/FlowTool_FULL_v1.3.104.zip",
-  "full_sha256": "165582109e6695792486e292d25c50d1d24f9e5abc0d757d98b76ef2286ca183"
+  "version": "1.3.105",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.105/FlowTool_v1.3.105.zip",
+  "sha256": "1c01101aba68c4c76c58bfef3baeaaa23adc2e00cf77ec6d9332cab87920a45b",
+  "notes": "Luu thu muc video nuoi nick va them cot Follow Like khi check tai khoan TikTok",
+  "published_at": "2026-06-04T13:21:16Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.105/FlowTool_FULL_v1.3.105.zip",
+  "full_sha256": "5996b0b56351b9ce54acd9985aca5ea1b9e6a4ba494d481ac760a8982c83e080"
 }
