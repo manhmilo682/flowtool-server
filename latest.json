@@ -1,9 +1,9 @@
 {
-  "version": "1.3.101",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.101/FlowTool_v1.3.101.zip",
-  "sha256": "6e87a94c0b22a6f33c4eb3ab9e09c40ab59afdd86065b00be46e8eb674ab6875",
-  "notes": "Sua nuoi nick TikTok: da bam Dang va khong co loi ro rang thi tinh thanh cong sau thoi gian cho",
-  "published_at": "2026-06-03T15:36:57Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.101/FlowTool_FULL_v1.3.101.zip",
-  "full_sha256": "1b6d895b4e5cad91aeb360602ddb400463fa1b87a0ee197faae8a4f472fb15f7"
+  "version": "1.3.103",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.103/FlowTool_v1.3.103.zip",
+  "sha256": "7d3f7e87066fc02212a7052a1f6227bc2049f2afe145ce615acf6c96eb06e1c6",
+  "notes": "Sua font log UTF-8 TikTok va giam lag khi bam Dang video nuoi nick",
+  "published_at": "2026-06-04T12:59:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.103/FlowTool_FULL_v1.3.103.zip",
+  "full_sha256": "66ca618f5764d67bcd998c35f2a3519fe643d6aef81b5473fe83b6a2423396b4"
 }
