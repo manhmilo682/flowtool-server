@@ -1,9 +1,9 @@
 {
-  "version": "1.3.112",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.112/FlowTool_v1.3.112.zip",
-  "sha256": "201bba3646050781b0c6a7bbc15b99e8acec1c5c625a5a62e13556e929dc5c98",
-  "notes": "Chi bam Turn on automatic content checks khi popup va nut Turn on that su hien; neu khong co popup thi bam Post binh thuong.",
-  "published_at": "2026-06-05T13:37:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.112/FlowTool_FULL_v1.3.112.zip",
-  "full_sha256": "b404d6792f06b43529f3a0347306b1e2e0ca40106fd8c0a0098ed79b62a99428"
+  "version": "1.3.113",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.113/FlowTool_v1.3.113.zip",
+  "sha256": "85666bf59998f1440b3334751e030ad8d3611eef0820981c481dfcf60acad9bd",
+  "notes": "Fix hang doi dang video nuoi nick: sau khi acc dau tien xong se tu chay tiep cac acc da chon bang Qt signal on dinh.",
+  "published_at": "2026-06-05T13:58:06Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.113/FlowTool_FULL_v1.3.113.zip",
+  "full_sha256": "8990d0bbe8750ae8daf6b83504743fee73fd269f16f70736afd968c437db58ac"
 }
