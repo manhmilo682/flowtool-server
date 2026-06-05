@@ -1,9 +1,9 @@
 {
-  "version": "1.3.109",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.109/FlowTool_v1.3.109.zip",
-  "sha256": "a6a788a3d945a84d9b56496057212aad49579bf0f69f7a7cdc5532282de1ee49",
-  "notes": "Khong danh dau dang thanh cong khi TikTok chi bao Uploaded, retry bam Dang neu nut con hien va tang cho xac nhan nuoi nick toi thieu 180 giay.",
-  "published_at": "2026-06-05T12:39:53Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.109/FlowTool_FULL_v1.3.109.zip",
-  "full_sha256": "6a9d7c6990a32995ed53ff0e68552ceca26c454659a35f458c2b19914a6b4163"
+  "version": "1.3.110",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.110/FlowTool_v1.3.110.zip",
+  "sha256": "10c8e2d3c2737487b1f5d2f7341a5764de6f81ee7cfbaaeb5c9d3e1318f0c72d",
+  "notes": "Tu dong bam Turn on automatic content checks cho acc TikTok lan dau dang web truoc khi bam Post.",
+  "published_at": "2026-06-05T12:55:13Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.110/FlowTool_FULL_v1.3.110.zip",
+  "full_sha256": "c1ebfb38514f8eaa27427cf8887f79c998ceeca83a0577da609c6ecb43023091"
 }
