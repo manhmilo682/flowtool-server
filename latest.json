@@ -1,9 +1,9 @@
 {
-  "version": "1.3.114",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.114/FlowTool_v1.3.114.zip",
-  "sha256": "f97eaaadbb8a6bce5d681428edebdd095c562bb34b0abb8ba1c98db43551c621",
-  "notes": "Them check so bai da dang va tong view TikTok, hien thi them cot Bai dang/Tong view trong bang tai khoan va luu vao database.",
-  "published_at": "2026-06-05T14:32:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.114/FlowTool_FULL_v1.3.114.zip",
-  "full_sha256": "129e371a3900a1cf5b5bac765d1473cd685544db921b54ba94464ed83abaa79f"
+  "version": "1.3.115",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.115/FlowTool_v1.3.115.zip",
+  "sha256": "30be0ffe69afca6265fc1be4b68b6ca98bafa0d23c0332339591533ad487fd8f",
+  "notes": "Them chuc nang Xoa het video tren acc TikTok da chon, hoi xac nhan truoc khi xoa, chay tung acc mot va chup anh loi neu gap loi.",
+  "published_at": "2026-06-05T15:29:59Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.115/FlowTool_FULL_v1.3.115.zip",
+  "full_sha256": "c1bc222fec47e181ab3bdd3d591fa6439c940a325c84e5cdfcd334db64bf132a"
 }
