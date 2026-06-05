@@ -1,9 +1,9 @@
 {
-  "version": "1.3.108",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.108/FlowTool_v1.3.108.zip",
-  "sha256": "fb47ccddfbcfa3ee3b0f8899b2276e653541422a5dd1e962b516cd051af5d539",
-  "notes": "Fix dang video nuoi nick voi video lon hon 50MB bang CDP, sua loi log_signal khi cap nhat trang thai va giu delay cham.",
-  "published_at": "2026-06-05T11:59:53Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.108/FlowTool_FULL_v1.3.108.zip",
-  "full_sha256": "effb9231ed779b08deaa4dbecdd48d19e54e5b801a446c2a3c895818c6e25bea"
+  "version": "1.3.109",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.109/FlowTool_v1.3.109.zip",
+  "sha256": "a6a788a3d945a84d9b56496057212aad49579bf0f69f7a7cdc5532282de1ee49",
+  "notes": "Khong danh dau dang thanh cong khi TikTok chi bao Uploaded, retry bam Dang neu nut con hien va tang cho xac nhan nuoi nick toi thieu 180 giay.",
+  "published_at": "2026-06-05T12:39:53Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.109/FlowTool_FULL_v1.3.109.zip",
+  "full_sha256": "6a9d7c6990a32995ed53ff0e68552ceca26c454659a35f458c2b19914a6b4163"
 }
