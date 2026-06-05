@@ -1,9 +1,9 @@
 {
-  "version": "1.3.115",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.115/FlowTool_v1.3.115.zip",
-  "sha256": "30be0ffe69afca6265fc1be4b68b6ca98bafa0d23c0332339591533ad487fd8f",
-  "notes": "Them chuc nang Xoa het video tren acc TikTok da chon, hoi xac nhan truoc khi xoa, chay tung acc mot va chup anh loi neu gap loi.",
-  "published_at": "2026-06-05T15:29:59Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.115/FlowTool_FULL_v1.3.115.zip",
-  "full_sha256": "c1bc222fec47e181ab3bdd3d591fa6439c940a325c84e5cdfcd334db64bf132a"
+  "version": "1.3.116",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.116/FlowTool_v1.3.116.zip",
+  "sha256": "8c70aa3e05da2d0276e87214c22b907d3fe10d0d22f265ef9767a691fd93f5d6",
+  "notes": "Sua chuc nang Xoa het video TikTok: vao TikTok Studio content, bam nut ba cham trong Actions, chon Delete va xac nhan xoa tung dong post.",
+  "published_at": "2026-06-05T15:56:03Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.116/FlowTool_FULL_v1.3.116.zip",
+  "full_sha256": "bdcccfc8f33c4aec8d31ff0290151e0ea746acb57464fb5b06d137c52ec96f17"
 }
