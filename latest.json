@@ -1,9 +1,9 @@
 {
-  "version": "1.3.117",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.117/FlowTool_v1.3.117.zip",
-  "sha256": "bbb8ef336df239b123f56fe9493d0d0c6db0e0261aa81353bad41e8c31a76ae4",
-  "notes": "Sửa xóa hết video TikTok Studio: chỉ chọn đúng dòng post trong bảng Posts và bấm nút ... của dòng video, tránh bấm nhầm menu avatar tài khoản.",
-  "published_at": "2026-06-05T16:20:36Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.117/FlowTool_FULL_v1.3.117.zip",
-  "full_sha256": "51ee1d3d7bb8c541f576a7c4ddd5f033e36f448c6ce6f861f652841f78bfce03"
+  "version": "1.3.118",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.118/FlowTool_v1.3.118.zip",
+  "sha256": "821afba0cc05e9cb8ee187f9626889c2632a7ed25af73ff93eeb2af355a182b2",
+  "notes": "Sửa xóa video TikTok Studio lần 2: xác định hàng bằng thumbnail video đầu tiên rồi bấm nút ... cùng hàng ở cột Actions, tránh chọn nhầm khung bảng hoặc menu avatar.",
+  "published_at": "2026-06-05T16:35:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.118/FlowTool_FULL_v1.3.118.zip",
+  "full_sha256": "f64e37c27b95eda39271beeb86c19fd80bd28b27c7a617cfc04a6fa7c5264db7"
 }
