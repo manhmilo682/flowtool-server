@@ -1,9 +1,9 @@
 {
-  "version": "1.3.106",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.106/FlowTool_v1.3.106.zip",
-  "sha256": "ab8c38c8597fd2ec8632f4249dd94d975413e349f62f807aefa69e9bcf36a173",
-  "notes": "Cap nhat trang thai Da dang sau khi dang nuoi nick thanh cong va bo qua tai khoan TikTok chua san sang",
-  "published_at": "2026-06-04T13:46:21Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.106/FlowTool_FULL_v1.3.106.zip",
-  "full_sha256": "d4dd24074c8ec9c4e92d75db99774288b18b115dbf2a50dc90d13c263bd061e8"
+  "version": "1.3.107",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.107/FlowTool_v1.3.107.zip",
+  "sha256": "a09932a5dd39a1633acfcedf64b2870e7b713290839aa91430178286523a534c",
+  "notes": "Tang delay thao tac TikTok, cho upload on dinh hon, dang video nuoi nick chay tung Chrome mot va sua log UTF-8 bi lap.",
+  "published_at": "2026-06-05T11:35:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.107/FlowTool_FULL_v1.3.107.zip",
+  "full_sha256": "728c0e23cdf7dc80275391421ebebd53131a11c19b5778efa4b2e699ac111ece"
 }
