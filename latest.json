@@ -1,9 +1,9 @@
 {
-  "version": "1.3.111",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.111/FlowTool_v1.3.111.zip",
-  "sha256": "c93de37411b8500bf89ea81094c56cd9ff2eecbb3a183110d328bc0b00ba8dc0",
-  "notes": "Sua font log TikTok bi ma hoa sai nhieu tang, tu chup anh loi vao data/tiktok_error_screenshots va xu ly popup automatic content checks on dinh hon.",
-  "published_at": "2026-06-05T13:19:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.111/FlowTool_FULL_v1.3.111.zip",
-  "full_sha256": "104c5523ae97ad785903771f64db965af98d5d8fd6e79e19793f49e151ebf956"
+  "version": "1.3.112",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.112/FlowTool_v1.3.112.zip",
+  "sha256": "201bba3646050781b0c6a7bbc15b99e8acec1c5c625a5a62e13556e929dc5c98",
+  "notes": "Chi bam Turn on automatic content checks khi popup va nut Turn on that su hien; neu khong co popup thi bam Post binh thuong.",
+  "published_at": "2026-06-05T13:37:33Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.3.112/FlowTool_FULL_v1.3.112.zip",
+  "full_sha256": "b404d6792f06b43529f3a0347306b1e2e0ca40106fd8c0a0098ed79b62a99428"
 }
