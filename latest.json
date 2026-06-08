@@ -1,9 +1,9 @@
 {
-  "version": "1.4.01",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.01/FlowTool_v1.4.01.zip",
-  "sha256": "7a882d1b6087639e332d982041855b4aa93bd5eb1800af16d6559755604626b4",
-  "notes": "Them nut Login dien thoai de dang nhap TikTok tren iPhone bang WDA",
-  "published_at": "2026-06-07T05:27:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.01/FlowTool_FULL_v1.4.01.zip",
-  "full_sha256": "c3dc9c0e5616c250b888cfb893e8197e6d02956a329d1a6ad204ccc9c5e93e3f"
+  "version": "1.4.02",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.02/FlowTool_v1.4.02.zip",
+  "sha256": "019bc006e61309a3df723e92e8267293c47dc2f7bbc275c9d5f9feda695b0e40",
+  "notes": "Fix TikTok multi-thread Chrome 403: stagger parallel starts, cap account Chrome threads to 10, and retry TikTok access-denied pages instead of staying on HTTP 403.",
+  "published_at": "2026-06-08T04:08:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.02/FlowTool_FULL_v1.4.02.zip",
+  "full_sha256": "c505451374e0450a31a2d9b11d228045b370866fa3772098e4aaee393b2bea3e"
 }
