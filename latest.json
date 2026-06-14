@@ -1,9 +1,9 @@
 {
-  "version": "1.4.28",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.28/FlowTool_v1.4.28.zip",
-  "sha256": "cf40aa98aa3fd72eb2617f6953a87501c859d23d40c60005638ec39d34f2c0cc",
-  "notes": "Gemini Chrome prompt node now runs with image-only input by uploading images and using an internal default prompt request.",
-  "published_at": "2026-06-14T19:34:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.28/FlowTool_FULL_v1.4.28.zip",
-  "full_sha256": "ad60a3f9d849dd404084795a6c5bff0dba2dc3888681f093be12256563127cf2"
+  "version": "1.4.29",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.29/FlowTool_v1.4.29.zip",
+  "sha256": "9b9622e0af1c714dad19e41d1598ae48840674dc423150d05eb309d2272ab42b",
+  "notes": "Gemini Chrome image-only mode uploads images and submits them without injecting any default prompt text.",
+  "published_at": "2026-06-14T19:42:14Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.29/FlowTool_FULL_v1.4.29.zip",
+  "full_sha256": "39eda7623941cf0521fef3fe2a4753838a013a933f53c4a02d6f0354c8efd994"
 }
