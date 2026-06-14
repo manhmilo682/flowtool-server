@@ -1,9 +1,9 @@
 {
-  "version": "1.4.17",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.17/FlowTool_v1.4.17.zip",
-  "sha256": "6f1b7d938e2b8a34b6ee720791b485e5355219547116210ab7b8f4ea201d9c21",
-  "notes": "Sua ChatGPT tao anh: bat duoc anh assistant da hien thi tren khung nho, khong doi het timeout 180s va khong nham voi anh upload dau vao.",
-  "published_at": "2026-06-14T16:01:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.17/FlowTool_FULL_v1.4.17.zip",
-  "full_sha256": "d5a1f90f1761f23185a72db26268babf411488d3f1da32102c4203cbeb5995ad"
+  "version": "1.4.18",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.18/FlowTool_v1.4.18.zip",
+  "sha256": "76e87ba82eeb74ab9f47482c86b7cfb43ebd4eba6698fae7407584a2aa234eb0",
+  "notes": "Sua ChatGPT tao anh: phat hien nut tai xuong o goc anh ket qua la tao anh xong, lay dung anh gan nut download de luu.",
+  "published_at": "2026-06-14T16:09:57Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.18/FlowTool_FULL_v1.4.18.zip",
+  "full_sha256": "9658d75a72e8759ace0d6e2cb1b8d91c263ee1826c3753e198a41fb8d426034f"
 }
