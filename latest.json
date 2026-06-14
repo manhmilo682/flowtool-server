@@ -1,9 +1,9 @@
 {
-  "version": "1.4.24",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.24/FlowTool_v1.4.24.zip",
-  "sha256": "2c87cb72ea41ea26faf7b5f98abecebaa54f4ebd860602108277f7c32265a722",
-  "notes": "Sua Gemini Chrome Prompt: neu node khong co huong dan thi bo qua, khong bao loi dung workflow.",
-  "published_at": "2026-06-14T18:51:40Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.24/FlowTool_FULL_v1.4.24.zip",
-  "full_sha256": "f4419f87539b3e8670fb30e4f9a08dbd867c5a5006497f95f278478f7e45c228"
+  "version": "1.4.25",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.25/FlowTool_v1.4.25.zip",
+  "sha256": "ff309a14f1c4a10d73c8f9f0ac5baf0cdafc6c7fe7412400c915410b1af6623a",
+  "notes": "Fix workflow Gemini Chrome prompt output mapping to ChatGPT prompt.",
+  "published_at": "2026-06-14T19:07:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.25/FlowTool_FULL_v1.4.25.zip",
+  "full_sha256": "3f87a587a443a5a3bab7d275a8fd01d8154c75d1c47975221ea760cbf0d1dc49"
 }
