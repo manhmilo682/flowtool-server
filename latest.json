@@ -1,9 +1,9 @@
 {
-  "version": "1.4.09",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.09/FlowTool_v1.4.09.zip",
-  "sha256": "c2deb1727545c9018f4f6e8aedc46df56d9d7295a7646089a17f27754af1f4d6",
-  "notes": "Bo cho video mau upload/xu ly xong khi quet san pham TikTok; set video xong bam Add link va quet ID luon.",
-  "published_at": "2026-06-14T14:02:44Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.09/FlowTool_FULL_v1.4.09.zip",
-  "full_sha256": "57383d8dea075e0c4e3b5e02486d32a0f1b2f3076f247d227d9842ad0a29c827"
+  "version": "1.4.10",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.10/FlowTool_v1.4.10.zip",
+  "sha256": "a9434bc18c5582bb18aa666a87da38187248626e39419e7f482e87497598be1e",
+  "notes": "Uu tien bam nut + Them trong khu vuc Them lien ket TikTok Studio ngay khi nut hien san.",
+  "published_at": "2026-06-14T14:12:32Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.10/FlowTool_FULL_v1.4.10.zip",
+  "full_sha256": "b337024ff7f5fbaf311a77b299facd7047bb401dc6c012a5767599e03576b993"
 }
