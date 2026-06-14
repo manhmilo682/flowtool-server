@@ -1,9 +1,9 @@
 {
-  "version": "1.4.19",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.19/FlowTool_v1.4.19.zip",
-  "sha256": "28f71ded024a1adf411ace2f7d3c2914374e3b720768ac7dacc4ff633570e3f7",
-  "notes": "Sua ChatGPT tao anh: nhan dien nut icon tron khong co label o goc duoi ben phai anh la tin hieu anh da tao xong.",
-  "published_at": "2026-06-14T16:20:25Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.19/FlowTool_FULL_v1.4.19.zip",
-  "full_sha256": "c1d32b97b84019dc1daeeba4d926c73dd25b782907d40e3484f9fdb102f5415a"
+  "version": "1.4.20",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.20/FlowTool_v1.4.20.zip",
+  "sha256": "f9cf6a2b50ee4e0c32f2cf23f75650a2bacc3e62f256b74df7c9e213221bbe3b",
+  "notes": "Sua triet de ChatGPT tao anh: bo dieu kien phu, sau khi gui prompt thay anh moi hoac anh lon/duoi cung tren man hinh thi luu ngay.",
+  "published_at": "2026-06-14T16:30:26Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.20/FlowTool_FULL_v1.4.20.zip",
+  "full_sha256": "951dc684bc552f30511db002dd6067eba8e23eef68a7aa334f94917b21f70e06"
 }
