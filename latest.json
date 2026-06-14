@@ -1,9 +1,9 @@
 {
-  "version": "1.4.08",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.08/FlowTool_v1.4.08.zip",
-  "sha256": "a44df62d70f747ce9bd704a05a4699510f709b726b4fcdbb55fe6f4e8cfa84c4",
-  "notes": "Sua loi console charmap khi log co chu tieng Viet co dau trong script quet san pham TikTok.",
-  "published_at": "2026-06-14T13:44:37Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.08/FlowTool_FULL_v1.4.08.zip",
-  "full_sha256": "2d75cef242e5e7970ebf7352394acd62aa724d5655e14089a65fb095cedcc3e1"
+  "version": "1.4.09",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.09/FlowTool_v1.4.09.zip",
+  "sha256": "c2deb1727545c9018f4f6e8aedc46df56d9d7295a7646089a17f27754af1f4d6",
+  "notes": "Bo cho video mau upload/xu ly xong khi quet san pham TikTok; set video xong bam Add link va quet ID luon.",
+  "published_at": "2026-06-14T14:02:44Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.09/FlowTool_FULL_v1.4.09.zip",
+  "full_sha256": "57383d8dea075e0c4e3b5e02486d32a0f1b2f3076f247d227d9842ad0a29c827"
 }
