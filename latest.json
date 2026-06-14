@@ -1,9 +1,9 @@
 {
-  "version": "1.4.06",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.06/FlowTool_v1.4.06.zip",
-  "sha256": "c3b213666cd2ec79fdea1a4bc6b1d46f9e51d8ec1b68a24b4745bf92f42e74c5",
-  "notes": "Fix TikTok product scan upload probe video stuck: robust file input/CDP/file chooser fallbacks and debug capture when upload UI is missing.",
-  "published_at": "2026-06-14T13:21:17Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.06/FlowTool_FULL_v1.4.06.zip",
-  "full_sha256": "8e8ab553e27b729dd96f727eb822575601b0269c596fc8335bcccc21ceb91618"
+  "version": "1.4.07",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.07/FlowTool_v1.4.07.zip",
+  "sha256": "6b0988c71e22f0299bfd18ab2fae9daa1e5b09a53f812eda2ef1045826f77b3d",
+  "notes": "Sua treo quet san pham TikTok: cho video mau upload/xu ly xong truoc khi bam Add link.",
+  "published_at": "2026-06-14T13:36:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.07/FlowTool_FULL_v1.4.07.zip",
+  "full_sha256": "57af36d8cc8d52e4e0caa4b61aef1bc12ec77c6d597e4fc52f09a9df492900a0"
 }
