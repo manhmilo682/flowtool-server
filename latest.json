@@ -1,9 +1,9 @@
 {
-  "version": "1.4.04",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.04/FlowTool_v1.4.04.zip",
-  "sha256": "71ca39ba954432a39409187710d9c81ce7905cfa9dc1bd17a8cbe85053daff72",
-  "notes": "Fix TikTok product scan cannot find Add link on some machines: scroll/search the full upload page, match Add link/Add product/Product link text, JS fallback, and save debug when missing.",
-  "published_at": "2026-06-14T08:44:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.04/FlowTool_FULL_v1.4.04.zip",
-  "full_sha256": "5ce940fef7ae4979111d142a6f9a34a5987e986339b0b867a5024d361c300d51"
+  "version": "1.4.05",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.05/FlowTool_v1.4.05.zip",
+  "sha256": "be2e59dd45c723a1dfc6b233c83777b163200664c7b172a99b01fefa99d45d11",
+  "notes": "Add workflow node Viet Prompt bang Gemini Chrome using logged-in Gemini Chrome profile without API key.",
+  "published_at": "2026-06-14T09:05:20Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.05/FlowTool_FULL_v1.4.05.zip",
+  "full_sha256": "e5170dbc386327568f5f69a563c62f52b6703caf9dbf15deda1350d936c0c9db"
 }
