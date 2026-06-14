@@ -228,12 +228,8 @@
       "expires": "2026-06-21T05:23:57.095337Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "A282DA91E779E1CCBB15C1CAC359BD9627DAB7DCED0BAC9DAE21B73983AADFE3"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-06-13T13:16:37.847Z",
-      "last_machine_code": "A282-DA91-E779-E1CC-BB15"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     },
     "MILO-RA5T-UJXW-TSK1": {
       "customer": "KH_20260613_011226",
@@ -245,12 +241,8 @@
       "expires": "2026-07-12T18:12:31.105862Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "A6FA0A7B06E66A5610D2E6CD2916CD462D690A751CCB48AAD91073C5EC3C56A2"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-06-12T18:14:37.526Z",
-      "last_machine_code": "A6FA-0A7B-06E6-6A56-10D2"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
