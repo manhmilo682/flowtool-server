@@ -1,9 +1,9 @@
 {
-  "version": "1.4.26",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.26/FlowTool_v1.4.26.zip",
-  "sha256": "1d69b481566c6e4491a88c5dd586ab3e4bb3f144574e1a895edbdd92adc5d9c7",
-  "notes": "Add workflow edge deletion by selecting connection and pressing Delete/Backspace or right-clicking the wire.",
-  "published_at": "2026-06-14T19:17:48Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.26/FlowTool_FULL_v1.4.26.zip",
-  "full_sha256": "940a7105e7f24f11e38e919f30306d778535733e31f93c5d5c1aaf432e9ced34"
+  "version": "1.4.27",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.27/FlowTool_v1.4.27.zip",
+  "sha256": "18a94caaa38bc5d702dc1dda5cbfdffa8570c2270f570aa7dd5b228895ccf39f",
+  "notes": "Gemini Chrome node keeps blank outputs and continues when guidance is empty, without marking the node as skipped.",
+  "published_at": "2026-06-14T19:25:32Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.27/FlowTool_FULL_v1.4.27.zip",
+  "full_sha256": "1946ccf7b0876747834845927cdd2190bd1c3d863fd04c6fc0e0f982e75c2fce"
 }
