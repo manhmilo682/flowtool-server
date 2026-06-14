@@ -1,9 +1,9 @@
 {
-  "version": "1.4.14",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.14/FlowTool_v1.4.14.zip",
-  "sha256": "adc4110a6c5c3821fa1b4c0726889ba60982085e2b9e95881d833390be306ae8",
-  "notes": "Cap nhat node Gemini Chrome: mo notebook dau tien duoc gim, gui prompt/anh trong notebook, loc thanh prompt tao anh va prompt video 1-5.",
-  "published_at": "2026-06-14T15:30:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.14/FlowTool_FULL_v1.4.14.zip",
-  "full_sha256": "2358fb0be75dd35ed2b622f7f75c3651b04641324a114f442153c50f65e78121"
+  "version": "1.4.16",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.16/FlowTool_v1.4.16.zip",
+  "sha256": "7b3996c745a9fce37713a69dcd527d5026689a4592c86be5c21499ffab7ddc23",
+  "notes": "Sua Grok tao video: khong gui chong prompt khi media cu dang render, bat nut tai icon tron tren media va tai ngay khi video da co nut tai. Cho phep So video can ghep dat ve 1.",
+  "published_at": "2026-06-14T15:49:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.16/FlowTool_FULL_v1.4.16.zip",
+  "full_sha256": "fcd4b2859c3d7c7fe4f6e1e560204a8a8792fc4f8ea0dcb97e12ec4a689d7cc5"
 }
