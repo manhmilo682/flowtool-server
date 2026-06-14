@@ -1,9 +1,9 @@
 {
-  "version": "1.4.02",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.02/FlowTool_v1.4.02.zip",
-  "sha256": "019bc006e61309a3df723e92e8267293c47dc2f7bbc275c9d5f9feda695b0e40",
-  "notes": "Fix TikTok multi-thread Chrome 403: stagger parallel starts, cap account Chrome threads to 10, and retry TikTok access-denied pages instead of staying on HTTP 403.",
-  "published_at": "2026-06-08T04:08:08Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.02/FlowTool_FULL_v1.4.02.zip",
-  "full_sha256": "c505451374e0450a31a2d9b11d228045b370866fa3772098e4aaee393b2bea3e"
+  "version": "1.4.03",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.03/FlowTool_v1.4.03.zip",
+  "sha256": "d5ef297e149eea6881ed32583c1742ed387170e6eb5af41c455df814b3ed3fab",
+  "notes": "Fix TikTok product scan stuck after Add link on some machines: detect product panel directly, expand Next/Continue fallbacks, press Enter fallback, and save debug screenshot/html when blocked.",
+  "published_at": "2026-06-14T08:13:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.03/FlowTool_FULL_v1.4.03.zip",
+  "full_sha256": "0e56edbf1f92904842c16af57ff49174a1003e69e100130a0c5d10e2d84ba872"
 }
