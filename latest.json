@@ -1,9 +1,9 @@
 {
-  "version": "1.4.05",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.05/FlowTool_v1.4.05.zip",
-  "sha256": "be2e59dd45c723a1dfc6b233c83777b163200664c7b172a99b01fefa99d45d11",
-  "notes": "Add workflow node Viet Prompt bang Gemini Chrome using logged-in Gemini Chrome profile without API key.",
-  "published_at": "2026-06-14T09:05:20Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.05/FlowTool_FULL_v1.4.05.zip",
-  "full_sha256": "e5170dbc386327568f5f69a563c62f52b6703caf9dbf15deda1350d936c0c9db"
+  "version": "1.4.06",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.06/FlowTool_v1.4.06.zip",
+  "sha256": "c3b213666cd2ec79fdea1a4bc6b1d46f9e51d8ec1b68a24b4745bf92f42e74c5",
+  "notes": "Fix TikTok product scan upload probe video stuck: robust file input/CDP/file chooser fallbacks and debug capture when upload UI is missing.",
+  "published_at": "2026-06-14T13:21:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.06/FlowTool_FULL_v1.4.06.zip",
+  "full_sha256": "8e8ab553e27b729dd96f727eb822575601b0269c596fc8335bcccc21ceb91618"
 }
