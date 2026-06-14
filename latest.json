@@ -1,9 +1,9 @@
 {
-  "version": "1.4.23",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.23/FlowTool_v1.4.23.zip",
-  "sha256": "52e12aa7f8cab1ff23b7e3d52e9e5ae2730bd1ad3885cdac753f5dc09c033738",
-  "notes": "Sua Grok tao video: thay icon Redo video la coi video da tao xong va bam nut download ngay ben duoi icon Redo de tai video.",
-  "published_at": "2026-06-14T18:30:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.23/FlowTool_FULL_v1.4.23.zip",
-  "full_sha256": "afa7e67a4ef2c3c579de32b4b2a5f466137e1381a3f485787c885e883c713bc6"
+  "version": "1.4.24",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.24/FlowTool_v1.4.24.zip",
+  "sha256": "2c87cb72ea41ea26faf7b5f98abecebaa54f4ebd860602108277f7c32265a722",
+  "notes": "Sua Gemini Chrome Prompt: neu node khong co huong dan thi bo qua, khong bao loi dung workflow.",
+  "published_at": "2026-06-14T18:51:40Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.24/FlowTool_FULL_v1.4.24.zip",
+  "full_sha256": "f4419f87539b3e8670fb30e4f9a08dbd867c5a5006497f95f278478f7e45c228"
 }
