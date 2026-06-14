@@ -1,9 +1,9 @@
 {
-  "version": "1.4.10",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.10/FlowTool_v1.4.10.zip",
-  "sha256": "a9434bc18c5582bb18aa666a87da38187248626e39419e7f482e87497598be1e",
-  "notes": "Uu tien bam nut + Them trong khu vuc Them lien ket TikTok Studio ngay khi nut hien san.",
-  "published_at": "2026-06-14T14:12:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.10/FlowTool_FULL_v1.4.10.zip",
-  "full_sha256": "b337024ff7f5fbaf311a77b299facd7047bb401dc6c012a5767599e03576b993"
+  "version": "1.4.11",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.11/FlowTool_v1.4.11.zip",
+  "sha256": "c94cd35ae97fbe4dadb4ee3231cf447117c9eb596d11652d97d44f167c040cb2",
+  "notes": "Them menu chuot phai Gan video vao slot TikTok: chon video co san tu PC, copy vao slot va luu nhu video da tao xong.",
+  "published_at": "2026-06-14T14:21:02Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.11/FlowTool_FULL_v1.4.11.zip",
+  "full_sha256": "fcf7b17f9721379cd7667bbd212756343de29bf13f9d655457cf8d1ee5bc928e"
 }
