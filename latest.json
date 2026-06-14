@@ -1,9 +1,9 @@
 {
-  "version": "1.4.25",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.25/FlowTool_v1.4.25.zip",
-  "sha256": "ff309a14f1c4a10d73c8f9f0ac5baf0cdafc6c7fe7412400c915410b1af6623a",
-  "notes": "Fix workflow Gemini Chrome prompt output mapping to ChatGPT prompt.",
-  "published_at": "2026-06-14T19:07:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.25/FlowTool_FULL_v1.4.25.zip",
-  "full_sha256": "3f87a587a443a5a3bab7d275a8fd01d8154c75d1c47975221ea760cbf0d1dc49"
+  "version": "1.4.26",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.26/FlowTool_v1.4.26.zip",
+  "sha256": "1d69b481566c6e4491a88c5dd586ab3e4bb3f144574e1a895edbdd92adc5d9c7",
+  "notes": "Add workflow edge deletion by selecting connection and pressing Delete/Backspace or right-clicking the wire.",
+  "published_at": "2026-06-14T19:17:48Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.26/FlowTool_FULL_v1.4.26.zip",
+  "full_sha256": "940a7105e7f24f11e38e919f30306d778535733e31f93c5d5c1aaf432e9ced34"
 }
