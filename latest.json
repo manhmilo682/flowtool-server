@@ -1,9 +1,9 @@
 {
-  "version": "1.4.21",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.21/FlowTool_v1.4.21.zip",
-  "sha256": "d987dcc5b60b1eb11c841cc81688a9f86933f35335aaa4c5715743ef5c7eb7ec",
-  "notes": "Sua ChatGPT tao anh: khong lay anh upload truoc prompt; chi luu anh ket qua nam ben duoi prompt cuoi cung trong khung chat.",
-  "published_at": "2026-06-14T16:38:36Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.21/FlowTool_FULL_v1.4.21.zip",
-  "full_sha256": "c9216af58189f741217e8af5699fb3f3fc726f5fab6db75b8a69c869c2c03656"
+  "version": "1.4.22",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.22/FlowTool_v1.4.22.zip",
+  "sha256": "d1df8ca06842f16f0cae00b2d76c2016785c8b93504887c47e11eafa3781c7cc",
+  "notes": "Sua Grok tao video: khong gui trung prompt video, tach nut gui va nut tai theo vung man hinh, neu da co media/nut tai thi tai video thay vi gui lai prompt.",
+  "published_at": "2026-06-14T16:53:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.22/FlowTool_FULL_v1.4.22.zip",
+  "full_sha256": "f093ad5af85ce9c4c11e80324cd9436fe6984c82dfb2571aec09e2151129ba83"
 }
