@@ -1,9 +1,9 @@
 {
-  "version": "1.4.11",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.11/FlowTool_v1.4.11.zip",
-  "sha256": "c94cd35ae97fbe4dadb4ee3231cf447117c9eb596d11652d97d44f167c040cb2",
-  "notes": "Them menu chuot phai Gan video vao slot TikTok: chon video co san tu PC, copy vao slot va luu nhu video da tao xong.",
-  "published_at": "2026-06-14T14:21:02Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.11/FlowTool_FULL_v1.4.11.zip",
-  "full_sha256": "fcf7b17f9721379cd7667bbd212756343de29bf13f9d655457cf8d1ee5bc928e"
+  "version": "1.4.12",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.12/FlowTool_v1.4.12.zip",
+  "sha256": "276dc027d873f7321db58e55628af23d45ee27afe9dccdd637ee57d05fe38a4b",
+  "notes": "Sua UI man hinh nho: chia group node workflow, sidebar co gian, bang TikTok giu cot slot/group va scroll ngang.",
+  "published_at": "2026-06-14T14:33:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.12/FlowTool_FULL_v1.4.12.zip",
+  "full_sha256": "7a1b21eb57d6e4b2ca27b7330b29d4fce148545b44c4a3e4d920380ba82cbfe9"
 }
