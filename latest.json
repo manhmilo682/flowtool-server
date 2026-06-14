@@ -1,9 +1,9 @@
 {
-  "version": "1.4.27",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.27/FlowTool_v1.4.27.zip",
-  "sha256": "18a94caaa38bc5d702dc1dda5cbfdffa8570c2270f570aa7dd5b228895ccf39f",
-  "notes": "Gemini Chrome node keeps blank outputs and continues when guidance is empty, without marking the node as skipped.",
-  "published_at": "2026-06-14T19:25:32Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.27/FlowTool_FULL_v1.4.27.zip",
-  "full_sha256": "1946ccf7b0876747834845927cdd2190bd1c3d863fd04c6fc0e0f982e75c2fce"
+  "version": "1.4.28",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.28/FlowTool_v1.4.28.zip",
+  "sha256": "cf40aa98aa3fd72eb2617f6953a87501c859d23d40c60005638ec39d34f2c0cc",
+  "notes": "Gemini Chrome prompt node now runs with image-only input by uploading images and using an internal default prompt request.",
+  "published_at": "2026-06-14T19:34:16Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.28/FlowTool_FULL_v1.4.28.zip",
+  "full_sha256": "ad60a3f9d849dd404084795a6c5bff0dba2dc3888681f093be12256563127cf2"
 }
