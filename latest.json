@@ -1,9 +1,9 @@
 {
-  "version": "1.4.22",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.22/FlowTool_v1.4.22.zip",
-  "sha256": "d1df8ca06842f16f0cae00b2d76c2016785c8b93504887c47e11eafa3781c7cc",
-  "notes": "Sua Grok tao video: khong gui trung prompt video, tach nut gui va nut tai theo vung man hinh, neu da co media/nut tai thi tai video thay vi gui lai prompt.",
-  "published_at": "2026-06-14T16:53:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.22/FlowTool_FULL_v1.4.22.zip",
-  "full_sha256": "f093ad5af85ce9c4c11e80324cd9436fe6984c82dfb2571aec09e2151129ba83"
+  "version": "1.4.23",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.23/FlowTool_v1.4.23.zip",
+  "sha256": "52e12aa7f8cab1ff23b7e3d52e9e5ae2730bd1ad3885cdac753f5dc09c033738",
+  "notes": "Sua Grok tao video: thay icon Redo video la coi video da tao xong va bam nut download ngay ben duoi icon Redo de tai video.",
+  "published_at": "2026-06-14T18:30:04Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.23/FlowTool_FULL_v1.4.23.zip",
+  "full_sha256": "afa7e67a4ef2c3c579de32b4b2a5f466137e1381a3f485787c885e883c713bc6"
 }
