@@ -1,9 +1,9 @@
 {
-  "version": "1.4.12",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.12/FlowTool_v1.4.12.zip",
-  "sha256": "276dc027d873f7321db58e55628af23d45ee27afe9dccdd637ee57d05fe38a4b",
-  "notes": "Sua UI man hinh nho: chia group node workflow, sidebar co gian, bang TikTok giu cot slot/group va scroll ngang.",
-  "published_at": "2026-06-14T14:33:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.12/FlowTool_FULL_v1.4.12.zip",
-  "full_sha256": "7a1b21eb57d6e4b2ca27b7330b29d4fce148545b44c4a3e4d920380ba82cbfe9"
+  "version": "1.4.13",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.13/FlowTool_v1.4.13.zip",
+  "sha256": "2fed74dd99ead7325b52a457f6de157144c04a19e0e2b2cd202653d4a69646b5",
+  "notes": "Sua node tao anh ChatGPT: khong luu nham anh upload dau vao, chi luu anh moi ChatGPT sinh sau khi gui prompt.",
+  "published_at": "2026-06-14T15:07:17Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.13/FlowTool_FULL_v1.4.13.zip",
+  "full_sha256": "707bb01d50d0f1f694e1a208aee393e605a0dd8fd99c733b60711fd0d55aebd4"
 }
