@@ -1,9 +1,9 @@
 {
-  "version": "1.4.50",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.50/FlowTool_v1.4.50.zip",
-  "sha256": "972a3168a70ee4cb3cd1e669e033538024f456f2465ca8229451340d0645f213",
-  "notes": "Sua duong dan dang TikTok khi chay bang exe pyc de luon tim video trong thu muc FlowTool media tiktok_data Video hoan chinh. Kem fix ChatGPT cuon toi anh ket qua truoc khi luu anh.",
-  "published_at": "2026-06-15T19:02:47Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.50/FlowTool_FULL_v1.4.50.zip",
-  "full_sha256": "9e708dd48963f22cf9854520af3f444b9a44b2364689270161565d0a56725aa2"
+  "version": "1.4.51",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.51/FlowTool_v1.4.51.zip",
+  "sha256": "a77340a07c07adeae0289b3710db5dd94602e23240fa63be069ec47f92e182c7",
+  "notes": "Them lua chon model Gemini Chrome cho node Viet Prompt bang Gemini Chrome, ho tro 3.1 Pro, 3.5 Flash, 3.1 Flash-Lite va giu model hien tai. Tool se chon model tren Gemini web truoc khi upload anh va gui prompt.",
+  "published_at": "2026-06-15T19:21:11Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.51/FlowTool_FULL_v1.4.51.zip",
+  "full_sha256": "98ed9ae51d86a90d41a378a5737e288b3854c1253b44dff0be30c4ea6eb083e8"
 }
