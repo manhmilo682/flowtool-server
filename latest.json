@@ -1,9 +1,9 @@
 {
-  "version": "1.4.43",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.43/FlowTool_v1.4.43.zip",
-  "sha256": "a2a0ea37c4bfd347136691dbbb38fb03c6b558cda813a7a5d2ca9ef3305db7a1",
-  "notes": "- Gemini Chrome: sau khi bam gui prompt se cho co dinh 30 giay roi moi doc ket qua.",
-  "published_at": "2026-06-15T08:05:04Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.43/FlowTool_FULL_v1.4.43.zip",
-  "full_sha256": "4436376b4945c90aec59ddd824f2827a55ba6e8fa1c1d7ac0602482ddd55e83a"
+  "version": "1.4.44",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.44/FlowTool_v1.4.44.zip",
+  "sha256": "5ce282ceec78458eb526744e61ab8dc3e455b7085b147e3cb4f4ded5a7257145",
+  "notes": "- Sua checkbox An Chrome: bat/tat se ap dung ngay cho cac Chrome workflow dang mo, khong chi luu setting.",
+  "published_at": "2026-06-15T08:23:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.44/FlowTool_FULL_v1.4.44.zip",
+  "full_sha256": "47a2fea0dd77ec60a8762bd358940112f42dbb8e1a85c5b015874474b5506d67"
 }
