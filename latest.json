@@ -1,9 +1,9 @@
 {
-  "version": "1.4.40",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.40/FlowTool_v1.4.40.zip",
-  "sha256": "fe3f89eca0c5753bf6950d1b8d763e4e525b8a0ec4d7b815c0ba49f450d6a616",
-  "notes": "- Gemini Chrome: cho danh sach notebook load xong truoc khi click.",
-  "published_at": "2026-06-15T05:33:29Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.40/FlowTool_FULL_v1.4.40.zip",
-  "full_sha256": "53671c13d2a7680951582de03e18923e9ab4e692f5ab59deba3553cc5639d078"
+  "version": "1.4.41",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.41/FlowTool_v1.4.41.zip",
+  "sha256": "c31e48b4616c0175a298bbf2284c633f76d8d37462df96e7da7273ae78a47a4c",
+  "notes": "- Gemini Chrome: uu tien click notebook dau tien bang Playwright that theo XPath, khong dung click JS gia lap.",
+  "published_at": "2026-06-15T05:42:50Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.41/FlowTool_FULL_v1.4.41.zip",
+  "full_sha256": "6c766bea5a30025f72ca6e61dc5192af3b3d510c2e4a10b2e89845351796a11a"
 }
