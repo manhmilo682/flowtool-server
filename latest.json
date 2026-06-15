@@ -1,9 +1,9 @@
 {
-  "version": "1.4.48",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.48/FlowTool_v1.4.48.zip",
-  "sha256": "a3dc7e900a3082fd8cdb08592872d7c1ceae9a2f254fca32ac34ad81744ccb45",
-  "notes": "Sua node Gemini Chrome chi duoc chay tiep khi tab Gemini da tra ve prompt that. Neu ket qua moi chi co nhan prom tao video 1 den 5 nhung noi dung rong thi tiep tuc doi, khong nhay sang buoc sau.",
-  "published_at": "2026-06-15T18:30:16Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.48/FlowTool_FULL_v1.4.48.zip",
-  "full_sha256": "cfbbdf9f6dd88a5bee5e920549418ce1418fcc314e664c536ca5624defce8caf"
+  "version": "1.4.50",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.50/FlowTool_v1.4.50.zip",
+  "sha256": "972a3168a70ee4cb3cd1e669e033538024f456f2465ca8229451340d0645f213",
+  "notes": "Sua duong dan dang TikTok khi chay bang exe pyc de luon tim video trong thu muc FlowTool media tiktok_data Video hoan chinh. Kem fix ChatGPT cuon toi anh ket qua truoc khi luu anh.",
+  "published_at": "2026-06-15T19:02:47Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.50/FlowTool_FULL_v1.4.50.zip",
+  "full_sha256": "9e708dd48963f22cf9854520af3f444b9a44b2364689270161565d0a56725aa2"
 }
