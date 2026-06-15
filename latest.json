@@ -1,9 +1,9 @@
 {
-  "version": "1.4.44",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.44/FlowTool_v1.4.44.zip",
-  "sha256": "5ce282ceec78458eb526744e61ab8dc3e455b7085b147e3cb4f4ded5a7257145",
-  "notes": "- Sua checkbox An Chrome: bat/tat se ap dung ngay cho cac Chrome workflow dang mo, khong chi luu setting.",
-  "published_at": "2026-06-15T08:23:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.44/FlowTool_FULL_v1.4.44.zip",
-  "full_sha256": "47a2fea0dd77ec60a8762bd358940112f42dbb8e1a85c5b015874474b5506d67"
+  "version": "1.4.46",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.46/FlowTool_v1.4.46.zip",
+  "sha256": "c99a07578ee41c0c7cb33789dac527981bb29e98afcfca02be7e4d69d7f806fe",
+  "notes": "Sua Gan video vao slot de nhan video tu moi thu muc tren may va copy ve dung thu muc slot chuan. Sua node Ghep Video de giu am thanh goc khi khong chon nhac nen, chi tat am thanh goc khi co ghep nhac nen moi.",
+  "published_at": "2026-06-15T09:45:00Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.46/FlowTool_FULL_v1.4.46.zip",
+  "full_sha256": "9399da3eaad2dc8945bd776437b13dcd227dd1b73bc46646d9963e6c84bd9efa"
 }
