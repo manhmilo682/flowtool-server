@@ -1,9 +1,9 @@
 {
-  "version": "1.4.46",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.46/FlowTool_v1.4.46.zip",
-  "sha256": "c99a07578ee41c0c7cb33789dac527981bb29e98afcfca02be7e4d69d7f806fe",
-  "notes": "Sua Gan video vao slot de nhan video tu moi thu muc tren may va copy ve dung thu muc slot chuan. Sua node Ghep Video de giu am thanh goc khi khong chon nhac nen, chi tat am thanh goc khi co ghep nhac nen moi.",
-  "published_at": "2026-06-15T09:45:00Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.46/FlowTool_FULL_v1.4.46.zip",
-  "full_sha256": "9399da3eaad2dc8945bd776437b13dcd227dd1b73bc46646d9963e6c84bd9efa"
+  "version": "1.4.47",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.47/FlowTool_v1.4.47.zip",
+  "sha256": "5e7efaebbc239937ce755c7584220f9a86bad3713124ca419f37626eaa17933f",
+  "notes": "Sua goi full sach du lieu tai khoan va kem video quet san pham TikTok. Goi full khong dong goi app db profile log output hay du lieu slot nguoi dung, dong thoi bat buoc co assets tiktok videoquetsanpham mp4.",
+  "published_at": "2026-06-15T10:11:14Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.47/FlowTool_FULL_v1.4.47.zip",
+  "full_sha256": "6453327e7e740fb42dc8c321e3e5d0e743e23285deb37b25d0d8c75ba0a3f40f"
 }
