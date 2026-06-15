@@ -1,9 +1,9 @@
 {
-  "version": "1.4.32",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.32/FlowTool_v1.4.32.zip",
-  "sha256": "9d23e1c2cb005192af53d93b505530852c385964454966799d90fbb5c26eff87",
-  "notes": "Gemini Chrome now must click the first pinned notebook before uploading images or entering prompt text.",
-  "published_at": "2026-06-15T02:16:50Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.32/FlowTool_FULL_v1.4.32.zip",
-  "full_sha256": "e1b757cda567a7a951ff0c79b147e29f5659562af9b4fff8be37ecfe2315c808"
+  "version": "1.4.34",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.34/FlowTool_v1.4.34.zip",
+  "sha256": "7c631441934cfd52ead4d641f8356ac134c36db2a861f9920d8e15099d3438f8",
+  "notes": "Fix Gemini Chrome pinned notebook selection so it only clicks the first notebook under the Notebooks sidebar and never the Pro model selector.",
+  "published_at": "2026-06-15T02:35:27Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.34/FlowTool_FULL_v1.4.34.zip",
+  "full_sha256": "790dcd4a77a8c0ceb61ced40b50ffe5d27abdbb2a3c9fb440f75763a7c6bbb1a"
 }
