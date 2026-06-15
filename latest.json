@@ -1,9 +1,9 @@
 {
-  "version": "1.4.30",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.30/FlowTool_v1.4.30.zip",
-  "sha256": "420502eaca3167f400ea751d1279c408d56fc1a87dc9415839f4ad0d1b73c29b",
-  "notes": "Add TikTok product name column and save product names together with scanned product IDs.",
-  "published_at": "2026-06-15T01:45:34Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.30/FlowTool_FULL_v1.4.30.zip",
-  "full_sha256": "41bf41f1597787f8c57093865d15f6ecd9860d68f4bb4c455a40f2929ed994f9"
+  "version": "1.4.31",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.31/FlowTool_v1.4.31.zip",
+  "sha256": "73cec41d025aeb0e939ad133813adbd3a0df584f164f807298f3395c698e9b03",
+  "notes": "Gemini Chrome prompt node uses the current slot product name when its instruction field is empty.",
+  "published_at": "2026-06-15T01:58:29Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.31/FlowTool_FULL_v1.4.31.zip",
+  "full_sha256": "0ceeca64451e7f015ad2ec0efa94f3bc67e50fe961c269ced9d21acd52e5ca31"
 }
