@@ -1,9 +1,9 @@
 {
-  "version": "1.4.31",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.31/FlowTool_v1.4.31.zip",
-  "sha256": "73cec41d025aeb0e939ad133813adbd3a0df584f164f807298f3395c698e9b03",
-  "notes": "Gemini Chrome prompt node uses the current slot product name when its instruction field is empty.",
-  "published_at": "2026-06-15T01:58:29Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.31/FlowTool_FULL_v1.4.31.zip",
-  "full_sha256": "0ceeca64451e7f015ad2ec0efa94f3bc67e50fe961c269ced9d21acd52e5ca31"
+  "version": "1.4.32",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.32/FlowTool_v1.4.32.zip",
+  "sha256": "9d23e1c2cb005192af53d93b505530852c385964454966799d90fbb5c26eff87",
+  "notes": "Gemini Chrome now must click the first pinned notebook before uploading images or entering prompt text.",
+  "published_at": "2026-06-15T02:16:50Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.32/FlowTool_FULL_v1.4.32.zip",
+  "full_sha256": "e1b757cda567a7a951ff0c79b147e29f5659562af9b4fff8be37ecfe2315c808"
 }
