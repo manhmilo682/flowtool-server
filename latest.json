@@ -1,9 +1,9 @@
 {
-  "version": "1.4.29",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.29/FlowTool_v1.4.29.zip",
-  "sha256": "9b9622e0af1c714dad19e41d1598ae48840674dc423150d05eb309d2272ab42b",
-  "notes": "Gemini Chrome image-only mode uploads images and submits them without injecting any default prompt text.",
-  "published_at": "2026-06-14T19:42:14Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.29/FlowTool_FULL_v1.4.29.zip",
-  "full_sha256": "39eda7623941cf0521fef3fe2a4753838a013a933f53c4a02d6f0354c8efd994"
+  "version": "1.4.30",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.30/FlowTool_v1.4.30.zip",
+  "sha256": "420502eaca3167f400ea751d1279c408d56fc1a87dc9415839f4ad0d1b73c29b",
+  "notes": "Add TikTok product name column and save product names together with scanned product IDs.",
+  "published_at": "2026-06-15T01:45:34Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.30/FlowTool_FULL_v1.4.30.zip",
+  "full_sha256": "41bf41f1597787f8c57093865d15f6ecd9860d68f4bb4c455a40f2929ed994f9"
 }
