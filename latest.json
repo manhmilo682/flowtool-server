@@ -1,9 +1,9 @@
 {
-  "version": "1.4.37",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.37/FlowTool_v1.4.37.zip",
-  "sha256": "35d393a3a66db44b15bae4602ab611102bd792403b750f1b3658af8970ef2b19",
-  "notes": "- Fix Gemini Chrome ch?n notebook: kh?ng nh?n nh?m plus/mic ho?c ? chat l? notebook.",
-  "published_at": "2026-06-15T04:50:18Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.37/FlowTool_FULL_v1.4.37.zip",
-  "full_sha256": "bb618e1ff40466924840b27c9d658c6eec8ce0043eaace9173728b2e0d7c8589"
+  "version": "1.4.38",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.38/FlowTool_v1.4.38.zip",
+  "sha256": "adab082d90680a084470166cfa805a18f877703ec5ace65231c72e0da37ce02e",
+  "notes": "- Gemini Chrome: tu bam Open sidebar neu sidebar dang dong.",
+  "published_at": "2026-06-15T05:03:09Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.38/FlowTool_FULL_v1.4.38.zip",
+  "full_sha256": "50203fe88d65ddb4fba11bd9c36ccc4e508dd9fc32a7ac7257028dee475920bb"
 }
