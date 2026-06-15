@@ -1,9 +1,9 @@
 {
-  "version": "1.4.34",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.34/FlowTool_v1.4.34.zip",
-  "sha256": "7c631441934cfd52ead4d641f8356ac134c36db2a861f9920d8e15099d3438f8",
-  "notes": "Fix Gemini Chrome pinned notebook selection so it only clicks the first notebook under the Notebooks sidebar and never the Pro model selector.",
-  "published_at": "2026-06-15T02:35:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.34/FlowTool_FULL_v1.4.34.zip",
-  "full_sha256": "790dcd4a77a8c0ceb61ced40b50ffe5d27abdbb2a3c9fb440f75763a7c6bbb1a"
+  "version": "1.4.35",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.35/FlowTool_v1.4.35.zip",
+  "sha256": "4ca4aa762394e9ae9347987a681b2056e1fc9e9acfeb31b94a5c1c8a01d21941",
+  "notes": "Fix Gemini Chrome notebook click by selecting the first row between New notebook and All notebooks in the left sidebar.",
+  "published_at": "2026-06-15T02:48:01Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.35/FlowTool_FULL_v1.4.35.zip",
+  "full_sha256": "239e04deaf9526adb9dc424f43d33f0d5bc1f13ea2733e4dd0e09e99199a99c8"
 }
