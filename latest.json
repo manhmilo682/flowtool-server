@@ -1,9 +1,9 @@
 {
-  "version": "1.4.35",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.35/FlowTool_v1.4.35.zip",
-  "sha256": "4ca4aa762394e9ae9347987a681b2056e1fc9e9acfeb31b94a5c1c8a01d21941",
-  "notes": "Fix Gemini Chrome notebook click by selecting the first row between New notebook and All notebooks in the left sidebar.",
-  "published_at": "2026-06-15T02:48:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.35/FlowTool_FULL_v1.4.35.zip",
-  "full_sha256": "239e04deaf9526adb9dc424f43d33f0d5bc1f13ea2733e4dd0e09e99199a99c8"
+  "version": "1.4.36",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.36/FlowTool_v1.4.36.zip",
+  "sha256": "0fc5510dce82f9cf5777d45cfa19e339177895b3716ac5bf82745bd5a8d94ee9",
+  "notes": "- Bat lai chup anh loi workflow truc tiep trong WorkflowEngine truoc khi dong Chrome/Playwright.",
+  "published_at": "2026-06-15T04:37:15Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.36/FlowTool_FULL_v1.4.36.zip",
+  "full_sha256": "74ff202d253b61ff08b998756ec8d5c7af04c45b24cdfe76dff5f7d2a3075600"
 }
