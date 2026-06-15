@@ -1,9 +1,9 @@
 {
-  "version": "1.4.39",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.39/FlowTool_v1.4.39.zip",
-  "sha256": "c0cba90811b43bf7e82e2127bda4fe195415395549b91ae37e2658e956383a52",
-  "notes": "- Gemini Chrome: khong bat nham tieu de trang chu lam notebook.",
-  "published_at": "2026-06-15T05:19:01Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.39/FlowTool_FULL_v1.4.39.zip",
-  "full_sha256": "11f62cea436381cd005a113defc37a6d1babe72886371a09041e6510938187b1"
+  "version": "1.4.40",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.40/FlowTool_v1.4.40.zip",
+  "sha256": "fe3f89eca0c5753bf6950d1b8d763e4e525b8a0ec4d7b815c0ba49f450d6a616",
+  "notes": "- Gemini Chrome: cho danh sach notebook load xong truoc khi click.",
+  "published_at": "2026-06-15T05:33:29Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.40/FlowTool_FULL_v1.4.40.zip",
+  "full_sha256": "53671c13d2a7680951582de03e18923e9ab4e692f5ab59deba3553cc5639d078"
 }
