@@ -1,9 +1,9 @@
 {
-  "version": "1.4.47",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.47/FlowTool_v1.4.47.zip",
-  "sha256": "5e7efaebbc239937ce755c7584220f9a86bad3713124ca419f37626eaa17933f",
-  "notes": "Sua goi full sach du lieu tai khoan va kem video quet san pham TikTok. Goi full khong dong goi app db profile log output hay du lieu slot nguoi dung, dong thoi bat buoc co assets tiktok videoquetsanpham mp4.",
-  "published_at": "2026-06-15T10:11:14Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.47/FlowTool_FULL_v1.4.47.zip",
-  "full_sha256": "6453327e7e740fb42dc8c321e3e5d0e743e23285deb37b25d0d8c75ba0a3f40f"
+  "version": "1.4.48",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.48/FlowTool_v1.4.48.zip",
+  "sha256": "a3dc7e900a3082fd8cdb08592872d7c1ceae9a2f254fca32ac34ad81744ccb45",
+  "notes": "Sua node Gemini Chrome chi duoc chay tiep khi tab Gemini da tra ve prompt that. Neu ket qua moi chi co nhan prom tao video 1 den 5 nhung noi dung rong thi tiep tuc doi, khong nhay sang buoc sau.",
+  "published_at": "2026-06-15T18:30:16Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.48/FlowTool_FULL_v1.4.48.zip",
+  "full_sha256": "cfbbdf9f6dd88a5bee5e920549418ce1418fcc314e664c536ca5624defce8caf"
 }
