@@ -1,9 +1,9 @@
 {
-  "version": "1.4.36",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.36/FlowTool_v1.4.36.zip",
-  "sha256": "0fc5510dce82f9cf5777d45cfa19e339177895b3716ac5bf82745bd5a8d94ee9",
-  "notes": "- Bat lai chup anh loi workflow truc tiep trong WorkflowEngine truoc khi dong Chrome/Playwright.",
-  "published_at": "2026-06-15T04:37:15Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.36/FlowTool_FULL_v1.4.36.zip",
-  "full_sha256": "74ff202d253b61ff08b998756ec8d5c7af04c45b24cdfe76dff5f7d2a3075600"
+  "version": "1.4.37",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.37/FlowTool_v1.4.37.zip",
+  "sha256": "35d393a3a66db44b15bae4602ab611102bd792403b750f1b3658af8970ef2b19",
+  "notes": "- Fix Gemini Chrome ch?n notebook: kh?ng nh?n nh?m plus/mic ho?c ? chat l? notebook.",
+  "published_at": "2026-06-15T04:50:18Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.37/FlowTool_FULL_v1.4.37.zip",
+  "full_sha256": "bb618e1ff40466924840b27c9d658c6eec8ce0043eaace9173728b2e0d7c8589"
 }
