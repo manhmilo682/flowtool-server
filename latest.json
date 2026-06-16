@@ -1,9 +1,9 @@
 {
-  "version": "1.4.80",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.80/FlowTool_v1.4.80.zip",
-  "sha256": "1aa4fe5cd5a11e51888a7cc51e44e89b76321c5abaf0380531eb0d6624d54a0f",
-  "notes": "Fix ChatGPT nhan dien canvas va background-image khi lay anh ket qua",
-  "published_at": "2026-06-16T18:30:12Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.80/FlowTool_FULL_v1.4.80.zip",
-  "full_sha256": "2cc329d1eb97e62a3d7a4a23121dd3b7304b523856a00c5dbe8d76bf12f86ab6"
+  "version": "1.4.81",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.81/FlowTool_v1.4.81.zip",
+  "sha256": "5a465adb826c3e980f6b6bebbf163578cb251173260aa06347d45a8b21b2894c",
+  "notes": "Fix ChatGPT chi lay anh sau khi Thought for ket thuc, khong lay som khi dang tao",
+  "published_at": "2026-06-16T18:54:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.81/FlowTool_FULL_v1.4.81.zip",
+  "full_sha256": "72412c0723ccce400d8e0d4827c2f958ff4467c3b213a29dddbacaf3dc918c0d"
 }
