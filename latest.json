@@ -1,9 +1,9 @@
 {
-  "version": "1.4.62",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.62/FlowTool_v1.4.62.zip",
-  "sha256": "2fefbd81801193c02caed3823e280937c9b7443490a48630be846424bd7e5140",
-  "notes": "ChatGPT nh?n di?n Too many requests ?? ??i t?i kho?n thay v? timeout",
-  "published_at": "2026-06-16T08:08:27Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.62/FlowTool_FULL_v1.4.62.zip",
-  "full_sha256": "1744e822c62300ef7c3307b43d4ee9db6a994b56effbea2ee4b787825647b608"
+  "version": "1.4.63",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.63/FlowTool_v1.4.63.zip",
+  "sha256": "689f52e348e2e8105221312757c5d77830837eb3acea611131743554bcc10707",
+  "notes": "Fix Grok/ChatGPT an Chrome manh hon, cuon tai anh, bo qua prompt rong, fallback tai Grok",
+  "published_at": "2026-06-16T12:16:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.63/FlowTool_FULL_v1.4.63.zip",
+  "full_sha256": "c8a8c9f681444335bc7d87f0959eaf28789ae8d8811d124518684591b4f796a3"
 }
