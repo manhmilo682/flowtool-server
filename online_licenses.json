@@ -256,6 +256,19 @@
       "max_devices": 1,
       "allowed_hwids": [],
       "blocked_hwids": []
+    },
+    "MILO-03KQ-ALWC-I3YF": {
+      "customer": "KH_20260616_200129",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 30,
+      "created_at": "2026-06-16T13:01:33.484880Z",
+      "activated_at": "",
+      "expires": "2026-07-16T13:01:33.484880Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
