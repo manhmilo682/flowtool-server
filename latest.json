@@ -1,9 +1,9 @@
 {
-  "version": "1.4.58",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.58/FlowTool_v1.4.58.zip",
-  "sha256": "c69d1d3651da2920ebc894d964e9190f1a1eb837c51a970d4343aeffcb92332b",
-  "notes": "Grok t? b?m Skip m?n h?nh ch?n video ?? hi?n Redo/Download",
-  "published_at": "2026-06-16T05:43:41Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.58/FlowTool_FULL_v1.4.58.zip",
-  "full_sha256": "8839e56334c84fd0b362d9e80ef8bd413c30abf7c3685afebc9068ebc8eec57e"
+  "version": "1.4.59",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.59/FlowTool_v1.4.59.zip",
+  "sha256": "986c2da1643390d50ab31d89daf149afede612111503e14bc6374bc073a467ec",
+  "notes": "Grok nh?n di?n n?t Download giao di?n panel m?i b?n ph?i",
+  "published_at": "2026-06-16T05:48:15Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.59/FlowTool_FULL_v1.4.59.zip",
+  "full_sha256": "391c2399f522a7457298d1f6aa36ebdd4f2ced7ae5aedc876ff06b4ad42b883e"
 }
