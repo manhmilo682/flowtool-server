@@ -1,9 +1,9 @@
 {
-  "version": "1.4.66",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.66/FlowTool_v1.4.66.zip",
-  "sha256": "9d098c51bc63e44fe8b73d56710823ece3e3b04678faddca5149fe56ff1b8a3d",
-  "notes": "Ghep Video yeu cau du so clip theo so video can ghep",
-  "published_at": "2026-06-16T12:35:08Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.66/FlowTool_FULL_v1.4.66.zip",
-  "full_sha256": "033c2ab4599ed35604f56e37613f636314ba4ea256684911efe2b7859281a752"
+  "version": "1.4.67",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.67/FlowTool_v1.4.67.zip",
+  "sha256": "d87b022e76800fbabd651113cfbe167ba8717692be85fffb7e64e32060320b25",
+  "notes": "v1.4.67",
+  "published_at": "2026-06-16T12:50:28Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.67/FlowTool_FULL_v1.4.67.zip",
+  "full_sha256": "8b3d412f35f8801d565fc8e6f05c0673e24c45305c327e009330e18be7e6a5ee"
 }
