@@ -1,9 +1,9 @@
 {
-  "version": "1.4.61",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.61/FlowTool_v1.4.61.zip",
-  "sha256": "1ab56c30fa9b2f7cd471f18641bfd8150df5da312a82de23f85000d2ce374665",
-  "notes": "S?a ChatGPT nh?n ??ng prom t?o video t? Gemini Chrome",
-  "published_at": "2026-06-16T07:53:49Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.61/FlowTool_FULL_v1.4.61.zip",
-  "full_sha256": "c90b67ec34b0a46289f0da22ae3ba865c6ac9449d6a3c2fab503e8ea4038de0d"
+  "version": "1.4.62",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.62/FlowTool_v1.4.62.zip",
+  "sha256": "2fefbd81801193c02caed3823e280937c9b7443490a48630be846424bd7e5140",
+  "notes": "ChatGPT nh?n di?n Too many requests ?? ??i t?i kho?n thay v? timeout",
+  "published_at": "2026-06-16T08:08:27Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.62/FlowTool_FULL_v1.4.62.zip",
+  "full_sha256": "1744e822c62300ef7c3307b43d4ee9db6a994b56effbea2ee4b787825647b608"
 }
