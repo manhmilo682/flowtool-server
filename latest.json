@@ -1,9 +1,9 @@
 {
-  "version": "1.4.72",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.72/FlowTool_v1.4.72.zip",
-  "sha256": "2eb89be742815614511d35d16698c628bff699de671440b1d6025a67fb1ed83c",
-  "notes": "Fix Gemini Chrome chi lay prompt khi co SCENE 1 va image prompt",
-  "published_at": "2026-06-16T14:45:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.72/FlowTool_FULL_v1.4.72.zip",
-  "full_sha256": "1285a6e58211937223f6e0de9c9dcbb0a5725e7a7a3cb83f885181b8986d67d7"
+  "version": "1.4.73",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.73/FlowTool_v1.4.73.zip",
+  "sha256": "8eb14df1ef2bce39caa440444234a88f45c9e1c7c4bff61fd25a5bc9886bbe46",
+  "notes": "Fix ChatGPT doi het Thought for roi moi tai anh",
+  "published_at": "2026-06-16T15:16:03Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.73/FlowTool_FULL_v1.4.73.zip",
+  "full_sha256": "8af51644deba53b2508e3bf655af4c1c69826ac054c36138c3df2bc88d8365e1"
 }
