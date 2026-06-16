@@ -1,9 +1,9 @@
 {
-  "version": "1.4.57",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.57/FlowTool_v1.4.57.zip",
-  "sha256": "fe622c82bdb9ddf4a79453993811858027dfd7092e2c2ce6d1db58e14f439c63",
-  "notes": "An cua so console den khi chay tien trinh phu",
-  "published_at": "2026-06-16T05:34:45Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.57/FlowTool_FULL_v1.4.57.zip",
-  "full_sha256": "2bedb07e31a29e8b59174002c3b00595ea9e5129f6f8a1684ce703e1dcd3ee1a"
+  "version": "1.4.58",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.58/FlowTool_v1.4.58.zip",
+  "sha256": "c69d1d3651da2920ebc894d964e9190f1a1eb837c51a970d4343aeffcb92332b",
+  "notes": "Grok t? b?m Skip m?n h?nh ch?n video ?? hi?n Redo/Download",
+  "published_at": "2026-06-16T05:43:41Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.58/FlowTool_FULL_v1.4.58.zip",
+  "full_sha256": "8839e56334c84fd0b362d9e80ef8bd413c30abf7c3685afebc9068ebc8eec57e"
 }
