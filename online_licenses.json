@@ -243,6 +243,19 @@
       "max_devices": 1,
       "allowed_hwids": [],
       "blocked_hwids": []
+    },
+    "MILO-RDAK-QICM-0JBI": {
+      "customer": "KH_20260616_195905",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 30,
+      "created_at": "2026-06-16T12:59:09.083660Z",
+      "activated_at": "",
+      "expires": "2026-07-16T12:59:09.083660Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
