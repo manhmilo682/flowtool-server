@@ -1,9 +1,9 @@
 {
-  "version": "1.4.75",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.75/FlowTool_v1.4.75.zip",
-  "sha256": "0befe5c3a45d83dabd418cac469922a5441c047841b93615e61d8b373cd52fa5",
-  "notes": "Fix ChatGPT coi Thought for la da xong va cuon xuong tai anh",
-  "published_at": "2026-06-16T15:47:33Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.75/FlowTool_FULL_v1.4.75.zip",
-  "full_sha256": "c5764aeafb4b9f6ad670fd2eccbef10665ae0d325528ce63b9f6444db0ed3b7a"
+  "version": "1.4.76",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.76/FlowTool_v1.4.76.zip",
+  "sha256": "110d001dbc4cc8dc39ce36804702335396446ac2831779b68e818dbf27db1d9c",
+  "notes": "Fix ChatGPT cuon xuong cuoi trang khi thay Thought for",
+  "published_at": "2026-06-16T15:58:55Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.76/FlowTool_FULL_v1.4.76.zip",
+  "full_sha256": "cb07de56bcbd70420af29598827c256a43a625320844ff8efb0e67eed7c4f2a3"
 }
