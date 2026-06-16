@@ -1,9 +1,9 @@
 {
-  "version": "1.4.69",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.69/FlowTool_v1.4.69.zip",
-  "sha256": "388bf4b7218b466df69eda96573f55dbf4451a3a0270571b5bf92f0305289cd6",
-  "notes": "Fix Gemini Chrome popup Agree chan o nhap prompt",
-  "published_at": "2026-06-16T13:43:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.69/FlowTool_FULL_v1.4.69.zip",
-  "full_sha256": "bc80e655999273c2d8c04a731b59267375bc2c87c8d47472df4223f03db1c723"
+  "version": "1.4.70",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.70/FlowTool_v1.4.70.zip",
+  "sha256": "c4b18d289581ad12e162f4b2cb5126a5e31d58fa1794a760d57165e96eafa466",
+  "notes": "Fix khong mo ChatGPT Grok neu node bi bo qua do prompt rong",
+  "published_at": "2026-06-16T14:04:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.70/FlowTool_FULL_v1.4.70.zip",
+  "full_sha256": "85572b20c2c3e1613b0f1a5e449f916e2a84fa4f1aef23823d96ac55ffa8a0ea"
 }
