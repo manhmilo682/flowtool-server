@@ -1,9 +1,9 @@
 {
-  "version": "1.4.71",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.71/FlowTool_v1.4.71.zip",
-  "sha256": "7219f1c6f4912aed061d27dffee12c87331fa7191a1480b271b98e8dd50a50f1",
-  "notes": "Fix Gemini Chrome khong nhat nham cau tra loi cu trong notebook",
-  "published_at": "2026-06-16T14:19:58Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.71/FlowTool_FULL_v1.4.71.zip",
-  "full_sha256": "d01efbfeddae3a9b3d6fe6df838c7b9d594cef142a301cfc2a198dde5a2c6775"
+  "version": "1.4.72",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.72/FlowTool_v1.4.72.zip",
+  "sha256": "2eb89be742815614511d35d16698c628bff699de671440b1d6025a67fb1ed83c",
+  "notes": "Fix Gemini Chrome chi lay prompt khi co SCENE 1 va image prompt",
+  "published_at": "2026-06-16T14:45:30Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.72/FlowTool_FULL_v1.4.72.zip",
+  "full_sha256": "1285a6e58211937223f6e0de9c9dcbb0a5725e7a7a3cb83f885181b8986d67d7"
 }
