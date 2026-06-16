@@ -1,9 +1,9 @@
 {
-  "version": "1.4.64",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.64/FlowTool_v1.4.64.zip",
-  "sha256": "8041fee1d23b556026654a92063833442f65101e43174be7acc953da8aea0316",
-  "notes": "Tang an cua so Chrome den va cuon sau hon toi nut tai ChatGPT",
-  "published_at": "2026-06-16T12:27:08Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.64/FlowTool_FULL_v1.4.64.zip",
-  "full_sha256": "73d504dacfa51b620616ec314b974108388346c1685ab3fe248fabdeb64a695e"
+  "version": "1.4.66",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.66/FlowTool_v1.4.66.zip",
+  "sha256": "9d098c51bc63e44fe8b73d56710823ece3e3b04678faddca5149fe56ff1b8a3d",
+  "notes": "Ghep Video yeu cau du so clip theo so video can ghep",
+  "published_at": "2026-06-16T12:35:08Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.66/FlowTool_FULL_v1.4.66.zip",
+  "full_sha256": "033c2ab4599ed35604f56e37613f636314ba4ea256684911efe2b7859281a752"
 }
