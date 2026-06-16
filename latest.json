@@ -1,9 +1,9 @@
 {
-  "version": "1.4.68",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.68/FlowTool_v1.4.68.zip",
-  "sha256": "f8862c7203d5c147ab28b3c5fd13e650438beb81f3a4562ae5080e57c251aeea",
-  "notes": "Fix kich hoat online tren may khach khi thieu license_server.json",
-  "published_at": "2026-06-16T13:14:05Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.68/FlowTool_FULL_v1.4.68.zip",
-  "full_sha256": "c4f92b7fed11ccbfa5c6d34cffe4e5e5cd726e02b90bc46be717908be2d17f42"
+  "version": "1.4.69",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.69/FlowTool_v1.4.69.zip",
+  "sha256": "388bf4b7218b466df69eda96573f55dbf4451a3a0270571b5bf92f0305289cd6",
+  "notes": "Fix Gemini Chrome popup Agree chan o nhap prompt",
+  "published_at": "2026-06-16T13:43:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.69/FlowTool_FULL_v1.4.69.zip",
+  "full_sha256": "bc80e655999273c2d8c04a731b59267375bc2c87c8d47472df4223f03db1c723"
 }
