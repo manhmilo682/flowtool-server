@@ -1,9 +1,9 @@
 {
-  "version": "1.4.76",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.76/FlowTool_v1.4.76.zip",
-  "sha256": "110d001dbc4cc8dc39ce36804702335396446ac2831779b68e818dbf27db1d9c",
-  "notes": "Fix ChatGPT cuon xuong cuoi trang khi thay Thought for",
-  "published_at": "2026-06-16T15:58:55Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.76/FlowTool_FULL_v1.4.76.zip",
-  "full_sha256": "cb07de56bcbd70420af29598827c256a43a625320844ff8efb0e67eed7c4f2a3"
+  "version": "1.4.77",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.77/FlowTool_v1.4.77.zip",
+  "sha256": "3f9e7b22df42b02c38ef21e6f06adbb25ec7987a24b54774a442aadf1250eb04",
+  "notes": "Fix Gemini parser doc format SCENE 1 image prompt tren cung dong",
+  "published_at": "2026-06-16T17:00:02Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.77/FlowTool_FULL_v1.4.77.zip",
+  "full_sha256": "e2b0cc464f5203573cccc07361761adb338c3ed14c7e4c0ce7965c861be20322"
 }
