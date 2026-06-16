@@ -1,9 +1,9 @@
 {
-  "version": "1.4.70",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.70/FlowTool_v1.4.70.zip",
-  "sha256": "c4b18d289581ad12e162f4b2cb5126a5e31d58fa1794a760d57165e96eafa466",
-  "notes": "Fix khong mo ChatGPT Grok neu node bi bo qua do prompt rong",
-  "published_at": "2026-06-16T14:04:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.70/FlowTool_FULL_v1.4.70.zip",
-  "full_sha256": "85572b20c2c3e1613b0f1a5e449f916e2a84fa4f1aef23823d96ac55ffa8a0ea"
+  "version": "1.4.71",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.71/FlowTool_v1.4.71.zip",
+  "sha256": "7219f1c6f4912aed061d27dffee12c87331fa7191a1480b271b98e8dd50a50f1",
+  "notes": "Fix Gemini Chrome khong nhat nham cau tra loi cu trong notebook",
+  "published_at": "2026-06-16T14:19:58Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.71/FlowTool_FULL_v1.4.71.zip",
+  "full_sha256": "d01efbfeddae3a9b3d6fe6df838c7b9d594cef142a301cfc2a198dde5a2c6775"
 }
