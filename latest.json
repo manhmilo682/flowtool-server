@@ -1,9 +1,9 @@
 {
-  "version": "1.4.52",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.52/FlowTool_v1.4.52.zip",
-  "sha256": "a06e30251f37dc621ff3f01887fdb50213274b1c6c0529ea73b7c9e27daac770",
-  "notes": "Fix an/hien Chrome va on dinh tai video Grok",
-  "published_at": "2026-06-16T04:44:38Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.52/FlowTool_FULL_v1.4.52.zip",
-  "full_sha256": "942571da7438dcde804939c25d88f120868735383b1f86fcb15671645695d5d4"
+  "version": "1.4.53",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.53/FlowTool_v1.4.53.zip",
+  "sha256": "a5e6a4746ef42a66e79d968d44f9aa174a717f3ad15468572a803a9dd6ed983c",
+  "notes": "Fix ten nut san pham TikTok bi loi ky tu",
+  "published_at": "2026-06-16T04:50:51Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.53/FlowTool_FULL_v1.4.53.zip",
+  "full_sha256": "81a28f7e4761344e77d49b9525dc5118111651524b703ffd45729e9455969656"
 }
