@@ -1,9 +1,9 @@
 {
-  "version": "1.4.53",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.53/FlowTool_v1.4.53.zip",
-  "sha256": "a5e6a4746ef42a66e79d968d44f9aa174a717f3ad15468572a803a9dd6ed983c",
-  "notes": "Fix ten nut san pham TikTok bi loi ky tu",
-  "published_at": "2026-06-16T04:50:51Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.53/FlowTool_FULL_v1.4.53.zip",
-  "full_sha256": "81a28f7e4761344e77d49b9525dc5118111651524b703ffd45729e9455969656"
+  "version": "1.4.54",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.54/FlowTool_v1.4.54.zip",
+  "sha256": "89070f54ae4920e8e15f06790f4d8933f160113bb94602da276bd519031f74a2",
+  "notes": "Fix bo an Chrome ap dung toan bo Chrome workflow",
+  "published_at": "2026-06-16T04:58:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.54/FlowTool_FULL_v1.4.54.zip",
+  "full_sha256": "62052d75981cd90c5824ec0fe1c66bac1c6c486a8b0d850dc5d95ba8de0a3a26"
 }
