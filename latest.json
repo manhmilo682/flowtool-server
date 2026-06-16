@@ -1,9 +1,9 @@
 {
-  "version": "1.4.79",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.79/FlowTool_v1.4.79.zip",
-  "sha256": "8b21165f566c270bcf7bb0388ca466a566a23bf6a7e15d3ad3a7adc1814c478a",
-  "notes": "Fix ChatGPT fallback nhan anh lon tren man hinh ngay ca khi het timeout",
-  "published_at": "2026-06-16T18:07:30Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.79/FlowTool_FULL_v1.4.79.zip",
-  "full_sha256": "a66b1b48fd0432066e4c646d71997777b649018d88901e5c70fffe8de39246de"
+  "version": "1.4.80",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.80/FlowTool_v1.4.80.zip",
+  "sha256": "1aa4fe5cd5a11e51888a7cc51e44e89b76321c5abaf0380531eb0d6624d54a0f",
+  "notes": "Fix ChatGPT nhan dien canvas va background-image khi lay anh ket qua",
+  "published_at": "2026-06-16T18:30:12Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.80/FlowTool_FULL_v1.4.80.zip",
+  "full_sha256": "2cc329d1eb97e62a3d7a4a23121dd3b7304b523856a00c5dbe8d76bf12f86ab6"
 }
