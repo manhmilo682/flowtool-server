@@ -1,9 +1,9 @@
 {
-  "version": "1.4.55",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.55/FlowTool_v1.4.55.zip",
-  "sha256": "c6e5b6b56522f80fa3bc201952d995205f7ec42425317b4be500975aef1d4df3",
-  "notes": "Gemini Chrome cho 300s va dung som khi co cau tra loi",
-  "published_at": "2026-06-16T05:16:43Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.55/FlowTool_FULL_v1.4.55.zip",
-  "full_sha256": "522576ea4b23292e0487959c91533ef1043c89e5519ad11d06921d1d2fdebd9e"
+  "version": "1.4.56",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.56/FlowTool_v1.4.56.zip",
+  "sha256": "dbc0eecc5978ded77bc29e31997ab63ef65e919e84d6bb26a970dc017ccf73d8",
+  "notes": "Fix Gemini Chrome khong lay nham ket qua cu va ep cho toi thieu 300s",
+  "published_at": "2026-06-16T05:25:19Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.56/FlowTool_FULL_v1.4.56.zip",
+  "full_sha256": "a63df2252f4a49687fa07d2f342239a851419ff5478b0216a3c8b0eeb8ca563f"
 }
