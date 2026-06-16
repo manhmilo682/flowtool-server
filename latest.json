@@ -1,9 +1,9 @@
 {
-  "version": "1.4.67",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.67/FlowTool_v1.4.67.zip",
-  "sha256": "d87b022e76800fbabd651113cfbe167ba8717692be85fffb7e64e32060320b25",
-  "notes": "v1.4.67",
-  "published_at": "2026-06-16T12:50:28Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.67/FlowTool_FULL_v1.4.67.zip",
-  "full_sha256": "8b3d412f35f8801d565fc8e6f05c0673e24c45305c327e009330e18be7e6a5ee"
+  "version": "1.4.68",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.68/FlowTool_v1.4.68.zip",
+  "sha256": "f8862c7203d5c147ab28b3c5fd13e650438beb81f3a4562ae5080e57c251aeea",
+  "notes": "Fix kich hoat online tren may khach khi thieu license_server.json",
+  "published_at": "2026-06-16T13:14:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.68/FlowTool_FULL_v1.4.68.zip",
+  "full_sha256": "c4f92b7fed11ccbfa5c6d34cffe4e5e5cd726e02b90bc46be717908be2d17f42"
 }
