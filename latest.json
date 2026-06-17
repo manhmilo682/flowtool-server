@@ -1,9 +1,9 @@
 {
-  "version": "1.4.87",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.87/FlowTool_v1.4.87.zip",
-  "sha256": "efed04e23d76733b1eb76bfcc8316e702c281be6f0eb8b9fa666a2aeaebb8f46",
-  "notes": "Fix Gemini chap nhan prompt da parse day du sau khi format, khong can marker raw qua gat",
-  "published_at": "2026-06-17T03:20:39Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.87/FlowTool_FULL_v1.4.87.zip",
-  "full_sha256": "5460698c5a61fefb66807bd2f464c0b0d8e5d4ec4d99b84c8a1d327da199b348"
+  "version": "1.4.88",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.88/FlowTool_v1.4.88.zip",
+  "sha256": "6dcc634fd0797af7764b15463ac06e9d5c5d3954e85cf65c797646806116f7cd",
+  "notes": "Fix ChatGPT khong nhan nham rate limit tu text sidebar khi dang Creating image",
+  "published_at": "2026-06-17T03:37:26Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.88/FlowTool_FULL_v1.4.88.zip",
+  "full_sha256": "ebc2cfd752dc3895e8e684fd287351367c0637e7a6b08a59869b9e74d0835ac4"
 }
