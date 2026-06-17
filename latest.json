@@ -1,9 +1,9 @@
 {
-  "version": "1.4.91",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.91/FlowTool_v1.4.91.zip",
-  "sha256": "640078f3c3d655fe1e826d092535838f7930c46add8ea0845350d0cd57aa5203",
-  "notes": "Fix ChatGPT luu anh ngay khi Thought for xuat hien va anh da render that",
-  "published_at": "2026-06-17T07:35:05Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.91/FlowTool_FULL_v1.4.91.zip",
-  "full_sha256": "4368855167985c6a196203e415912f9280a8f846fb85ddb669b98a2cf785ea15"
+  "version": "1.4.92",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.92/FlowTool_v1.4.92.zip",
+  "sha256": "ebd3e72ff02fce41e80ec184b0bd3cc5d4ccbf2e6a8a44ddf6faf1332c8cca71",
+  "notes": "Fix ChatGPT fallback lay anh render that o cuoi vong cho neu van con Thought for",
+  "published_at": "2026-06-17T08:00:38Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.92/FlowTool_FULL_v1.4.92.zip",
+  "full_sha256": "985a27e42873a9b2afaa295db500f3c4ac1fb425a1d2f5d9e7481ebf48171d23"
 }
