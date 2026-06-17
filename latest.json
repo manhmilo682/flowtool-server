@@ -1,9 +1,9 @@
 {
-  "version": "1.4.90",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.90/FlowTool_v1.4.90.zip",
-  "sha256": "cb28ffab0081b63566bae63dc8eb4e3904f87f3489b37ea8ff9c2008e4e1a6b3",
-  "notes": "Fix thong bao Luu Anh Vao Slot de chi ro node upstream khong tao duoc anh",
-  "published_at": "2026-06-17T07:19:35Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.90/FlowTool_FULL_v1.4.90.zip",
-  "full_sha256": "fb16078ee1507c11dc8880e81f7b173d2fe7241ef1be7e50cb7fd7f3fc99e5d1"
+  "version": "1.4.91",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.91/FlowTool_v1.4.91.zip",
+  "sha256": "640078f3c3d655fe1e826d092535838f7930c46add8ea0845350d0cd57aa5203",
+  "notes": "Fix ChatGPT luu anh ngay khi Thought for xuat hien va anh da render that",
+  "published_at": "2026-06-17T07:35:05Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.91/FlowTool_FULL_v1.4.91.zip",
+  "full_sha256": "4368855167985c6a196203e415912f9280a8f846fb85ddb669b98a2cf785ea15"
 }
