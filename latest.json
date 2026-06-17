@@ -1,9 +1,9 @@
 {
-  "version": "1.4.94",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.94/FlowTool_v1.4.94.zip",
-  "sha256": "97ff85adac11a3cffc57046c6d6b8faaea6229049bd826f3b7a1e43edaace3c2",
-  "notes": "Fix Grok video chi tai 1 lan, bo cac fallback tai lap lai",
-  "published_at": "2026-06-17T08:43:23Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.94/FlowTool_FULL_v1.4.94.zip",
-  "full_sha256": "086b14500d35aafeede0db3a13f52443527de95e4989c454d27b8250c5acf273"
+  "version": "1.4.95",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.95/FlowTool_v1.4.95.zip",
+  "sha256": "d330c50e6cdcf9f5d6893ffe5d3c90c2a323531a30de1bf836d3a1c2282acf4d",
+  "notes": "Fix Gemini Chrome chi nhan prompt video khi du SCENE 1 image prompt va Gemini dung generating",
+  "published_at": "2026-06-17T16:02:15Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.95/FlowTool_FULL_v1.4.95.zip",
+  "full_sha256": "c7f16ea8f0b7c6ffef4cb7d438df26e41708fad9cf7f87d58e192310613ab2e7"
 }
