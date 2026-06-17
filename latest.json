@@ -1,9 +1,9 @@
 {
-  "version": "1.4.93",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.93/FlowTool_v1.4.93.zip",
-  "sha256": "12c0af6838ff3c2bfecce91224162227a78c91ed83f7423916da2cb7110a0fcd",
-  "notes": "Fix ChatGPT bo nhanh nhanh nut tai xuong, chi lay anh theo rule Thought for va anh render that",
-  "published_at": "2026-06-17T08:26:09Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.93/FlowTool_FULL_v1.4.93.zip",
-  "full_sha256": "866966b21521a9f730fccffc3f4fac71ae872bf7b89c1102a58b624de3d96d89"
+  "version": "1.4.94",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.94/FlowTool_v1.4.94.zip",
+  "sha256": "97ff85adac11a3cffc57046c6d6b8faaea6229049bd826f3b7a1e43edaace3c2",
+  "notes": "Fix Grok video chi tai 1 lan, bo cac fallback tai lap lai",
+  "published_at": "2026-06-17T08:43:23Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.94/FlowTool_FULL_v1.4.94.zip",
+  "full_sha256": "086b14500d35aafeede0db3a13f52443527de95e4989c454d27b8250c5acf273"
 }
