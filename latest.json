@@ -1,9 +1,9 @@
 {
-  "version": "1.4.83",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.83/FlowTool_v1.4.83.zip",
-  "sha256": "d6e2e43613cd30aaab03c0427057fabad5bc8b248d7d26136487b4f1bde39d92",
-  "notes": "Fix ChatGPT xem nut Stop la dang chay va bo qua anh placeholder chua render xong",
-  "published_at": "2026-06-16T19:09:52Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.83/FlowTool_FULL_v1.4.83.zip",
-  "full_sha256": "0bbbf928067250f590ce8d14cfaca31973fef2f85b3b28e5951e552c77bf9967"
+  "version": "1.4.84",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.84/FlowTool_v1.4.84.zip",
+  "sha256": "4566ccde0e41f1f2c6065f6eeb909ee14917ac0f64c7bf66b409b86a717fcbbc",
+  "notes": "Fix ChatGPT nhan dien loi guardrails som, khong cho timeout 180s",
+  "published_at": "2026-06-17T02:43:10Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.84/FlowTool_FULL_v1.4.84.zip",
+  "full_sha256": "239b4dcb23bcacf3b9dcccd6f78faf7ecf6ae61f3e7f1650f8208ae3e7233ed4"
 }
