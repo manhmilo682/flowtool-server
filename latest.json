@@ -1,9 +1,9 @@
 {
-  "version": "1.4.89",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.89/FlowTool_v1.4.89.zip",
-  "sha256": "1ad0786cece1392d7ad2a3a9f4185a4d4d9657309a7109ccddb6c149bfe526be",
-  "notes": "Fix ChatGPT rut gon dung thong bao quota loi thay vi lay text dau trang",
-  "published_at": "2026-06-17T04:41:54Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.89/FlowTool_FULL_v1.4.89.zip",
-  "full_sha256": "d661610301a11d4afff8c4e17d7fb2bef96f16756a1046b481a0f800b6ac2e89"
+  "version": "1.4.90",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.90/FlowTool_v1.4.90.zip",
+  "sha256": "cb28ffab0081b63566bae63dc8eb4e3904f87f3489b37ea8ff9c2008e4e1a6b3",
+  "notes": "Fix thong bao Luu Anh Vao Slot de chi ro node upstream khong tao duoc anh",
+  "published_at": "2026-06-17T07:19:35Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.90/FlowTool_FULL_v1.4.90.zip",
+  "full_sha256": "fb16078ee1507c11dc8880e81f7b173d2fe7241ef1be7e50cb7fd7f3fc99e5d1"
 }
