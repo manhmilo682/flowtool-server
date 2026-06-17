@@ -1,9 +1,9 @@
 {
-  "version": "1.4.88",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.88/FlowTool_v1.4.88.zip",
-  "sha256": "6dcc634fd0797af7764b15463ac06e9d5c5d3954e85cf65c797646806116f7cd",
-  "notes": "Fix ChatGPT khong nhan nham rate limit tu text sidebar khi dang Creating image",
-  "published_at": "2026-06-17T03:37:26Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.88/FlowTool_FULL_v1.4.88.zip",
-  "full_sha256": "ebc2cfd752dc3895e8e684fd287351367c0637e7a6b08a59869b9e74d0835ac4"
+  "version": "1.4.89",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.89/FlowTool_v1.4.89.zip",
+  "sha256": "1ad0786cece1392d7ad2a3a9f4185a4d4d9657309a7109ccddb6c149bfe526be",
+  "notes": "Fix ChatGPT rut gon dung thong bao quota loi thay vi lay text dau trang",
+  "published_at": "2026-06-17T04:41:54Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.89/FlowTool_FULL_v1.4.89.zip",
+  "full_sha256": "d661610301a11d4afff8c4e17d7fb2bef96f16756a1046b481a0f800b6ac2e89"
 }
