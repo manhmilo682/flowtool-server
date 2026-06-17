@@ -1,9 +1,9 @@
 {
-  "version": "1.4.86",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.86/FlowTool_v1.4.86.zip",
-  "sha256": "3a3a7c1075546f3f280c9e14044f35852d4009bf541a42a31629c40691cb0b85",
-  "notes": "Fix ChatGPT coi Thought for la xong neu anh da render that, van bo qua placeholder",
-  "published_at": "2026-06-17T02:58:18Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.86/FlowTool_FULL_v1.4.86.zip",
-  "full_sha256": "11f6ef66636327e9b1a3226ec29934d3b6dc58ef62ab063af885a84f0814b929"
+  "version": "1.4.87",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.87/FlowTool_v1.4.87.zip",
+  "sha256": "efed04e23d76733b1eb76bfcc8316e702c281be6f0eb8b9fa666a2aeaebb8f46",
+  "notes": "Fix Gemini chap nhan prompt da parse day du sau khi format, khong can marker raw qua gat",
+  "published_at": "2026-06-17T03:20:39Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.87/FlowTool_FULL_v1.4.87.zip",
+  "full_sha256": "5460698c5a61fefb66807bd2f464c0b0d8e5d4ec4d99b84c8a1d327da199b348"
 }
