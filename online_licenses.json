@@ -308,6 +308,19 @@
       "max_devices": 1,
       "allowed_hwids": [],
       "blocked_hwids": []
+    },
+    "MILO-9PI3-IJYO-3X6V": {
+      "customer": "KH_20260623_191559",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 11,
+      "created_at": "2026-06-23T12:16:01.793982Z",
+      "activated_at": "",
+      "expires": "2026-07-04T12:16:01.793982Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
     }
   }
 }
