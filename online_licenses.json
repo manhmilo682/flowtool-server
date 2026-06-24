@@ -176,12 +176,8 @@
       "expires": "2026-05-27T12:43:55.434515Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "A282DA91E779E1CCBB15C1CAC359BD9627DAB7DCED0BAC9DAE21B73983AADFE3"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-06-24T04:36:36.741Z",
-      "last_machine_code": "A282-DA91-E779-E1CC-BB15"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     },
     "MILO-2VIQ-G9UI-U866": {
       "customer": "KH_20260524_224938",
@@ -310,12 +306,8 @@
       "expires": "2026-07-04T12:12:52.130759Z",
       "auto_bind": true,
       "max_devices": 1,
-      "allowed_hwids": [
-        "A282DA91E779E1CCBB15C1CAC359BD9627DAB7DCED0BAC9DAE21B73983AADFE3"
-      ],
-      "blocked_hwids": [],
-      "bound_at": "2026-06-23T12:20:02.421Z",
-      "last_machine_code": "A282-DA91-E779-E1CC-BB15"
+      "allowed_hwids": [],
+      "blocked_hwids": []
     },
     "MILO-9PI3-IJYO-3X6V": {
       "customer": "KH_20260623_191559",
@@ -338,6 +330,19 @@
       "created_at": "2026-06-23T12:19:40.927619Z",
       "activated_at": "",
       "expires": "2026-07-04T12:19:40.927619Z",
+      "auto_bind": true,
+      "max_devices": 1,
+      "allowed_hwids": [],
+      "blocked_hwids": []
+    },
+    "MILO-RPKU-0TLW-4ZC2": {
+      "customer": "KH_20260624_120610",
+      "plan": "premium",
+      "active": true,
+      "duration_days": 11,
+      "created_at": "2026-06-24T05:06:12.769403Z",
+      "activated_at": "",
+      "expires": "2026-07-05T05:06:12.769403Z",
       "auto_bind": true,
       "max_devices": 1,
       "allowed_hwids": [],
