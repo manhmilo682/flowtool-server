@@ -1,9 +1,9 @@
 {
-  "version": "1.4.96",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.96/FlowTool_v1.4.96.zip",
-  "sha256": "1dde94c724693cc693aabf64d3e1f8a4e2816d2d16a7a14193428d6053f5c08f",
-  "notes": "Cap nhat FlowTool",
-  "published_at": "2026-06-24T07:12:42Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.96/FlowTool_FULL_v1.4.96.zip",
-  "full_sha256": "005f601192409b5472f63bc76c35032f644ae1ac3aa8171d54e2eb26d21a2d93"
+  "version": "1.4.97",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.97/FlowTool_v1.4.97.zip",
+  "sha256": "c035d1f6c21acf3e37c7078cde6f7a91277bc16d8922250be17e50af04c93059",
+  "notes": "Sua loi dung hang doi khi thiet bi ADB mat ket noi",
+  "published_at": "2026-06-24T12:07:31Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.97/FlowTool_FULL_v1.4.97.zip",
+  "full_sha256": "1b627fed902d5b6a8a32ad62ff1d5035e0002956a8b3fd08ad3d4e86ac89d5b2"
 }
