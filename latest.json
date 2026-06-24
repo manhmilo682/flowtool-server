@@ -1,9 +1,9 @@
 {
-  "version": "1.4.95",
-  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.95/FlowTool_v1.4.95.zip",
-  "sha256": "d330c50e6cdcf9f5d6893ffe5d3c90c2a323531a30de1bf836d3a1c2282acf4d",
-  "notes": "Fix Gemini Chrome chi nhan prompt video khi du SCENE 1 image prompt va Gemini dung generating",
-  "published_at": "2026-06-17T16:02:15Z",
-  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.95/FlowTool_FULL_v1.4.95.zip",
-  "full_sha256": "c7f16ea8f0b7c6ffef4cb7d438df26e41708fad9cf7f87d58e192310613ab2e7"
+  "version": "1.4.96",
+  "package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.96/FlowTool_v1.4.96.zip",
+  "sha256": "1dde94c724693cc693aabf64d3e1f8a4e2816d2d16a7a14193428d6053f5c08f",
+  "notes": "Cap nhat FlowTool",
+  "published_at": "2026-06-24T07:12:42Z",
+  "full_package_url": "https://github.com/manhmilo682/flowtool-server/releases/download/v1.4.96/FlowTool_FULL_v1.4.96.zip",
+  "full_sha256": "005f601192409b5472f63bc76c35032f644ae1ac3aa8171d54e2eb26d21a2d93"
 }
